@@ -6,7 +6,7 @@
 
 > AI-powered management consultants for public radio stations
 
-A specialized adaptation of the BMAd-Method™ framework designed specifically for public radio station management. This system provides four expert AI agents that can assist with development, marketing, underwriting, and programming decisions.
+A specialized adaptation of the [BMAd-Method™](https://github.com/bmad-code-org/BMAD-METHOD/tree/main) framework designed specifically for public radio station management. This system provides four expert AI agents that can assist with development, marketing, underwriting, and programming decisions.
 
 ## 🎯 What This System Does
 
