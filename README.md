@@ -1,3 +1,7 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![GitHub stars](https://img.shields.io/github/stars/yourusername/public-radio-agents)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/public-radio-agents)
+
 # Public Radio Agents 📻
 
 > AI-powered management consultants for public radio stations
