@@ -1,6 +1,6 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/public-radio-agents)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/public-radio-agents)
+![GitHub stars](https://img.shields.io/github/stars/tmoody1973/public-radio-agents)
+![GitHub forks](https://img.shields.io/github/forks/tmoody1973/public-radio-agents)
 
 # Public Radio Agents 📻
 
