@@ -6,7 +6,7 @@
 
 > AI-powered management consultants for public radio stations
 
-A specialized adaptation of the [BMAd-Method™](https://github.com/bmad-code-org/BMAD-METHOD/tree/main) framework designed specifically for public radio station management. This system provides four expert AI agents that can assist with development, marketing, underwriting, and programming decisions.
+A specialized adaptation of the BMAd-Method™ framework designed specifically for public radio station management. This system provides four expert AI agents that can assist with development, marketing, underwriting, and programming decisions.
 
 ## 🎯 What This System Does
 
@@ -16,6 +16,25 @@ Transform any Large Language Model (ChatGPT, Claude, Gemini, etc.) into a team o
 - **Marketing Director** 📢 - Audience development, brand management, digital marketing  
 - **Underwriting Director** 🤝 - Corporate partnerships, sponsorship sales, business development
 - **Program Director** 🎙️ - Programming strategy, content development, talent management
+
+## ⚡ Enhanced with MCP Integration
+
+**Take it to the next level**: Connect your agents to real station data using Model Context Protocol (MCP)
+
+**Basic Mode**: General advice based on public radio best practices
+**MCP Mode**: Data-driven recommendations using your actual station information
+
+### What MCP Enables
+- **Real Data Analysis**: Connect to donor databases, financial reports, audience metrics
+- **Document Access**: Analyze past campaigns, grant applications, strategic plans
+- **Live Research**: Real-time sponsor research and competitive analysis
+- **Automated Insights**: Generate reports using your actual performance data
+
+### Example Transformation
+**Without MCP**: *"Based on industry standards, focus on donor retention"*
+**With MCP**: *"Your database shows 127 lapsed donors from 2023 who gave $50+. Here's a specific re-engagement strategy for each segment."*
+
+[**→ Complete MCP Setup Guide**](docs/mcp-integration.md) - Connect your station's data in 30 minutes
 
 ## 🚀 Quick Start
 
@@ -65,6 +84,7 @@ This system works with any chat-based Large Language Model:
 - [Agent Reference](docs/agent-reference.md) - Detailed agent capabilities
 - [Workflow Guide](docs/workflows.md) - Pre-built processes and templates
 - [Customization Guide](docs/customization.md) - Adapt the system to your needs
+- [MCP Integration Guide](docs/mcp-integration.md) - Connect your station's data for enhanced insights
 
 ## 🤝 Contributing
 
