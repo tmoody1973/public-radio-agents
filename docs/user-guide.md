@@ -14,7 +14,7 @@
 
 ## System Overview
 
-The Public Radio BMAd Agents system transforms any Large Language Model into a team of specialized public radio management consultants. The system is built on the BMAd-Method™ framework and adapted specifically for public radio operations.
+The Public Radio Agents system transforms any Large Language Model into a team of specialized public radio management consultants. The system is built on the BMAd-Method™ framework and adapted specifically for public radio operations.
 
 ### Core Components
 
