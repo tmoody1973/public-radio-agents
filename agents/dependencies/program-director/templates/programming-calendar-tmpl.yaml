@@ -1,0 +1,438 @@
+# Programming Calendar Template
+
+calendar_overview:
+  calendar_name: ""
+  calendar_period: ""  # annual, seasonal, quarterly, special_event
+  start_date: ""
+  end_date: ""
+  programming_focus: ""
+  community_priorities: []
+  mission_alignment_goals: []
+  target_audience_considerations: []
+
+strategic_programming_framework:
+  programming_philosophy:
+    mission_driven_scheduling: ""
+    community_service_priorities: []
+    audience_development_strategy: ""
+    cultural_responsiveness_approach: ""
+    educational_value_integration: ""
+    accessibility_and_inclusion_emphasis: ""
+    
+  seasonal_programming_considerations:
+    - season_period: ""  # spring, summer, fall, winter, special_periods
+      community_activities_and_events: []
+      audience_behavior_patterns: []
+      programming_opportunities: []
+      cultural_celebrations: []
+      educational_calendar_integration: []
+      weather_and_seasonal_impacts: []
+      
+  community_calendar_integration:
+    local_government_schedules: []
+    educational_institution_calendars: []
+    cultural_organization_events: []
+    community_festivals_and_celebrations: []
+    religious_and_cultural_observances: []
+    seasonal_community_activities: []
+
+daily_programming_structure:
+  weekday_programming:
+    - time_slot: ""  # 6am_9am, 9am_12pm, 12pm_3pm, 3pm_6pm, 6pm_9pm, 9pm_12am
+      program_type: ""  # news_magazine, music_show, interview_series, community_affairs
+      program_name: ""
+      target_audience: ""
+      community_service_focus: []
+      host_requirements: []
+      content_priorities: []
+      local_integration_opportunities: []
+      
+  weekend_programming:
+    saturday_schedule:
+      - time_slot: ""
+        program_type: ""
+        program_name: ""
+        target_audience: ""
+        community_focus: []
+        special_programming_elements: []
+        
+    sunday_schedule:
+      - time_slot: ""
+        program_type: ""
+        program_name: ""
+        target_audience: ""
+        community_focus: []
+        cultural_or_religious_considerations: []
+
+weekly_programming_themes:
+  weekly_content_focus:
+    monday_theme: ""
+    tuesday_theme: ""
+    wednesday_theme: ""
+    thursday_theme: ""
+    friday_theme: ""
+    saturday_theme: ""
+    sunday_theme: ""
+    
+  recurring_weekly_features:
+    - feature_name: ""
+      feature_description: ""
+      frequency: ""  # weekly, bi_weekly, monthly
+      day_and_time: ""
+      community_focus: []
+      production_requirements: []
+      community_participation_opportunities: []
+
+special_programming_and_events:
+  community_event_programming:
+    - event_name: ""
+      event_dates: ""
+      programming_response: []
+      coverage_strategy: []
+      community_partnership: []
+      audience_engagement_approach: []
+      resource_requirements: []
+      
+  seasonal_special_programming:
+    - special_program: ""
+      program_period: ""
+      programming_objectives: []
+      target_audience: ""
+      community_integration: []
+      production_complexity: ""
+      success_metrics: []
+      
+  live_broadcast_events:
+    - event_type: ""  # community_meetings, concerts, festivals, forums
+      event_schedule: []
+      technical_requirements: []
+      staff_assignments: []
+      community_coordination: []
+      backup_programming: []
+
+news_and_information_programming:
+  daily_news_schedule:
+    - news_program: ""
+      broadcast_times: []
+      content_focus: []
+      local_vs_national_balance: ""
+      community_information_priorities: []
+      host_and_production_requirements: []
+      
+  weekly_information_programming:
+    - program_name: ""
+      program_focus: ""  # local_government, community_issues, business, culture
+      broadcast_day_and_time: ""
+      content_approach: []
+      community_expert_integration: []
+      audience_engagement_strategies: []
+      
+  breaking_news_and_emergency_programming:
+    emergency_broadcast_protocols: []
+    breaking_news_interruption_procedures: []
+    community_emergency_information: []
+    weather_and_safety_programming: []
+    crisis_communication_strategies: []
+
+music_programming_schedule:
+  daily_music_programming:
+    - music_program: ""
+      program_times: []
+      music_format: ""  # classical, jazz, world, eclectic, folk
+      target_audience: ""
+      educational_integration: []
+      local_music_inclusion: []
+      community_event_promotion: []
+      
+  specialty_music_programming:
+    - specialty_show: ""
+      broadcast_schedule: ""
+      music_focus: []
+      community_cultural_connection: []
+      host_expertise_requirements: []
+      audience_development_goals: []
+      
+  live_music_integration:
+    in_studio_performances: []
+    remote_broadcast_concerts: []
+    music_festival_coverage: []
+    local_artist_showcases: []
+    community_venue_partnerships: []
+
+interview_and_discussion_programming:
+  regular_interview_programs:
+    - program_name: ""
+      interview_focus: ""  # community_leaders, experts, artists, residents
+      broadcast_schedule: ""
+      guest_selection_criteria: []
+      community_representation_goals: []
+      preparation_and_research_requirements: []
+      
+  community_dialogue_programming:
+    - dialogue_program: ""
+      discussion_topics: []
+      community_participation_format: []
+      facilitation_approach: []
+      cultural_sensitivity_considerations: []
+      conflict_resolution_protocols: []
+      
+  call_in_and_interactive_programming:
+    - interactive_show: ""
+      participation_format: []
+      topic_focus: []
+      community_engagement_goals: []
+      screening_and_moderation: []
+      accessibility_accommodations: []
+
+educational_and_cultural_programming:
+  educational_programming_blocks:
+    - educational_focus: ""  # history, science, arts, civic_education, language
+      program_schedule: ""
+      target_learning_outcomes: []
+      community_expert_involvement: []
+      accessibility_and_inclusion: []
+      follow_up_resources: []
+      
+  cultural_programming:
+    - cultural_program: ""
+      cultural_community_focus: []
+      programming_approach: []
+      community_participation: []
+      cultural_sensitivity_protocols: []
+      intergenerational_connection: []
+      
+  children_and_family_programming:
+    - family_program: ""
+      target_age_groups: []
+      educational_objectives: []
+      family_engagement_strategies: []
+      safety_and_appropriateness: []
+      community_family_resource_integration: []
+
+community_engagement_programming:
+  community_spotlight_programming:
+    - spotlight_program: ""
+      community_focus: []
+      frequency: ""
+      selection_criteria: []
+      community_involvement: []
+      storytelling_approach: []
+      
+  volunteer_and_community_contributor_programming:
+    - community_contributor_program: ""
+      volunteer_role_description: []
+      training_and_support: []
+      community_representation: []
+      content_contribution_guidelines: []
+      recognition_and_appreciation: []
+      
+  community_service_programming:
+    - service_program: ""
+      community_service_focus: []
+      partnership_organizations: []
+      volunteer_opportunity_promotion: []
+      impact_measurement: []
+      ongoing_community_support: []
+
+digital_and_multiplatform_programming:
+  podcast_programming_schedule:
+    - podcast_program: ""
+      podcast_focus: []
+      release_schedule: ""
+      relationship_to_broadcast_programming: []
+      target_audience: []
+      distribution_strategy: []
+      
+  streaming_and_on_demand_programming:
+    live_streaming_schedule: []
+    on_demand_content_availability: []
+    mobile_accessibility_optimization: []
+    social_media_integration: []
+    community_interaction_platforms: []
+    
+  digital_exclusive_programming:
+    - digital_program: ""
+      platform: ""  # website, social_media, app
+      content_format: []
+      community_engagement_approach: []
+      accessibility_features: []
+      cross_platform_promotion: []
+
+programming_production_and_logistics:
+  production_scheduling:
+    - program_category: ""  # live, recorded, remote, studio
+      production_timeline: []
+      staff_assignments: []
+      equipment_requirements: []
+      quality_control_procedures: []
+      backup_and_contingency_plans: []
+      
+  staff_scheduling_and_coordination:
+    - staff_role: ""  # hosts, producers, technical_staff, community_liaisons
+      schedule_responsibilities: []
+      coverage_and_backup: []
+      training_and_development_time: []
+      community_engagement_activities: []
+      professional_development: []
+      
+  remote_and_community_broadcast_planning:
+    - remote_broadcast: ""
+      location_and_community_event: ""
+      technical_setup_requirements: []
+      staff_and_volunteer_coordination: []
+      community_partnership: []
+      audience_engagement_activities: []
+
+audience_development_and_engagement:
+  targeted_programming_for_audience_growth:
+    - target_audience_segment: ""
+      programming_adaptations: []
+      outreach_strategies: []
+      community_partnership_development: []
+      accessibility_accommodations: []
+      cultural_responsiveness: []
+      
+  seasonal_audience_engagement:
+    - season_or_period: ""
+      audience_behavior_patterns: []
+      programming_adjustments: []
+      community_event_integration: []
+      promotional_opportunities: []
+      retention_strategies: []
+      
+  community_feedback_integration:
+    feedback_collection_schedule: []
+    programming_adjustment_protocols: []
+    community_advisory_involvement: []
+    transparent_communication: []
+    celebration_of_community_input: []
+
+performance_measurement_and_evaluation:
+  programming_performance_metrics:
+    - metric_category: ""  # audience_engagement, community_impact, production_quality
+      measurement_schedule: ""
+      specific_indicators: []
+      target_performance: []
+      improvement_strategies: []
+      community_benefit_assessment: []
+      
+  community_impact_tracking:
+    - impact_area: ""  # information_access, cultural_preservation, civic_engagement
+      measurement_methods: []
+      community_feedback_integration: []
+      long_term_impact_indicators: []
+      success_celebration: []
+      
+  programming_quality_assessment:
+    content_quality_evaluation: []
+    host_performance_assessment: []
+    technical_production_review: []
+    community_service_effectiveness: []
+    mission_alignment_verification: []
+
+resource_allocation_and_budgeting:
+  programming_resource_distribution:
+    - program_category: ""  # news, music, community_affairs, special_programming
+      resource_percentage: 0
+      staff_allocation: []
+      equipment_needs: []
+      community_outreach_budget: 0
+      training_and_development: 0
+      
+  seasonal_resource_planning:
+    - season_period: ""
+      resource_adjustments: []
+      special_programming_needs: []
+      community_engagement_budget: 0
+      equipment_maintenance: []
+      staff_development_priorities: []
+      
+  community_partnership_resource_sharing:
+    - partnership_type: ""
+      shared_resources: []
+      mutual_benefit_calculation: []
+      cost_savings_potential: []
+      community_impact_enhancement: []
+      sustainability_considerations: []
+
+crisis_management_and_emergency_programming:
+  emergency_programming_protocols:
+    - emergency_type: ""  # weather, public_safety, community_crisis
+      programming_response: []
+      information_verification: []
+      community_coordination: []
+      staff_safety_procedures: []
+      service_continuity: []
+      
+  controversial_issue_programming:
+    balanced_coverage_approach: []
+    community_dialogue_facilitation: []
+    cultural_sensitivity_protocols: []
+    stakeholder_communication: []
+    conflict_resolution_procedures: []
+    
+  programming_disruption_management:
+    technical_failure_backup: []
+    staff_unavailability_coverage: []
+    community_event_conflict_resolution: []
+    budget_shortfall_adjustments: []
+    emergency_content_preparation: []
+
+innovation_and_continuous_improvement:
+  programming_innovation_opportunities:
+    - innovation_area: ""  # format_development, technology_integration, community_engagement
+      experimentation_approach: []
+      community_feedback_integration: []
+      risk_assessment: []
+      success_measurement: []
+      scaling_potential: []
+      
+  community_responsive_programming_development:
+    emerging_community_needs: []
+    programming_format_adaptation: []
+    technology_advancement_integration: []
+    partnership_innovation: []
+    accessibility_enhancement: []
+    
+  continuous_improvement_processes:
+    regular_programming_review: []
+    community_feedback_integration: []
+    best_practice_research: []
+    staff_development_integration: []
+    mission_alignment_optimization: []
+
+compliance_and_regulatory_considerations:
+  fcc_compliance_scheduling:
+    equal_time_requirements: []
+    community_ascertainment_integration: []
+    emergency_alert_system: []
+    public_file_documentation: []
+    accessibility_compliance: []
+    
+  cpb_requirement_integration:
+    community_service_programming: []
+    local_content_quotas: []
+    diversity_and_inclusion: []
+    transparency_and_accountability: []
+    mission_fulfillment_documentation: []
+    
+  ethical_programming_standards:
+    editorial_independence: []
+    community_respect_and_sensitivity: []
+    accuracy_and_fact_checking: []
+    conflict_of_interest_management: []
+    community_benefit_prioritization: []
+
+notes:
+  community_specific_programming_needs: []
+  cultural_sensitivity_considerations: []
+  accessibility_priorities: []
+  partnership_development_opportunities: []
+  seasonal_adaptation_requirements: []
+  innovation_and_experimentation_areas: []
+
+approval_signatures:
+  - name: ""
+    title: ""
+    date: ""
+    signature: ""

@@ -1,0 +1,314 @@
+# Brand Strategy Template
+
+brand_foundation:
+  mission_statement: ""
+  vision_statement: ""
+  core_values: []
+  brand_purpose: ""
+  organizational_history: ""
+  community_role: ""
+  
+brand_positioning:
+  target_audience:
+    primary_segments:
+      - segment_name: ""
+        demographics: ""
+        psychographics: ""
+        size_estimate: 0
+        growth_potential: ""
+        media_consumption: []
+        engagement_preferences: []
+    
+    secondary_segments:
+      - segment_name: ""
+        demographics: ""
+        psychographics: ""
+        size_estimate: 0
+        growth_potential: ""
+        media_consumption: []
+        engagement_preferences: []
+  
+  competitive_landscape:
+    direct_competitors:
+      - name: ""
+        strengths: []
+        weaknesses: []
+        positioning: ""
+        audience_overlap: ""
+    
+    indirect_competitors:
+      - name: ""
+        strengths: []
+        weaknesses: []
+        positioning: ""
+        audience_overlap: ""
+    
+    market_opportunities: []
+    competitive_advantages: []
+  
+  unique_value_proposition:
+    primary_differentiator: ""
+    supporting_benefits: []
+    proof_points: []
+    emotional_appeal: ""
+  
+  brand_personality:
+    primary_traits: []
+    secondary_traits: []
+    personality_expression: ""
+    brand_archetype: ""
+
+brand_messaging:
+  key_messages:
+    primary_message: ""
+    supporting_messages: []
+    proof_statements: []
+    call_to_action: ""
+  
+  messaging_framework:
+    mission_focused: ""
+    community_centered: ""
+    quality_emphasis: ""
+    accessibility_message: ""
+    trust_building: ""
+  
+  tone_of_voice:
+    voice_characteristics: []
+    communication_style: ""
+    language_guidelines: []
+    tone_variations:
+      formal_occasions: ""
+      casual_interactions: ""
+      crisis_communications: ""
+      celebration_moments: ""
+  
+  storytelling_strategy:
+    core_narratives: []
+    story_themes: []
+    protagonist_types: []
+    message_delivery: []
+
+visual_identity:
+  logo_guidelines:
+    primary_logo: ""
+    logo_variations: []
+    minimum_sizes: ""
+    clear_space: ""
+    usage_restrictions: []
+  
+  color_palette:
+    primary_colors:
+      - color_name: ""
+        hex_code: ""
+        usage_guidelines: ""
+        emotional_association: ""
+    
+    secondary_colors:
+      - color_name: ""
+        hex_code: ""
+        usage_guidelines: ""
+        emotional_association: ""
+    
+    accent_colors:
+      - color_name: ""
+        hex_code: ""
+        usage_guidelines: ""
+        emotional_association: ""
+  
+  typography:
+    primary_font:
+      font_name: ""
+      usage: ""
+      weights_available: []
+      accessibility_notes: ""
+    
+    secondary_font:
+      font_name: ""
+      usage: ""
+      weights_available: []
+      accessibility_notes: ""
+    
+    web_fonts:
+      primary: ""
+      fallback: []
+  
+  imagery_style:
+    photography_style: ""
+    image_guidelines: []
+    illustration_approach: ""
+    graphic_elements: []
+    usage_restrictions: []
+
+brand_application:
+  website_strategy:
+    homepage_priorities: []
+    navigation_structure: []
+    content_organization: ""
+    user_experience_goals: []
+    mobile_considerations: []
+  
+  social_media_guidelines:
+    platform_adaptations:
+      facebook:
+        tone: ""
+        content_types: []
+        posting_frequency: ""
+        visual_guidelines: []
+      
+      twitter:
+        tone: ""
+        content_types: []
+        posting_frequency: ""
+        visual_guidelines: []
+      
+      instagram:
+        tone: ""
+        content_types: []
+        posting_frequency: ""
+        visual_guidelines: []
+      
+      linkedin:
+        tone: ""
+        content_types: []
+        posting_frequency: ""
+        visual_guidelines: []
+    
+    hashtag_strategy: []
+    community_management: ""
+  
+  print_materials:
+    brochure_guidelines: []
+    newsletter_design: []
+    advertisement_standards: []
+    business_card_requirements: []
+    signage_specifications: []
+  
+  on_air_presentation:
+    station_identification: ""
+    program_branding: []
+    promotional_announcements: ""
+    sponsor_acknowledgment: ""
+    voice_talent_guidelines: []
+  
+  merchandise_standards:
+    product_categories: []
+    quality_requirements: []
+    brand_application: []
+    vendor_guidelines: []
+
+brand_governance:
+  brand_standards:
+    approval_process: ""
+    quality_control: []
+    usage_monitoring: ""
+    violation_consequences: []
+  
+  staff_training:
+    brand_education: []
+    implementation_training: []
+    ongoing_support: ""
+    resource_accessibility: []
+  
+  partner_guidelines:
+    co_branding_standards: []
+    sponsor_brand_integration: []
+    community_partner_guidelines: []
+    vendor_brand_requirements: []
+
+implementation_plan:
+  rollout_phases:
+    - phase_name: ""
+      timeline: ""
+      deliverables: []
+      responsible_parties: []
+      success_metrics: []
+  
+  asset_development:
+    priority_materials:
+      - material_type: ""
+        timeline: ""
+        budget_estimate: 0
+        responsible_party: ""
+        approval_process: ""
+    
+    secondary_materials:
+      - material_type: ""
+        timeline: ""
+        budget_estimate: 0
+        responsible_party: ""
+        approval_process: ""
+  
+  staff_education:
+    training_schedule: []
+    resource_distribution: ""
+    feedback_collection: ""
+    ongoing_support: ""
+  
+  community_introduction:
+    announcement_strategy: []
+    stakeholder_communication: ""
+    media_introduction: []
+    community_feedback: ""
+
+performance_monitoring:
+  brand_awareness:
+    measurement_methods: []
+    tracking_frequency: ""
+    target_metrics: []
+    reporting_schedule: ""
+  
+  brand_perception:
+    research_methods: []
+    key_attributes: []
+    benchmarking: ""
+    improvement_indicators: []
+  
+  implementation_success:
+    consistency_audits: []
+    staff_compliance: []
+    partner_adherence: []
+    community_response: []
+  
+  continuous_improvement:
+    review_schedule: ""
+    update_triggers: []
+    stakeholder_input: []
+    evolution_planning: ""
+
+budget_allocation:
+  development_costs:
+    design_services: 0
+    photography: 0
+    copywriting: 0
+    consultation: 0
+    legal_review: 0
+  
+  implementation_costs:
+    website_updates: 0
+    print_materials: 0
+    signage_updates: 0
+    staff_training: 0
+    launch_campaign: 0
+  
+  ongoing_costs:
+    brand_monitoring: 0
+    annual_updates: 0
+    staff_education: 0
+    asset_maintenance: 0
+    performance_tracking: 0
+  
+  total_investment: 0
+  roi_projections: []
+
+notes:
+  brand_evolution: ""
+  future_considerations: []
+  stakeholder_input: []
+  approval_requirements: []
+  implementation_challenges: []
+
+approval_signatures:
+  - name: ""
+    title: ""
+    date: ""
+    signature: ""

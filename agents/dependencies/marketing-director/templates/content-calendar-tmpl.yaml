@@ -1,0 +1,466 @@
+# Content Calendar Template
+
+calendar_overview:
+  calendar_name: ""
+  calendar_period: "" # quarterly, annual, campaign_specific, event_based
+  start_date: ""
+  end_date: ""
+  primary_objectives: []
+  target_audiences: []
+  key_themes: []
+  brand_alignment: ""
+  
+strategic_framework:
+  content_pillars:
+    - pillar_name: ""
+      description: ""
+      percentage_allocation: 0
+      target_audience: ""
+      content_types: []
+      key_messages: []
+      success_metrics: []
+  
+  seasonal_considerations:
+    - season_period: ""
+      community_events: []
+      programming_changes: []
+      audience_behaviors: []
+      content_opportunities: []
+      resource_availability: []
+  
+  campaign_integration:
+    - campaign_name: ""
+      campaign_dates: ""
+      content_requirements: []
+      messaging_priorities: []
+      channel_focus: []
+      success_metrics: []
+
+content_categories:
+  programming_content:
+    program_promotion:
+      - program_name: ""
+        content_frequency: ""
+        content_types: []
+        key_messages: []
+        target_platforms: []
+        audience_focus: ""
+    
+    special_programming:
+      - event_name: ""
+        promotion_timeline: ""
+        content_sequence: []
+        cross_platform_integration: []
+        community_engagement: []
+  
+  community_content:
+    local_news_coverage:
+      frequency: ""
+      content_types: []
+      sources: []
+      approval_process: ""
+      community_input: []
+    
+    community_spotlights:
+      - spotlight_type: ""
+        frequency: ""
+        selection_criteria: []
+        content_format: []
+        community_involvement: []
+    
+    event_coverage:
+      - event_category: ""
+        coverage_approach: []
+        content_timeline: []
+        partnership_opportunities: []
+  
+  educational_content:
+    behind_the_scenes:
+      frequency: ""
+      content_focus: []
+      production_requirements: []
+      staff_involvement: []
+    
+    industry_insights:
+      frequency: ""
+      topics: []
+      expert_sources: []
+      educational_value: []
+    
+    listener_education:
+      frequency: ""
+      topics: []
+      format_options: []
+      engagement_strategies: []
+  
+  engagement_content:
+    interactive_content:
+      - content_type: ""
+        frequency: ""
+        engagement_goals: []
+        platform_optimization: []
+        response_management: ""
+    
+    user_generated_content:
+      - ugc_type: ""
+        encouragement_strategy: []
+        curation_process: ""
+        usage_rights: ""
+        recognition_approach: []
+
+platform_specific_planning:
+  website_content:
+    content_types:
+      - type: ""
+        frequency: ""
+        word_count_range: ""
+        seo_considerations: []
+        multimedia_requirements: []
+        author_assignments: []
+    
+    editorial_calendar:
+      - publication_date: ""
+        content_title: ""
+        content_type: ""
+        author: ""
+        approval_deadline: ""
+        seo_keywords: []
+        promotion_plan: []
+  
+  social_media_content:
+    facebook:
+      posting_frequency: ""
+      content_mix:
+        - content_type: ""
+          percentage: 0
+          posting_times: []
+          engagement_goals: []
+          visual_requirements: []
+      
+      weekly_themes:
+        monday: ""
+        tuesday: ""
+        wednesday: ""
+        thursday: ""
+        friday: ""
+        saturday: ""
+        sunday: ""
+    
+    twitter:
+      posting_frequency: ""
+      content_mix:
+        - content_type: ""
+          percentage: 0
+          posting_times: []
+          engagement_goals: []
+          character_limits: []
+      
+      hashtag_strategy: []
+      engagement_approach: ""
+      real_time_opportunities: []
+    
+    instagram:
+      posting_frequency: ""
+      content_mix:
+        - content_type: ""
+          percentage: 0
+          posting_times: []
+          visual_requirements: []
+          story_integration: []
+      
+      visual_themes: []
+      caption_style: ""
+      user_engagement: []
+    
+    linkedin:
+      posting_frequency: ""
+      content_focus: []
+      professional_messaging: []
+      industry_engagement: []
+  
+  email_marketing:
+    newsletter_content:
+      frequency: ""
+      sections:
+        - section_name: ""
+          content_focus: []
+          word_count: ""
+          visual_elements: []
+          call_to_action: ""
+      
+      seasonal_variations: []
+      personalization_elements: []
+      mobile_optimization: []
+    
+    promotional_emails:
+      - campaign_type: ""
+        frequency: ""
+        content_requirements: []
+        design_specifications: []
+        testing_protocols: []
+
+content_production_workflow:
+  planning_phase:
+    content_ideation:
+      brainstorming_sessions: ""
+      idea_evaluation_criteria: []
+      stakeholder_input: ""
+      approval_process: ""
+    
+    editorial_meetings:
+      frequency: ""
+      participants: []
+      agenda_items: []
+      decision_authority: ""
+      documentation: ""
+  
+  creation_phase:
+    content_development:
+      - content_type: ""
+        development_timeline: ""
+        responsible_parties: []
+        resource_requirements: []
+        quality_standards: []
+        review_checkpoints: []
+    
+    asset_creation:
+      photography_needs: []
+      graphic_design: []
+      video_production: []
+      audio_elements: []
+      multimedia_integration: []
+  
+  approval_process:
+    review_stages:
+      - stage: ""
+        reviewer: ""
+        review_criteria: []
+        timeline: ""
+        approval_authority: ""
+        feedback_integration: ""
+    
+    legal_compliance:
+      content_guidelines: []
+      copyright_clearance: ""
+      privacy_considerations: []
+      accessibility_requirements: []
+  
+  publication_workflow:
+    scheduling_process: ""
+    cross_platform_coordination: []
+    quality_assurance: []
+    backup_procedures: []
+    performance_monitoring: ""
+
+resource_allocation:
+  staffing_requirements:
+    content_creators:
+      - role: ""
+        content_responsibilities: []
+        time_allocation: ""
+        skill_requirements: []
+        workload_distribution: []
+    
+    editorial_oversight:
+      - role: ""
+        oversight_responsibilities: []
+        decision_authority: []
+        quality_control: []
+        stakeholder_communication: []
+  
+  external_resources:
+    freelance_contributors:
+      - contributor_type: ""
+        content_areas: []
+        budget_allocation: 0
+        quality_standards: []
+        payment_terms: ""
+    
+    vendor_services:
+      - service_type: ""
+        provider: ""
+        cost_estimate: 0
+        service_level: []
+        deliverable_timeline: ""
+  
+  technology_requirements:
+    content_management: []
+    design_software: []
+    collaboration_tools: []
+    analytics_platforms: []
+    scheduling_tools: []
+
+performance_measurement:
+  content_analytics:
+    website_metrics:
+      - metric: ""
+        measurement_tool: ""
+        reporting_frequency: ""
+        target_performance: ""
+        optimization_triggers: []
+    
+    social_media_metrics:
+      - platform: ""
+        key_metrics: []
+        measurement_tools: []
+        reporting_frequency: ""
+        performance_targets: []
+    
+    email_metrics:
+      - metric_category: ""
+        specific_metrics: []
+        measurement_frequency: ""
+        benchmark_comparisons: []
+        improvement_indicators: []
+  
+  audience_engagement:
+    engagement_quality:
+      comment_analysis: ""
+      share_patterns: []
+      time_on_content: ""
+      return_visitor_behavior: ""
+    
+    community_building:
+      follower_growth: []
+      community_interaction: []
+      brand_mentions: []
+      user_generated_content: []
+  
+  content_effectiveness:
+    high_performing_content:
+      identification_methods: []
+      success_factors: []
+      replication_strategies: []
+      optimization_opportunities: []
+    
+    underperforming_content:
+      identification_criteria: []
+      failure_analysis: []
+      improvement_strategies: []
+      discontinuation_decisions: []
+
+calendar_management:
+  scheduling_tools:
+    primary_platform: ""
+    backup_systems: []
+    integration_requirements: []
+    access_permissions: []
+    collaboration_features: []
+  
+  content_pipeline:
+    content_stages:
+      - stage: ""
+        duration: ""
+        responsible_party: ""
+        deliverables: []
+        quality_checkpoints: []
+    
+    workflow_optimization:
+      bottleneck_identification: []
+      process_improvements: []
+      automation_opportunities: []
+      efficiency_measures: []
+  
+  crisis_management:
+    emergency_protocols: []
+    content_substitution: []
+    approval_expediting: []
+    stakeholder_communication: []
+    recovery_procedures: []
+
+seasonal_planning:
+  quarterly_themes:
+    q1_focus:
+      themes: []
+      major_events: []
+      programming_highlights: []
+      community_priorities: []
+      content_opportunities: []
+    
+    q2_focus:
+      themes: []
+      major_events: []
+      programming_highlights: []
+      community_priorities: []
+      content_opportunities: []
+    
+    q3_focus:
+      themes: []
+      major_events: []
+      programming_highlights: []
+      community_priorities: []
+      content_opportunities: []
+    
+    q4_focus:
+      themes: []
+      major_events: []
+      programming_highlights: []
+      community_priorities: []
+      content_opportunities: []
+  
+  special_events:
+    - event_name: ""
+      event_dates: ""
+      content_timeline: []
+      promotional_strategy: []
+      cross_platform_integration: []
+      success_metrics: []
+
+budget_considerations:
+  content_production:
+    internal_costs:
+      staff_time: 0
+      equipment_usage: 0
+      software_licenses: 0
+      training_expenses: 0
+    
+    external_costs:
+      freelancer_fees: 0
+      vendor_services: 0
+      stock_photography: 0
+      software_subscriptions: 0
+      promotional_costs: 0
+  
+  platform_maintenance:
+    hosting_costs: 0
+    platform_fees: 0
+    advertising_spend: 0
+    analytics_tools: 0
+    automation_services: 0
+  
+  total_budget: 0
+  cost_per_content_piece: 0
+  roi_projections: []
+
+quality_assurance:
+  content_standards:
+    editorial_guidelines: []
+    brand_compliance: []
+    accuracy_requirements: []
+    accessibility_standards: []
+    legal_compliance: []
+  
+  review_processes:
+    peer_review: []
+    editorial_review: []
+    stakeholder_approval: []
+    final_quality_check: []
+  
+  continuous_improvement:
+    feedback_integration: []
+    best_practice_documentation: []
+    training_updates: []
+    process_refinement: []
+
+notes:
+  content_inspiration: []
+  stakeholder_requirements: []
+  technical_considerations: []
+  community_feedback: []
+  future_opportunities: []
+
+approval_signatures:
+  - name: ""
+    title: ""
+    date: ""
+    signature: ""

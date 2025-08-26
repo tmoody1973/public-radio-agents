@@ -1,0 +1,584 @@
+# Promotional Campaign Template
+
+campaign_overview:
+  campaign_name: ""
+  campaign_type: "" # program_launch, special_event, membership_drive, brand_awareness, community_engagement
+  campaign_objectives: []
+  target_launch_date: ""
+  campaign_duration: ""
+  total_budget: 0
+  success_metrics: []
+  campaign_theme: ""
+  
+campaign_objectives:
+  primary_goals:
+    - goal: ""
+      target_metric: 0
+      measurement_method: ""
+      timeline: ""
+      success_criteria: []
+  
+  secondary_goals:
+    - goal: ""
+      target_metric: 0
+      measurement_method: ""
+      timeline: ""
+      success_criteria: []
+  
+  brand_objectives:
+    awareness_goals: []
+    perception_goals: []
+    engagement_goals: []
+    loyalty_goals: []
+  
+  business_objectives:
+    audience_growth: 0
+    membership_targets: 0
+    event_attendance: 0
+    community_engagement: 0
+    revenue_impact: 0
+
+target_audience_analysis:
+  primary_audience:
+    demographics:
+      age_range: ""
+      gender_distribution: ""
+      income_level: ""
+      education_level: ""
+      geographic_location: []
+    
+    psychographics:
+      lifestyle_interests: []
+      values_priorities: []
+      media_consumption: []
+      communication_preferences: []
+      motivations: []
+    
+    behavioral_characteristics:
+      listening_habits: []
+      engagement_patterns: []
+      donation_history: []
+      event_participation: []
+      social_media_usage: []
+  
+  secondary_audience:
+    demographics:
+      age_range: ""
+      gender_distribution: ""
+      income_level: ""
+      education_level: ""
+      geographic_location: []
+    
+    psychographics:
+      lifestyle_interests: []
+      values_priorities: []
+      media_consumption: []
+      communication_preferences: []
+      motivations: []
+    
+    behavioral_characteristics:
+      listening_habits: []
+      engagement_patterns: []
+      donation_history: []
+      event_participation: []
+      social_media_usage: []
+  
+  audience_insights:
+    pain_points: []
+    unmet_needs: []
+    decision_triggers: []
+    barriers_to_action: []
+    preferred_messaging: []
+
+campaign_messaging:
+  core_message_strategy:
+    primary_message: ""
+    supporting_messages: []
+    unique_value_proposition: ""
+    emotional_appeal: ""
+    rational_benefits: []
+  
+  message_hierarchy:
+    headline_messages: []
+    supporting_points: []
+    proof_elements: []
+    call_to_action: ""
+    urgency_elements: []
+  
+  tone_and_voice:
+    brand_voice_adaptation: ""
+    communication_style: ""
+    personality_traits: []
+    language_guidelines: []
+    cultural_sensitivity: []
+  
+  storytelling_approach:
+    narrative_structure: ""
+    key_characters: []
+    conflict_resolution: ""
+    emotional_journey: []
+    community_connection: ""
+
+creative_strategy:
+  creative_concept:
+    big_idea: ""
+    creative_execution: ""
+    visual_style: ""
+    design_principles: []
+    brand_integration: ""
+  
+  creative_elements:
+    color_palette: []
+    typography: []
+    imagery_style: ""
+    graphic_elements: []
+    multimedia_approach: []
+  
+  campaign_tagline:
+    primary_tagline: ""
+    alternative_options: []
+    usage_guidelines: []
+    adaptation_rules: []
+  
+  visual_identity:
+    logo_treatment: ""
+    brand_consistency: []
+    campaign_specific_elements: []
+    style_guide_updates: []
+
+media_strategy:
+  channel_selection:
+    primary_channels:
+      - channel: ""
+        rationale: ""
+        budget_allocation: 0
+        target_reach: 0
+        expected_frequency: 0
+        success_metrics: []
+    
+    secondary_channels:
+      - channel: ""
+        rationale: ""
+        budget_allocation: 0
+        target_reach: 0
+        expected_frequency: 0
+        success_metrics: []
+  
+  media_mix_optimization:
+    reach_optimization: []
+    frequency_capping: []
+    timing_strategy: []
+    geographic_targeting: []
+    demographic_targeting: []
+  
+  integrated_approach:
+    cross_channel_messaging: []
+    timing_coordination: []
+    creative_consistency: []
+    data_sharing: []
+    attribution_tracking: []
+
+digital_marketing_tactics:
+  website_optimization:
+    landing_page_development:
+      - page_purpose: ""
+        target_audience: ""
+        key_messages: []
+        conversion_goals: []
+        design_requirements: []
+    
+    seo_optimization:
+      keyword_targeting: []
+      content_optimization: []
+      technical_improvements: []
+      local_search_focus: []
+  
+  social_media_campaign:
+    platform_strategies:
+      facebook:
+        content_types: []
+        posting_frequency: ""
+        engagement_tactics: []
+        advertising_approach: []
+        success_metrics: []
+      
+      twitter:
+        content_types: []
+        posting_frequency: ""
+        hashtag_strategy: []
+        engagement_tactics: []
+        success_metrics: []
+      
+      instagram:
+        content_types: []
+        posting_frequency: ""
+        visual_requirements: []
+        story_strategy: []
+        success_metrics: []
+      
+      linkedin:
+        content_types: []
+        posting_frequency: ""
+        professional_messaging: []
+        networking_approach: []
+        success_metrics: []
+    
+    content_calendar:
+      pre_launch_content: []
+      launch_content: []
+      ongoing_content: []
+      user_generated_content: []
+  
+  email_marketing:
+    campaign_sequence:
+      - email_type: ""
+        send_date: ""
+        target_segment: ""
+        key_messages: []
+        call_to_action: ""
+        success_metrics: []
+    
+    list_segmentation:
+      segmentation_criteria: []
+      personalization_elements: []
+      targeting_refinements: []
+      automation_triggers: []
+  
+  digital_advertising:
+    paid_search:
+      keyword_strategy: []
+      ad_copy_variations: []
+      landing_page_alignment: []
+      budget_allocation: 0
+      success_metrics: []
+    
+    display_advertising:
+      audience_targeting: []
+      creative_specifications: []
+      placement_strategy: []
+      budget_allocation: 0
+      success_metrics: []
+    
+    social_media_advertising:
+      platform_selection: []
+      audience_targeting: []
+      creative_requirements: []
+      budget_allocation: 0
+      success_metrics: []
+
+traditional_marketing_tactics:
+  radio_promotion:
+    on_air_promotion:
+      - promo_type: ""
+        frequency: ""
+        time_slots: []
+        key_messages: []
+        call_to_action: ""
+    
+    sponsorship_integration:
+      sponsor_mentions: []
+      value_added_promotions: []
+      cross_promotional_opportunities: []
+      sponsor_activation: []
+  
+  print_advertising:
+    publication_selection:
+      - publication: ""
+        audience_fit: ""
+        ad_specifications: []
+        insertion_dates: []
+        budget_allocation: 0
+    
+    advertorial_opportunities:
+      content_partnerships: []
+      editorial_integration: []
+      thought_leadership: []
+      community_positioning: []
+  
+  outdoor_advertising:
+    billboard_strategy:
+      location_selection: []
+      creative_specifications: []
+      timing_considerations: []
+      budget_requirements: 0
+    
+    transit_advertising:
+      placement_options: []
+      creative_adaptations: []
+      audience_targeting: []
+      campaign_duration: ""
+  
+  direct_mail:
+    mailing_strategy:
+      target_lists: []
+      personalization_level: ""
+      creative_format: ""
+      distribution_timeline: []
+      response_tracking: []
+
+event_marketing:
+  promotional_events:
+    - event_name: ""
+      event_type: ""
+      target_attendance: 0
+      objectives: []
+      budget_allocation: 0
+      success_metrics: []
+      promotional_timeline: []
+  
+  community_partnerships:
+    - partner_organization: ""
+      partnership_type: ""
+      mutual_benefits: []
+      promotional_support: []
+      cross_promotion_opportunities: []
+  
+  experiential_marketing:
+    activation_concepts:
+      - concept: ""
+        target_audience: ""
+        engagement_goals: []
+        resource_requirements: []
+        success_measurement: []
+    
+    community_presence:
+      festival_participation: []
+      pop_up_activations: []
+      mobile_promotions: []
+      guerrilla_marketing: []
+
+content_marketing:
+  content_themes:
+    - theme: ""
+      content_types: []
+      distribution_channels: []
+      engagement_goals: []
+      success_metrics: []
+  
+  content_calendar:
+    pre_launch_phase:
+      - content_piece: ""
+        publication_date: ""
+        distribution_channels: []
+        key_messages: []
+        call_to_action: ""
+    
+    launch_phase:
+      - content_piece: ""
+        publication_date: ""
+        distribution_channels: []
+        key_messages: []
+        call_to_action: ""
+    
+    post_launch_phase:
+      - content_piece: ""
+        publication_date: ""
+        distribution_channels: []
+        key_messages: []
+        call_to_action: ""
+  
+  multimedia_content:
+    video_content:
+      - video_type: ""
+        purpose: ""
+        target_length: ""
+        distribution_strategy: []
+        success_metrics: []
+    
+    podcast_integration:
+      promotional_mentions: []
+      sponsored_segments: []
+      interview_opportunities: []
+      cross_promotion: []
+    
+    photography:
+      photo_requirements: []
+      usage_rights: ""
+      distribution_channels: []
+      brand_consistency: []
+
+influencer_and_partnerships:
+  influencer_strategy:
+    micro_influencers:
+      - influencer_type: ""
+        audience_size: ""
+        engagement_rate: ""
+        collaboration_approach: []
+        compensation_model: ""
+    
+    community_leaders:
+      - leader_name: ""
+        influence_area: ""
+        collaboration_opportunities: []
+        mutual_benefits: []
+        engagement_approach: ""
+  
+  strategic_partnerships:
+    media_partnerships:
+      - partner: ""
+        partnership_type: ""
+        promotional_exchange: []
+        content_collaboration: []
+        success_metrics: []
+    
+    corporate_partnerships:
+      - partner: ""
+        partnership_benefits: []
+        promotional_opportunities: []
+        resource_sharing: []
+      success_measurement: []
+  
+  community_ambassadors:
+    ambassador_program:
+      selection_criteria: []
+      training_requirements: []
+      promotional_activities: []
+      recognition_rewards: []
+      success_tracking: []
+
+budget_allocation:
+  media_spending:
+    digital_advertising: 0
+    traditional_advertising: 0
+    social_media_promotion: 0
+    search_engine_marketing: 0
+    display_advertising: 0
+  
+  creative_production:
+    design_services: 0
+    photography: 0
+    video_production: 0
+    copywriting: 0
+    print_production: 0
+  
+  promotional_activities:
+    event_marketing: 0
+    direct_mail: 0
+    promotional_materials: 0
+    influencer_partnerships: 0
+    community_activations: 0
+  
+  operational_costs:
+    staff_time: 0
+    technology_tools: 0
+    analytics_platforms: 0
+    project_management: 0
+    miscellaneous_expenses: 0
+  
+  contingency_budget: 0
+  total_campaign_budget: 0
+
+implementation_timeline:
+  pre_launch_phase:
+    - milestone: ""
+      completion_date: ""
+      responsible_party: ""
+      deliverables: []
+      dependencies: []
+  
+  launch_phase:
+    - milestone: ""
+      completion_date: ""
+      responsible_party: ""
+      deliverables: []
+      dependencies: []
+  
+  post_launch_phase:
+    - milestone: ""
+      completion_date: ""
+      responsible_party: ""
+      deliverables: []
+      dependencies: []
+  
+  ongoing_optimization:
+    review_points: []
+    optimization_opportunities: []
+    performance_adjustments: []
+    continuous_improvements: []
+
+performance_measurement:
+  success_metrics:
+    awareness_metrics:
+      - metric: ""
+        measurement_method: ""
+        baseline: 0
+        target: 0
+        tracking_frequency: ""
+    
+    engagement_metrics:
+      - metric: ""
+        measurement_method: ""
+        baseline: 0
+        target: 0
+        tracking_frequency: ""
+    
+    conversion_metrics:
+      - metric: ""
+        measurement_method: ""
+        baseline: 0
+        target: 0
+        tracking_frequency: ""
+  
+  tracking_and_analytics:
+    measurement_tools: []
+    data_collection_methods: []
+    reporting_dashboards: []
+    analysis_protocols: []
+  
+  optimization_strategy:
+    a_b_testing: []
+    performance_monitoring: []
+    real_time_adjustments: []
+    continuous_improvement: []
+
+risk_management:
+  potential_challenges:
+    - challenge: ""
+      probability: "" # low, medium, high
+      impact: "" # low, medium, high
+      mitigation_strategies: []
+      contingency_plans: []
+  
+  quality_assurance:
+    brand_compliance: []
+    message_consistency: []
+    legal_requirements: []
+    accessibility_standards: []
+  
+  crisis_preparedness:
+    crisis_scenarios: []
+    response_protocols: []
+    communication_plans: []
+    stakeholder_management: []
+
+post_campaign_evaluation:
+  performance_analysis:
+    objective_achievement: []
+    metric_performance: []
+    roi_calculation: []
+    unexpected_outcomes: []
+  
+  lessons_learned:
+    what_worked_well: []
+    areas_for_improvement: []
+    process_refinements: []
+    strategic_insights: []
+  
+  future_recommendations:
+    campaign_optimization: []
+    strategy_evolution: []
+    resource_allocation: []
+    innovation_opportunities: []
+
+notes:
+  campaign_inspiration: []
+  stakeholder_input: []
+  creative_considerations: []
+  technical_requirements: []
+  special_circumstances: []
+
+approval_signatures:
+  - name: ""
+    title: ""
+    date: ""
+    signature: ""

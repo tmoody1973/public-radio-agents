@@ -1,0 +1,417 @@
+# Campaign Creative Template
+
+campaign_overview:
+  campaign_name: ""
+  campaign_type: "" # brand_awareness, membership_drive, program_promotion, event_marketing, community_engagement
+  campaign_objectives: []
+  target_launch_date: ""
+  campaign_duration: ""
+  primary_audience: ""
+  secondary_audience: ""
+  
+creative_strategy:
+  creative_concept:
+    big_idea: ""
+    creative_approach: ""
+    emotional_appeal: ""
+    rational_benefits: []
+    unique_selling_proposition: ""
+  
+  key_messages:
+    primary_message: ""
+    supporting_messages: []
+    call_to_action: ""
+    proof_points: []
+    tagline: ""
+  
+  creative_themes:
+    visual_theme: ""
+    messaging_theme: ""
+    storytelling_approach: ""
+    brand_integration: ""
+    community_connection: ""
+  
+  tone_and_style:
+    overall_tone: ""
+    personality_traits: []
+    communication_style: ""
+    language_guidelines: []
+    brand_voice_adaptation: ""
+
+target_audience_insights:
+  primary_audience:
+    demographics: ""
+    psychographics: ""
+    media_consumption: []
+    communication_preferences: []
+    motivations: []
+    barriers_to_action: []
+  
+  secondary_audience:
+    demographics: ""
+    psychographics: ""
+    media_consumption: []
+    communication_preferences: []
+    motivations: []
+    barriers_to_action: []
+  
+  audience_journey:
+    awareness_stage: []
+    consideration_stage: []
+    action_stage: []
+    retention_stage: []
+
+creative_assets:
+  print_materials:
+    - asset_type: "" # brochure, flyer, poster, direct_mail, newspaper_ad
+      specifications:
+        size: ""
+        color_requirements: ""
+        paper_stock: ""
+        quantity: 0
+        delivery_date: ""
+      content_requirements:
+        headlines: []
+        body_copy: ""
+        images_needed: []
+        logos_required: []
+        contact_information: []
+      budget_estimate: 0
+      responsible_party: ""
+      approval_process: []
+  
+  digital_assets:
+    - asset_type: "" # website_banner, social_media_post, email_header, digital_ad
+      specifications:
+        dimensions: ""
+        file_format: ""
+        resolution: ""
+        animation_requirements: ""
+        accessibility_features: []
+      content_requirements:
+        headlines: []
+        body_copy: ""
+        images_needed: []
+        logos_required: []
+        interactive_elements: []
+      budget_estimate: 0
+      responsible_party: ""
+      approval_process: []
+  
+  video_content:
+    - video_type: "" # promotional_video, testimonial, behind_the_scenes, social_media_story
+      specifications:
+        duration: ""
+        format: ""
+        resolution: ""
+        aspect_ratio: ""
+        audio_requirements: ""
+      content_requirements:
+        script_outline: ""
+        talent_needed: []
+        location_requirements: []
+        equipment_needs: []
+        post_production: []
+      budget_estimate: 0
+      responsible_party: ""
+      approval_process: []
+  
+  audio_content:
+    - audio_type: "" # radio_spot, podcast_intro, promotional_announcement, jingle
+      specifications:
+        duration: ""
+        format: ""
+        quality_requirements: ""
+        delivery_format: ""
+      content_requirements:
+        script: ""
+        voice_talent: []
+        music_requirements: ""
+        sound_effects: []
+        mixing_notes: ""
+      budget_estimate: 0
+      responsible_party: ""
+      approval_process: []
+
+visual_identity:
+  brand_guidelines:
+    logo_usage: []
+    color_palette: []
+    typography: []
+    imagery_style: ""
+    graphic_elements: []
+  
+  photography_requirements:
+    style_guidelines: ""
+    subject_matter: []
+    technical_specifications: ""
+    usage_rights: ""
+    budget_allocation: 0
+  
+  design_elements:
+    graphic_style: ""
+    illustration_needs: []
+    iconography: []
+    pattern_usage: ""
+    layout_principles: []
+
+content_development:
+  copywriting_requirements:
+    headlines:
+      primary_headline: ""
+      alternative_headlines: []
+      headline_testing: []
+    
+    body_copy:
+      key_benefits: []
+      proof_points: []
+      storytelling_elements: []
+      technical_details: []
+      emotional_appeals: []
+    
+    call_to_action:
+      primary_cta: ""
+      secondary_cta: ""
+      urgency_elements: []
+      incentives: []
+  
+  messaging_hierarchy:
+    most_important: []
+    secondary_importance: []
+    supporting_details: []
+    legal_requirements: []
+  
+  content_adaptation:
+    platform_variations: []
+    audience_adaptations: []
+    length_variations: []
+    format_requirements: []
+
+production_planning:
+  timeline:
+    creative_development:
+      concept_development: ""
+      initial_design: ""
+      copy_creation: ""
+      internal_review: ""
+      client_approval: ""
+    
+    production_phase:
+      asset_creation: ""
+      photography_shoot: ""
+      video_production: ""
+      audio_recording: ""
+      final_approvals: ""
+    
+    launch_preparation:
+      final_delivery: ""
+      platform_setup: ""
+      team_briefing: ""
+      launch_coordination: ""
+  
+  resource_requirements:
+    internal_staff:
+      - role: ""
+        time_commitment: ""
+        responsibilities: []
+        timeline: ""
+    
+    external_vendors:
+      - vendor_type: ""
+        services_needed: []
+        budget_estimate: 0
+        timeline: ""
+        selection_criteria: []
+    
+    equipment_needs:
+      - equipment_type: ""
+        rental_duration: ""
+        budget_estimate: 0
+        alternative_options: []
+
+budget_breakdown:
+  creative_development:
+    concept_development: 0
+    copywriting: 0
+    design_services: 0
+    creative_direction: 0
+    revisions_allowance: 0
+  
+  production_costs:
+    photography: 0
+    videography: 0
+    audio_production: 0
+    graphic_design: 0
+    printing: 0
+    digital_asset_creation: 0
+  
+  talent_costs:
+    voice_talent: 0
+    on_camera_talent: 0
+    models: 0
+    musicians: 0
+    specialty_performers: 0
+  
+  media_production:
+    equipment_rental: 0
+    location_fees: 0
+    travel_expenses: 0
+    post_production: 0
+    editing_services: 0
+  
+  contingency_budget: 0
+  total_creative_budget: 0
+
+quality_assurance:
+  review_process:
+    internal_reviews:
+      - review_stage: ""
+        reviewers: []
+        criteria: []
+        timeline: ""
+        approval_authority: ""
+    
+    stakeholder_approvals:
+      - stakeholder_group: ""
+        review_focus: []
+        approval_criteria: []
+        timeline: ""
+        decision_authority: ""
+  
+  brand_compliance:
+    brand_guideline_adherence: []
+    message_consistency: []
+    visual_identity_compliance: []
+    legal_compliance: []
+    accessibility_standards: []
+  
+  testing_and_optimization:
+    pre_launch_testing:
+      - test_type: ""
+        methodology: ""
+        sample_size: 0
+        success_criteria: []
+        timeline: ""
+    
+    performance_tracking:
+      - metric: ""
+        measurement_method: ""
+        tracking_frequency: ""
+        target_performance: ""
+
+distribution_planning:
+  channel_specifications:
+    - channel: ""
+      asset_requirements: []
+      technical_specifications: ""
+      timing_requirements: ""
+      approval_processes: []
+      performance_tracking: []
+  
+  launch_coordination:
+    sequence_planning: []
+    timing_coordination: ""
+    stakeholder_communication: []
+    backup_plans: []
+  
+  asset_management:
+    file_organization: ""
+    version_control: ""
+    access_permissions: []
+    storage_requirements: ""
+    archival_procedures: ""
+
+performance_measurement:
+  success_metrics:
+    awareness_metrics:
+      - metric: ""
+        measurement_method: ""
+        baseline: 0
+        target: 0
+        tracking_frequency: ""
+    
+    engagement_metrics:
+      - metric: ""
+        measurement_method: ""
+        baseline: 0
+        target: 0
+        tracking_frequency: ""
+    
+    conversion_metrics:
+      - metric: ""
+        measurement_method: ""
+        baseline: 0
+        target: 0
+        tracking_frequency: ""
+  
+  reporting_schedule:
+    daily_monitoring: []
+    weekly_reports: []
+    campaign_summary: ""
+    post_campaign_analysis: ""
+  
+  optimization_opportunities:
+    real_time_adjustments: []
+    mid_campaign_pivots: []
+    learning_applications: []
+    future_improvements: []
+
+risk_management:
+  potential_challenges:
+    - challenge: ""
+      probability: "" # low, medium, high
+      impact: "" # low, medium, high
+      mitigation_strategy: ""
+      contingency_plan: ""
+  
+  quality_risks:
+    brand_misalignment: ""
+    message_confusion: ""
+    production_delays: ""
+    budget_overruns: ""
+    approval_complications: ""
+  
+  approval_dependencies:
+    critical_approvals: []
+    approval_timelines: []
+    escalation_procedures: []
+    backup_decision_makers: []
+
+post_campaign_evaluation:
+  performance_analysis:
+    objective_achievement: []
+    metric_performance: []
+    audience_response: []
+    unexpected_outcomes: []
+  
+  creative_effectiveness:
+    message_clarity: ""
+    visual_impact: ""
+    brand_reinforcement: ""
+    audience_engagement: ""
+    call_to_action_performance: ""
+  
+  lessons_learned:
+    what_worked_well: []
+    areas_for_improvement: []
+    process_refinements: []
+    future_recommendations: []
+  
+  asset_performance:
+    top_performing_assets: []
+    underperforming_elements: []
+    audience_preferences: []
+    platform_effectiveness: []
+
+notes:
+  creative_inspiration: []
+  stakeholder_feedback: []
+  special_considerations: []
+  future_campaign_ideas: []
+  archive_information: ""
+
+approval_signatures:
+  - name: ""
+    title: ""
+    date: ""
+    signature: ""

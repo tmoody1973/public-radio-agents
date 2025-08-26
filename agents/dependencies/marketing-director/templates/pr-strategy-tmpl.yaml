@@ -1,0 +1,503 @@
+# Public Relations Strategy Template
+
+pr_overview:
+  campaign_name: ""
+  pr_objectives: []
+  target_audiences: []
+  timeline: ""
+  budget_allocation: 0
+  key_messages: []
+  success_metrics: []
+  
+situation_analysis:
+  current_brand_perception:
+    brand_awareness_level: ""
+    brand_sentiment: ""
+    media_coverage_analysis: []
+    community_perception: []
+    stakeholder_feedback: []
+  
+  media_landscape:
+    local_media_outlets:
+      - outlet_name: ""
+        media_type: "" # newspaper, radio, tv, online, magazine
+        audience_size: 0
+        coverage_frequency: ""
+        key_contacts: []
+        editorial_calendar: []
+        coverage_history: []
+    
+    digital_media:
+      - outlet_name: ""
+        platform_type: ""
+        audience_demographics: []
+        content_preferences: []
+        engagement_rates: []
+        collaboration_opportunities: []
+    
+    influencer_landscape:
+      - influencer_name: ""
+        platform: ""
+        follower_count: 0
+        audience_alignment: ""
+        engagement_rate: 0
+        collaboration_potential: ""
+  
+  competitive_analysis:
+    direct_competitors:
+      - organization: ""
+        media_presence: []
+        pr_strategies: []
+        message_positioning: []
+        media_relationships: []
+    
+    share_of_voice:
+      current_percentage: 0
+      target_percentage: 0
+      improvement_strategies: []
+      measurement_methods: []
+  
+  opportunity_assessment:
+    media_opportunities: []
+    community_events: []
+    partnership_possibilities: []
+    thought_leadership_areas: []
+    crisis_prevention_needs: []
+
+target_audience_analysis:
+  primary_audiences:
+    - audience_name: ""
+      demographics: []
+      psychographics: []
+      media_consumption_habits: []
+      information_sources: []
+      decision_making_factors: []
+      messaging_preferences: []
+  
+  secondary_audiences:
+    - audience_name: ""
+      demographics: []
+      psychographics: []
+      media_consumption_habits: []
+      information_sources: []
+      decision_making_factors: []
+      messaging_preferences: []
+  
+  stakeholder_groups:
+    community_leaders:
+      - name: ""
+        position: ""
+        influence_level: ""
+        communication_preferences: []
+        key_interests: []
+        engagement_strategy: ""
+    
+    government_officials:
+      - name: ""
+        position: ""
+        jurisdiction: ""
+        policy_interests: []
+        communication_style: ""
+        relationship_status: ""
+    
+    partner_organizations:
+      - organization: ""
+        relationship_type: ""
+        shared_interests: []
+        collaboration_history: []
+        mutual_benefits: []
+
+messaging_strategy:
+  core_messages:
+    primary_message: ""
+    supporting_messages: []
+    proof_points: []
+    call_to_action: ""
+    differentiation_factors: []
+  
+  audience_specific_messaging:
+    - audience: ""
+      tailored_messages: []
+      communication_tone: ""
+      key_benefits: []
+      addressing_concerns: []
+      preferred_channels: []
+  
+  story_angles:
+    - angle: ""
+      target_media: []
+      news_value: ""
+      supporting_elements: []
+      interview_opportunities: []
+      visual_elements: []
+  
+  narrative_development:
+    organizational_story: ""
+    impact_stories: []
+    community_connection: ""
+    mission_alignment: ""
+    future_vision: ""
+
+media_relations:
+  media_list_development:
+    tier_1_contacts:
+      - contact_name: ""
+        outlet: ""
+        beat: ""
+        contact_information: ""
+        relationship_status: ""
+        coverage_history: []
+        pitch_preferences: []
+    
+    tier_2_contacts:
+      - contact_name: ""
+        outlet: ""
+        beat: ""
+        contact_information: ""
+        relationship_status: ""
+        coverage_history: []
+        pitch_preferences: []
+  
+  relationship_building:
+    outreach_strategy:
+      introduction_approach: []
+      value_proposition: []
+      regular_touchpoints: []
+      expertise_positioning: []
+      resource_sharing: []
+    
+    media_education:
+      industry_briefings: []
+      facility_tours: []
+      expert_interviews: []
+      background_materials: []
+      resource_accessibility: []
+  
+  pitch_development:
+    story_pitches:
+      - pitch_title: ""
+        news_angle: ""
+        target_outlets: []
+        timing_considerations: ""
+        supporting_materials: []
+        follow_up_strategy: []
+    
+    expert_positioning:
+      expertise_areas: []
+      spokesperson_training: []
+      media_availability: []
+      quote_bank: []
+      interview_preparation: []
+
+content_development:
+  press_materials:
+    press_releases:
+      - topic: ""
+        target_date: ""
+        distribution_list: []
+        multimedia_elements: []
+        follow_up_plan: []
+    
+    media_kits:
+      organizational_overview: ""
+      leadership_bios: []
+      high_resolution_photos: []
+      fact_sheets: []
+      awards_recognition: []
+    
+    background_materials:
+      industry_primers: []
+      trend_analyses: []
+      research_summaries: []
+      expert_guides: []
+  
+  multimedia_content:
+    photography:
+      photo_categories: []
+      shooting_schedule: []
+      usage_rights: ""
+      storage_system: ""
+      distribution_process: []
+    
+    video_content:
+      - video_type: ""
+        purpose: ""
+        target_length: ""
+        production_timeline: ""
+        distribution_channels: []
+    
+    audio_content:
+      interview_recordings: []
+      podcast_appearances: []
+      radio_segments: []
+      sound_bites: []
+  
+  thought_leadership:
+    article_topics:
+      - topic: ""
+        target_publications: []
+        author: ""
+        submission_timeline: ""
+        key_messages: []
+    
+    speaking_opportunities:
+      - event: ""
+        topic: ""
+        audience: ""
+        date: ""
+        preparation_requirements: []
+
+digital_pr_strategy:
+  online_reputation_management:
+    monitoring_strategy:
+      monitoring_tools: []
+      keywords_tracked: []
+      frequency: ""
+      alert_thresholds: []
+      response_protocols: []
+    
+    content_optimization:
+      seo_considerations: []
+      search_result_management: []
+      online_listings: []
+      review_management: []
+  
+  social_media_pr:
+    platform_strategies:
+      - platform: ""
+        pr_objectives: []
+        content_approach: []
+        engagement_tactics: []
+        crisis_protocols: []
+    
+    influencer_engagement:
+      identification_criteria: []
+      outreach_approach: []
+      collaboration_types: []
+      success_metrics: []
+  
+  digital_media_relations:
+    blogger_outreach:
+      target_bloggers: []
+      pitch_customization: []
+      collaboration_opportunities: []
+      content_partnerships: []
+    
+    podcast_strategy:
+      target_podcasts: []
+      pitch_approach: []
+      interview_preparation: []
+      follow_up_strategy: []
+
+event_pr_strategy:
+  event_publicity:
+    pre_event_promotion:
+      - event: ""
+        promotion_timeline: []
+        media_outreach: []
+        content_creation: []
+        partnership_leverage: []
+    
+    event_coverage:
+      media_invitations: []
+      press_conference_planning: []
+      photo_opportunities: []
+      live_coverage_coordination: []
+    
+    post_event_follow_up:
+      thank_you_communications: []
+      coverage_compilation: []
+      success_story_development: []
+      relationship_maintenance: []
+  
+  community_engagement:
+    public_appearances:
+      - event_type: ""
+        frequency: ""
+        spokesperson: ""
+        key_messages: []
+        follow_up_actions: []
+    
+    partnership_events:
+      - partner: ""
+        event_type: ""
+        mutual_benefits: []
+        promotion_strategy: []
+        success_metrics: []
+
+crisis_communication_planning:
+  risk_assessment:
+    potential_issues:
+      - issue_type: ""
+        probability: "" # low, medium, high
+        impact_severity: "" # low, medium, high
+        stakeholders_affected: []
+        media_interest_level: ""
+    
+    early_warning_systems:
+      monitoring_indicators: []
+      alert_mechanisms: []
+      escalation_triggers: []
+      response_team_activation: []
+  
+  response_protocols:
+    communication_hierarchy:
+      decision_makers: []
+      spokespeople: []
+      support_team: []
+      external_consultants: []
+    
+    message_development:
+      core_response_messages: []
+      audience_specific_adaptations: []
+      fact_verification_process: []
+      legal_review_requirements: []
+  
+  crisis_materials:
+    holding_statements: []
+    q_and_a_documents: []
+    media_response_templates: []
+    stakeholder_notifications: []
+    social_media_responses: []
+
+measurement_and_evaluation:
+  success_metrics:
+    media_coverage:
+      - metric: ""
+        measurement_method: ""
+        reporting_frequency: ""
+        target_performance: ""
+        benchmark_comparisons: []
+    
+    audience_reach:
+      - metric: ""
+        measurement_method: ""
+        reporting_frequency: ""
+        target_performance: ""
+        audience_breakdown: []
+    
+    engagement_quality:
+      - metric: ""
+        measurement_method: ""
+        reporting_frequency: ""
+        target_performance: ""
+        quality_indicators: []
+  
+  tracking_tools:
+    media_monitoring:
+      monitoring_services: []
+      coverage_analysis: []
+      sentiment_tracking: []
+      competitive_monitoring: []
+    
+    analytics_platforms:
+      website_analytics: []
+      social_media_analytics: []
+      email_tracking: []
+      campaign_attribution: []
+  
+  reporting_framework:
+    regular_reports:
+      - report_type: ""
+        frequency: ""
+        recipients: []
+        key_metrics: []
+        analysis_depth: ""
+    
+    campaign_evaluations:
+      success_assessment: []
+      lessons_learned: []
+      recommendations: []
+      future_improvements: []
+
+budget_allocation:
+  staff_resources:
+    internal_team:
+      - role: ""
+        time_allocation: ""
+        hourly_rate: 0
+        annual_cost: 0
+        responsibilities: []
+    
+    external_support:
+      - service_type: ""
+        provider: ""
+        cost_estimate: 0
+        timeline: ""
+        deliverables: []
+  
+  program_expenses:
+    media_relations:
+      media_events: 0
+      press_materials: 0
+      photography: 0
+      video_production: 0
+      travel_expenses: 0
+    
+    digital_pr:
+      monitoring_tools: 0
+      content_creation: 0
+      influencer_partnerships: 0
+      online_advertising: 0
+      platform_management: 0
+    
+    crisis_preparedness:
+      consultant_retainer: 0
+      training_programs: 0
+      monitoring_systems: 0
+      emergency_resources: 0
+  
+  total_pr_budget: 0
+  quarterly_allocation: []
+  roi_projections: []
+
+timeline_and_milestones:
+  campaign_phases:
+    - phase_name: ""
+      start_date: ""
+      end_date: ""
+      key_activities: []
+      deliverables: []
+      success_criteria: []
+  
+  ongoing_activities:
+    - activity: ""
+      frequency: ""
+      responsible_party: ""
+      resource_requirements: []
+      success_metrics: []
+  
+  milestone_tracking:
+    - milestone: ""
+      target_date: ""
+      completion_criteria: []
+      dependencies: []
+      risk_factors: []
+
+risk_management:
+  potential_challenges:
+    - challenge: ""
+      probability: "" # low, medium, high
+      impact: "" # low, medium, high
+      mitigation_strategies: []
+      contingency_plans: []
+  
+  quality_control:
+    approval_processes: []
+    fact_checking: []
+    legal_review: []
+    brand_compliance: []
+    message_consistency: []
+
+notes:
+  strategic_considerations: []
+  stakeholder_input: []
+  competitive_intelligence: []
+  industry_trends: []
+  innovation_opportunities: []
+
+approval_signatures:
+  - name: ""
+    title: ""
+    date: ""
+    signature: ""

@@ -1,0 +1,631 @@
+# Social Media Strategy Template
+
+strategy_overview:
+  strategy_name: ""
+  strategy_timeframe: ""
+  primary_objectives: []
+  target_audiences: []
+  key_performance_indicators: []
+  budget_allocation: 0
+  brand_alignment: ""
+  
+current_social_media_audit:
+  platform_performance:
+    facebook:
+      current_followers: 0
+      engagement_rate: 0
+      posting_frequency: ""
+      top_performing_content: []
+      audience_demographics: []
+      growth_rate: 0
+    
+    twitter:
+      current_followers: 0
+      engagement_rate: 0
+      posting_frequency: ""
+      top_performing_content: []
+      audience_demographics: []
+      growth_rate: 0
+    
+    instagram:
+      current_followers: 0
+      engagement_rate: 0
+      posting_frequency: ""
+      top_performing_content: []
+      audience_demographics: []
+      growth_rate: 0
+    
+    linkedin:
+      current_followers: 0
+      engagement_rate: 0
+      posting_frequency: ""
+      top_performing_content: []
+      audience_demographics: []
+      growth_rate: 0
+    
+    youtube:
+      current_subscribers: 0
+      view_rates: 0
+      upload_frequency: ""
+      top_performing_content: []
+      audience_demographics: []
+      growth_rate: 0
+  
+  competitive_analysis:
+    direct_competitors:
+      - competitor: ""
+        platform_presence: []
+        follower_counts: []
+        content_strategies: []
+        engagement_rates: []
+        unique_approaches: []
+    
+    industry_benchmarks:
+      average_engagement_rates: []
+      posting_frequency_standards: []
+      content_type_performance: []
+      growth_rate_benchmarks: []
+  
+  audience_insights:
+    demographic_breakdown:
+      age_distribution: []
+      gender_split: []
+      geographic_locations: []
+      interests: []
+      behavioral_patterns: []
+    
+    content_preferences:
+      most_engaging_content: []
+      optimal_posting_times: []
+      preferred_content_formats: []
+      hashtag_performance: []
+      interaction_patterns: []
+
+social_media_objectives:
+  brand_awareness_goals:
+    follower_growth_targets:
+      - platform: ""
+        current_followers: 0
+        target_growth: 0
+        timeline: ""
+        growth_strategies: []
+    
+    reach_expansion:
+      - platform: ""
+        current_reach: 0
+        target_reach: 0
+        timeline: ""
+        expansion_tactics: []
+  
+  engagement_objectives:
+    engagement_rate_goals:
+      - platform: ""
+        current_rate: 0
+        target_rate: 0
+        timeline: ""
+        engagement_strategies: []
+    
+    community_building:
+      community_size_goals: []
+      interaction_quality_goals: []
+      user_generated_content_goals: []
+      advocacy_development: []
+  
+  conversion_goals:
+    website_traffic:
+      - platform: ""
+        current_traffic: 0
+        target_traffic: 0
+        timeline: ""
+        conversion_tactics: []
+    
+    lead_generation:
+      newsletter_signups: 0
+      event_registrations: 0
+      membership_inquiries: 0
+      contact_form_submissions: 0
+  
+  community_engagement:
+    local_connection_goals: []
+    partnership_development: []
+    community_event_promotion: []
+    listener_relationship_building: []
+
+platform_strategies:
+  facebook_strategy:
+    content_strategy:
+      content_pillars:
+        - pillar: ""
+          percentage: 0
+          content_types: []
+          posting_frequency: ""
+          engagement_goals: []
+      
+      content_calendar:
+        weekly_themes:
+          monday: ""
+          tuesday: ""
+          wednesday: ""
+          thursday: ""
+          friday: ""
+          saturday: ""
+          sunday: ""
+      
+      post_types:
+        - type: ""
+          frequency: ""
+          purpose: ""
+          engagement_expectation: ""
+          visual_requirements: []
+    
+    community_management:
+      response_time_goals: ""
+      engagement_approach: []
+      community_guidelines: []
+      moderation_policies: []
+      crisis_management: []
+    
+    facebook_advertising:
+      campaign_objectives: []
+      target_audiences: []
+      budget_allocation: 0
+      creative_requirements: []
+      success_metrics: []
+  
+  twitter_strategy:
+    content_approach:
+      tweet_categories:
+        - category: ""
+          percentage: 0
+          frequency: ""
+          engagement_tactics: []
+          hashtag_strategy: []
+      
+      real_time_engagement:
+        news_commentary: []
+        live_event_coverage: []
+        trend_participation: []
+        community_conversations: []
+    
+    twitter_advertising:
+      promoted_tweet_strategy: []
+      audience_targeting: []
+      budget_allocation: 0
+      campaign_objectives: []
+  
+  instagram_strategy:
+    visual_content_strategy:
+      photography_style: ""
+      color_palette: []
+      brand_consistency: []
+      story_themes: []
+      feed_aesthetics: ""
+    
+    content_types:
+      feed_posts:
+        - post_type: ""
+          frequency: ""
+          visual_requirements: []
+          caption_strategy: ""
+          hashtag_approach: []
+      
+      instagram_stories:
+        story_categories: []
+        interactive_elements: []
+        behind_the_scenes: []
+        user_engagement: []
+      
+      instagram_reels:
+        reel_themes: []
+        trending_audio: []
+        creative_concepts: []
+        engagement_tactics: []
+    
+    instagram_advertising:
+      campaign_types: []
+      visual_requirements: []
+      audience_targeting: []
+      budget_allocation: 0
+  
+  linkedin_strategy:
+    professional_content:
+      thought_leadership: []
+      industry_insights: []
+      organizational_updates: []
+      employee_spotlights: []
+    
+    networking_approach:
+      industry_connections: []
+      partnership_development: []
+      professional_groups: []
+      content_sharing: []
+  
+  youtube_strategy:
+    video_content_plan:
+      - video_type: ""
+        frequency: ""
+        target_length: ""
+        production_requirements: []
+        distribution_strategy: []
+    
+    channel_optimization:
+      seo_optimization: []
+      playlist_organization: []
+      thumbnail_strategy: []
+      description_optimization: []
+    
+    community_engagement:
+      comment_management: []
+      subscriber_interaction: []
+      collaboration_opportunities: []
+      live_streaming: []
+
+content_strategy:
+  content_pillars:
+    programming_content:
+      percentage_allocation: 0
+      content_types: []
+      messaging_approach: []
+      visual_style: []
+      engagement_tactics: []
+    
+    community_engagement:
+      percentage_allocation: 0
+      content_types: []
+      messaging_approach: []
+      visual_style: []
+      engagement_tactics: []
+    
+    behind_the_scenes:
+      percentage_allocation: 0
+      content_types: []
+      messaging_approach: []
+      visual_style: []
+      engagement_tactics: []
+    
+    educational_content:
+      percentage_allocation: 0
+      content_types: []
+      messaging_approach: []
+      visual_style: []
+      engagement_tactics: []
+    
+    news_and_information:
+      percentage_allocation: 0
+      content_types: []
+      messaging_approach: []
+      visual_style: []
+      engagement_tactics: []
+  
+  content_creation_workflow:
+    ideation_process:
+      brainstorming_sessions: ""
+      content_sources: []
+      community_input: []
+      trending_topics: []
+    
+    creation_pipeline:
+      - content_stage: ""
+        responsible_party: ""
+        timeline: ""
+        quality_standards: []
+        approval_process: []
+    
+    publishing_schedule:
+      optimal_posting_times:
+        - platform: ""
+          best_times: []
+          frequency: ""
+          scheduling_tools: []
+  
+  visual_content_guidelines:
+    photography_standards:
+      style_requirements: []
+      technical_specifications: []
+      brand_consistency: []
+      usage_rights: ""
+    
+    graphic_design:
+      design_templates: []
+      color_usage: []
+      typography: []
+      logo_placement: []
+    
+    video_production:
+      quality_standards: []
+      branding_requirements: []
+      accessibility_features: []
+      format_specifications: []
+
+community_management:
+  engagement_strategy:
+    response_protocols:
+      response_time_goals:
+        - platform: ""
+          target_response_time: ""
+          priority_levels: []
+          escalation_procedures: []
+      
+      engagement_approach:
+        tone_guidelines: []
+        personalization_level: ""
+        problem_resolution: []
+        appreciation_methods: []
+    
+    proactive_engagement:
+      community_outreach: []
+      conversation_starters: []
+      user_recognition: []
+      content_amplification: []
+  
+  community_guidelines:
+    acceptable_behavior: []
+    prohibited_content: []
+    moderation_policies: []
+    enforcement_procedures: []
+    appeal_processes: []
+  
+  crisis_management:
+    crisis_identification: []
+    response_protocols: []
+    escalation_procedures: []
+    stakeholder_communication: []
+    reputation_recovery: []
+
+influencer_partnerships:
+  micro_influencer_strategy:
+    identification_criteria:
+      follower_range: ""
+      engagement_requirements: 0
+      audience_alignment: []
+      content_quality: []
+      values_alignment: []
+    
+    collaboration_types:
+      - collaboration: ""
+        compensation_model: ""
+        content_requirements: []
+        success_metrics: []
+        contract_terms: []
+  
+  community_advocates:
+    listener_ambassadors:
+      selection_process: []
+      training_program: []
+      content_guidelines: []
+      recognition_rewards: []
+    
+    staff_advocacy:
+      employee_guidelines: []
+      content_sharing: []
+      personal_brand_alignment: []
+      professional_development: []
+
+paid_social_strategy:
+  advertising_objectives:
+    brand_awareness_campaigns:
+      - campaign_type: ""
+        target_audience: []
+        budget_allocation: 0
+        creative_requirements: []
+        success_metrics: []
+    
+    engagement_campaigns:
+      - campaign_type: ""
+        target_audience: []
+        budget_allocation: 0
+        creative_requirements: []
+        success_metrics: []
+    
+    conversion_campaigns:
+      - campaign_type: ""
+        target_audience: []
+        budget_allocation: 0
+        creative_requirements: []
+        success_metrics: []
+  
+  audience_targeting:
+    demographic_targeting:
+      age_ranges: []
+      geographic_locations: []
+      income_levels: []
+      education_levels: []
+    
+    interest_targeting:
+      interests: []
+      behaviors: []
+      lifestyle_preferences: []
+      media_consumption: []
+    
+    custom_audiences:
+      website_visitors: []
+      email_subscribers: []
+      app_users: []
+      lookalike_audiences: []
+  
+  budget_allocation:
+    platform_distribution:
+      - platform: ""
+        budget_percentage: 0
+        campaign_types: []
+        expected_reach: 0
+        success_metrics: []
+    
+    campaign_budgeting:
+      awareness_campaigns: 0
+      engagement_campaigns: 0
+      conversion_campaigns: 0
+      retargeting_campaigns: 0
+
+analytics_and_measurement:
+  key_performance_indicators:
+    growth_metrics:
+      - metric: ""
+        current_baseline: 0
+        target_goal: 0
+        measurement_frequency: ""
+        tracking_method: []
+    
+    engagement_metrics:
+      - metric: ""
+        current_baseline: 0
+        target_goal: 0
+        measurement_frequency: ""
+        tracking_method: []
+    
+    conversion_metrics:
+      - metric: ""
+        current_baseline: 0
+        target_goal: 0
+        measurement_frequency: ""
+        tracking_method: []
+  
+  analytics_tools:
+    native_platform_analytics: []
+    third_party_tools: []
+    social_listening_tools: []
+    reporting_dashboards: []
+  
+  reporting_framework:
+    regular_reports:
+      - report_type: ""
+        frequency: ""
+        recipients: []
+        key_metrics: []
+        analysis_depth: ""
+    
+    performance_reviews:
+      monthly_assessments: []
+      quarterly_evaluations: []
+      annual_strategy_reviews: []
+      campaign_post_mortems: []
+
+resource_requirements:
+  staffing_needs:
+    internal_team:
+      - role: ""
+        time_allocation: ""
+        responsibilities: []
+        skill_requirements: []
+        training_needs: []
+    
+    external_support:
+      - service_type: ""
+        provider_requirements: []
+        budget_estimate: 0
+        timeline: ""
+        deliverables: []
+  
+  technology_requirements:
+    social_media_management_tools:
+      scheduling_platforms: []
+      analytics_tools: []
+      design_software: []
+      collaboration_tools: []
+    
+    content_creation_tools:
+      photography_equipment: []
+      video_editing_software: []
+      graphic_design_tools: []
+      audio_editing_software: []
+  
+  budget_breakdown:
+    personnel_costs:
+      internal_staff: 0
+      freelancers: 0
+      consultants: 0
+      training: 0
+    
+    technology_costs:
+      software_subscriptions: 0
+      equipment: 0
+      analytics_tools: 0
+      automation_platforms: 0
+    
+    advertising_costs:
+      paid_social_budget: 0
+      influencer_partnerships: 0
+      promotional_campaigns: 0
+      boosted_posts: 0
+    
+    content_creation:
+      photography: 0
+      video_production: 0
+      graphic_design: 0
+      stock_content: 0
+    
+    total_budget: 0
+
+implementation_timeline:
+  strategy_launch:
+    - milestone: ""
+      completion_date: ""
+      responsible_party: ""
+      deliverables: []
+      success_criteria: []
+  
+  ongoing_optimization:
+    monthly_reviews: []
+    quarterly_assessments: []
+    annual_strategy_updates: []
+    continuous_improvements: []
+  
+  campaign_integration:
+    - campaign: ""
+      launch_date: ""
+      social_media_support: []
+      cross_platform_coordination: []
+      success_measurement: []
+
+risk_management:
+  potential_challenges:
+    - challenge: ""
+      probability: "" # low, medium, high
+      impact: "" # low, medium, high
+      mitigation_strategies: []
+      contingency_plans: []
+  
+  platform_risks:
+    algorithm_changes: []
+    policy_updates: []
+    technical_issues: []
+    competitive_pressures: []
+  
+  brand_protection:
+    reputation_monitoring: []
+    crisis_response: []
+    content_compliance: []
+    legal_considerations: []
+
+success_measurement:
+  performance_benchmarks:
+    - metric_category: ""
+      industry_benchmarks: []
+      internal_targets: []
+      success_thresholds: []
+      measurement_methods: []
+  
+  roi_calculation:
+    investment_tracking: []
+    value_attribution: []
+    cost_per_acquisition: []
+    lifetime_value: []
+  
+  continuous_optimization:
+    a_b_testing_protocols: []
+    performance_analysis: []
+    strategy_refinements: []
+    innovation_integration: []
+
+notes:
+  strategic_insights: []
+  community_feedback: []
+  platform_updates: []
+  industry_trends: []
+  innovation_opportunities: []
+
+approval_signatures:
+  - name: ""
+    title: ""
+    date: ""
+    signature: ""

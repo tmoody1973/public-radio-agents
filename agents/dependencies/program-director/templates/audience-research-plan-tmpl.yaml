@@ -1,0 +1,362 @@
+# Audience Research Plan Template
+
+research_overview:
+  research_purpose: ""  # programming_development, audience_growth, community_needs_assessment, program_evaluation
+  research_timeline: ""
+  research_budget: 0
+  primary_objectives: []
+  target_insights: []
+  community_focus: ""
+  decision_support: ""
+  
+research_methodology:
+  research_approach:
+    - methodology_type: ""  # quantitative, qualitative, mixed_methods
+      rationale: ""
+      community_appropriateness: ""
+      resource_requirements: []
+      timeline: ""
+      expected_outcomes: []
+  
+  quantitative_research:
+    survey_research:
+      - survey_type: ""  # annual_listener_survey, program_specific, community_needs, digital_engagement
+        target_audience: ""
+        sample_size_goal: 0
+        distribution_method: []
+        incentive_strategy: ""
+        survey_length: ""
+        key_question_areas: []
+        demographic_quotas: []
+        language_accessibility: []
+    
+    digital_analytics:
+      - platform: ""  # website, social_media, streaming, podcast
+        metrics_focus: []
+        analysis_period: ""
+        benchmark_comparisons: []
+        community_insight_goals: []
+        technical_requirements: []
+    
+    audience_measurement:
+      - data_source: ""  # nielsen_audio, streaming_analytics, event_attendance
+        measurement_period: ""
+        demographic_analysis: []
+        program_performance_focus: []
+        community_engagement_metrics: []
+        competitive_analysis: []
+
+  qualitative_research:
+    focus_groups:
+      - group_type: ""  # general_audience, program_specific, community_leaders, lapsed_listeners
+        participant_profile: ""
+        group_size: 0
+        session_duration: ""
+        number_of_sessions: 0
+        discussion_topics: []
+        facilitator_requirements: []
+        location_considerations: []
+        cultural_sensitivity_needs: []
+    
+    individual_interviews:
+      - interview_type: ""  # power_users, community_leaders, stakeholders, new_listeners
+        participant_selection: ""
+        interview_duration: ""
+        number_of_interviews: 0
+        interview_format: ""  # in_person, phone, video_call
+        key_topics: []
+        interviewer_training: []
+    
+    community_observation:
+      - observation_type: ""  # community_events, listening_environments, competitor_analysis
+        observation_locations: []
+        observation_schedule: ""
+        data_collection_method: ""
+        community_interaction_protocol: ""
+        ethical_considerations: []
+
+target_audiences:
+  primary_research_segments:
+    - segment_name: ""
+      demographic_profile: []
+      psychographic_characteristics: []
+      programming_relationship: ""
+      research_priority: ""  # high, medium, low
+      specific_research_questions: []
+      recruitment_strategy: []
+      cultural_considerations: []
+      accessibility_needs: []
+  
+  secondary_research_segments:
+    - segment_name: ""
+      demographic_profile: []
+      research_rationale: ""
+      research_approach: ""
+      expected_insights: []
+      recruitment_challenges: []
+
+research_questions:
+  programming_content:
+    - research_area: ""  # content_preferences, format_effectiveness, host_performance, educational_value
+      primary_questions: []
+      supporting_questions: []
+      methodology_alignment: ""
+      community_relevance: ""
+      decision_impact: ""
+  
+  community_connection:
+    - research_area: ""  # community_needs, cultural_representation, accessibility, local_relevance
+      primary_questions: []
+      supporting_questions: []
+      community_sensitivity: []
+      partnership_implications: []
+  
+  audience_behavior:
+    - research_area: ""  # listening_patterns, device_usage, discovery_methods, sharing_behaviors
+      primary_questions: []
+      supporting_questions: []
+      technical_requirements: []
+      privacy_considerations: []
+
+community_engagement:
+  community_involvement:
+    advisory_participation: []
+    community_partner_integration: []
+    cultural_organization_collaboration: []
+    community_leader_consultation: []
+    volunteer_researcher_inclusion: []
+  
+  cultural_sensitivity:
+    language_accessibility: []
+    cultural_competency_requirements: []
+    community_trust_building: []
+    inclusive_research_practices: []
+    community_benefit_sharing: []
+  
+  ethical_considerations:
+    informed_consent_procedures: []
+    privacy_protection_methods: []
+    data_ownership_and_sharing: []
+    community_exploitation_prevention: []
+    research_transparency: []
+
+data_collection_plan:
+  timeline_and_milestones:
+    - phase: ""  # preparation, recruitment, data_collection, analysis, reporting
+      start_date: ""
+      end_date: ""
+      key_activities: []
+      deliverables: []
+      resource_requirements: []
+      quality_checkpoints: []
+  
+  recruitment_strategy:
+    - target_segment: ""
+      recruitment_methods: []
+      recruitment_timeline: ""
+      incentive_plan: ""
+      screening_criteria: []
+      backup_recruitment_plan: []
+      community_partner_involvement: []
+  
+  data_collection_protocols:
+    - methodology: ""
+      detailed_procedures: []
+      quality_assurance_measures: []
+      training_requirements: []
+      equipment_needs: []
+      backup_plans: []
+      community_accommodation: []
+
+analysis_framework:
+  quantitative_analysis:
+    statistical_methods: []
+    software_requirements: []
+    significance_levels: []
+    demographic_breakdowns: []
+    trend_analysis: []
+    comparative_benchmarks: []
+  
+  qualitative_analysis:
+    analysis_approach: ""  # thematic_analysis, content_analysis, grounded_theory
+    coding_framework: []
+    reliability_measures: []
+    community_voice_preservation: []
+    bias_reduction_strategies: []
+    interpretation_validation: []
+  
+  integration_analysis:
+    mixed_methods_integration: ""
+    triangulation_methods: []
+    community_validation_process: []
+    insight_synthesis_approach: []
+    contradiction_resolution: []
+
+resource_requirements:
+  staffing_needs:
+    - role: ""
+      responsibilities: []
+      skill_requirements: []
+      time_commitment: ""
+      training_needs: []
+      community_interaction_requirements: []
+  
+  external_resources:
+    - resource_type: ""  # consultant, technology, facilities, incentives
+      provider: ""
+      cost_estimate: 0
+      timeline: ""
+      quality_requirements: []
+      community_appropriateness: []
+  
+  technology_requirements:
+    - tool_category: ""  # survey_platform, analytics_software, interview_recording
+      specific_tools: []
+      budget_allocation: 0
+      training_requirements: []
+      community_accessibility: []
+      data_security_features: []
+
+timeline_and_scheduling:
+  project_phases:
+    - phase_name: ""
+      duration: ""
+      key_milestones: []
+      dependencies: []
+      risk_factors: []
+      community_coordination_needs: []
+  
+  community_considerations:
+    seasonal_factors: []
+    community_event_coordination: []
+    cultural_calendar_integration: []
+    community_availability_patterns: []
+    emergency_timeline_adjustments: []
+  
+  reporting_schedule:
+    - report_type: ""  # interim, final, community_summary
+      delivery_date: ""
+      audience: []
+      format_requirements: []
+      community_sharing_plan: []
+
+quality_assurance:
+  research_validity:
+    internal_validity_measures: []
+    external_validity_considerations: []
+    cultural_validity_assessment: []
+    community_relevance_verification: []
+    bias_identification_and_mitigation: []
+  
+  data_quality:
+    data_collection_quality_controls: []
+    response_quality_assessment: []
+    completeness_verification: []
+    accuracy_validation: []
+    community_feedback_integration: []
+  
+  ethical_compliance:
+    irb_requirements: []
+    community_consent_processes: []
+    data_protection_measures: []
+    community_benefit_assurance: []
+    transparency_maintenance: []
+
+reporting_and_dissemination:
+  report_structure:
+    executive_summary: []
+    methodology_documentation: []
+    findings_presentation: []
+    community_impact_analysis: []
+    recommendations_development: []
+    appendices_and_supporting_data: []
+  
+  audience_specific_reports:
+    - audience: ""  # leadership, programming_team, community, board
+      report_focus: []
+      format_preferences: []
+      key_message_priorities: []
+      action_item_emphasis: []
+      follow_up_requirements: []
+  
+  community_sharing:
+    community_presentation_plan: []
+    feedback_collection_process: []
+    ongoing_dialogue_facilitation: []
+    research_impact_tracking: []
+    community_benefit_documentation: []
+
+implementation_planning:
+  research_finding_integration:
+    programming_decision_applications: []
+    community_engagement_improvements: []
+    strategic_planning_integration: []
+    staff_development_implications: []
+    resource_allocation_adjustments: []
+  
+  follow_up_research:
+    ongoing_monitoring_needs: []
+    future_research_priorities: []
+    community_relationship_continuation: []
+    research_methodology_refinement: []
+    long_term_impact_assessment: []
+  
+  success_measurement:
+    research_quality_indicators: []
+    community_satisfaction_metrics: []
+    decision_impact_assessment: []
+    relationship_building_outcomes: []
+    programming_improvement_evidence: []
+
+risk_management:
+  research_risks:
+    - risk_category: ""  # recruitment, data_quality, community_relations, timeline, budget
+      specific_risks: []
+      likelihood: ""  # high, medium, low
+      impact_severity: ""  # high, medium, low
+      mitigation_strategies: []
+      contingency_plans: []
+      monitoring_indicators: []
+  
+  community_relationship_risks:
+    cultural_sensitivity_risks: []
+    community_trust_maintenance: []
+    over_research_prevention: []
+    community_benefit_assurance: []
+    long_term_relationship_protection: []
+
+budget_breakdown:
+  personnel_costs:
+    internal_staff: 0
+    external_consultants: 0
+    community_compensation: 0
+    training_and_development: 0
+  
+  operational_costs:
+    technology_and_software: 0
+    materials_and_supplies: 0
+    facility_costs: 0
+    communication_and_outreach: 0
+    incentives_and_refreshments: 0
+  
+  indirect_costs:
+    administrative_overhead: 0
+    community_relationship_maintenance: 0
+    dissemination_and_reporting: 0
+    follow_up_activities: 0
+  
+  contingency_allocation: 0
+  total_budget: 0
+
+notes:
+  community_considerations: []
+  methodological_innovations: []
+  partnership_opportunities: []
+  long_term_research_vision: []
+  learning_and_improvement_priorities: []
+
+approval_signatures:
+  - name: ""
+    title: ""
+    date: ""
+    signature: ""

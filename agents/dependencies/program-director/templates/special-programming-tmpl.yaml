@@ -1,0 +1,430 @@
+# Special Programming Template
+
+program_overview:
+  special_program_name: ""
+  program_type: ""  # documentary, live_event_coverage, community_celebration, crisis_response, educational_series
+  program_format: ""  # one_time_special, limited_series, annual_recurring, emergency_response
+  program_duration: ""
+  target_broadcast_date: ""
+  special_programming_occasion: ""
+  community_significance: ""
+  mission_alignment_rationale: ""
+
+program_concept_and_rationale:
+  programming_purpose:
+    community_need_addressed: ""
+    special_occasion_or_event: ""
+    educational_objectives: []
+    cultural_significance: ""
+    public_service_value: ""
+    community_impact_goals: []
+    
+  unique_programming_elements:
+    distinctive_content_features: []
+    special_guest_participation: []
+    community_involvement_opportunities: []
+    interactive_programming_components: []
+    multimedia_integration: []
+    accessibility_enhancements: []
+    
+  community_research_and_input:
+    community_interest_assessment: []
+    cultural_sensitivity_review: []
+    accessibility_needs_evaluation: []
+    community_feedback_integration: []
+    stakeholder_consultation: []
+    expert_input_incorporation: []
+
+content_development_and_production:
+  content_strategy_and_structure:
+    - program_segment: ""  # introduction, main_content, community_voices, expert_analysis, conclusion
+      segment_duration: ""
+      content_focus: []
+      production_approach: []
+      community_integration: []
+      accessibility_considerations: []
+      quality_standards: []
+      
+  research_and_preparation:
+    background_research_requirements: []
+    fact_checking_and_verification: []
+    cultural_context_development: []
+    community_expert_consultation: []
+    historical_accuracy_assurance: []
+    contemporary_relevance_connection: []
+    
+  content_sources_and_materials:
+    - source_category: ""  # interviews, archival_material, community_content, expert_analysis
+      source_identification: []
+      acquisition_or_development: []
+      rights_and_permissions: []
+      cultural_sensitivity_review: []
+      accuracy_verification: []
+
+host_and_talent_coordination:
+  host_selection_and_preparation:
+    host_expertise_requirements: []
+    community_connection_criteria: []
+    cultural_competency_expectations: []
+    special_topic_knowledge: []
+    presentation_skill_requirements: []
+    community_relationship_considerations: []
+    
+  guest_and_contributor_strategy:
+    - contributor_category: ""  # community_members, subject_experts, cultural_leaders, officials
+      selection_criteria: []
+      preparation_and_briefing: []
+      cultural_sensitivity_protocols: []
+      accessibility_accommodation: []
+      follow_up_and_relationship_building: []
+      
+  community_voice_integration:
+    community_member_participation: []
+    storytelling_opportunity_provision: []
+    diverse_perspective_inclusion: []
+    marginalized_voice_amplification: []
+    intergenerational_connection: []
+    cultural_representation_authenticity: []
+
+technical_production_planning:
+  production_specifications:
+    recording_and_broadcast_requirements: []
+    special_equipment_needs: []
+    location_and_studio_considerations: []
+    audio_quality_standards: []
+    live_vs_recorded_production: []
+    backup_and_contingency_systems: []
+    
+  technical_workflow:
+    pre_production_timeline: []
+    production_day_coordination: []
+    post_production_requirements: []
+    quality_control_procedures: []
+    distribution_and_broadcast_preparation: []
+    archive_and_preservation: []
+    
+  accessibility_and_accommodation:
+    closed_captioning_and_transcription: []
+    sign_language_interpretation: []
+    multilingual_accessibility: []
+    assistive_technology_integration: []
+    community_accommodation_requests: []
+
+community_engagement_and_outreach:
+  pre_program_community_engagement:
+    - engagement_activity: ""  # community_meetings, cultural_organization_outreach, social_media_campaign
+      target_community: ""
+      engagement_objectives: []
+      cultural_sensitivity_approach: []
+      accessibility_accommodation: []
+      relationship_building_goals: []
+      
+  community_participation_opportunities:
+    listener_input_and_feedback: []
+    community_story_sharing: []
+    volunteer_involvement: []
+    community_event_coordination: []
+    cultural_celebration_participation: []
+    
+  partnership_development_and_coordination:
+    - partner_organization: ""
+      partnership_role: []
+      mutual_benefit_goals: []
+      resource_sharing: []
+      community_impact_enhancement: []
+      ongoing_relationship_building: []
+
+marketing_and_promotion_strategy:
+  promotional_campaign_development:
+    - promotion_phase: ""  # pre_announcement, build_up, launch, post_program
+      promotional_activities: []
+      target_audiences: []
+      messaging_priorities: []
+      community_partner_involvement: []
+      accessibility_in_promotion: []
+      
+  community_outreach_and_awareness:
+    cultural_organization_promotion: []
+    community_leader_engagement: []
+    educational_institution_outreach: []
+    social_media_community_building: []
+    word_of_mouth_cultivation: []
+    
+  media_relations_and_publicity:
+    press_release_development: []
+    media_interview_coordination: []
+    community_media_partnership: []
+    social_media_content_strategy: []
+    community_calendar_integration: []
+
+special_considerations_and_accommodations:
+  cultural_sensitivity_protocols:
+    cultural_competency_requirements: []
+    community_tradition_respect: []
+    religious_and_spiritual_considerations: []
+    historical_trauma_awareness: []
+    inclusive_representation_assurance: []
+    
+  accessibility_and_inclusion_planning:
+    - accommodation_type: ""  # language, physical, cognitive, economic
+      accommodation_provision: []
+      community_need_assessment: []
+      resource_allocation: []
+      quality_assurance: []
+      feedback_integration: []
+      
+  crisis_sensitivity_and_trauma_awareness:
+    trauma_informed_programming: []
+    community_healing_support: []
+    mental_health_resource_integration: []
+    sensitive_topic_handling: []
+    community_support_coordination: []
+
+budget_and_resource_planning:
+  production_budget_breakdown:
+    personnel_costs:
+      host_and_talent_compensation: 0
+      production_staff: 0
+      guest_travel_and_accommodation: 0
+      community_contributor_recognition: 0
+      
+    production_costs:
+      equipment_rental_or_purchase: 0
+      location_and_facility_costs: 0
+      materials_and_supplies: 0
+      rights_and_licensing: 0
+      accessibility_services: 0
+      
+    marketing_and_outreach:
+      promotional_materials: 0
+      community_engagement_activities: 0
+      media_relations: 0
+      social_media_promotion: 0
+      community_partnership_support: 0
+      
+  resource_allocation_and_optimization:
+    internal_resource_utilization: []
+    community_volunteer_coordination: []
+    partnership_resource_sharing: []
+    cost_effectiveness_strategies: []
+    contingency_planning: []
+    
+  total_program_budget: 0
+  funding_sources: []
+  cost_per_listener_impact: []
+
+timeline_and_production_schedule:
+  pre_production_phase:
+    - milestone: ""  # concept_development, research_completion, guest_confirmation
+      target_date: ""
+      key_activities: []
+      responsible_parties: []
+      community_coordination: []
+      quality_checkpoints: []
+      
+  production_execution:
+    production_day_schedule: []
+    technical_setup_timeline: []
+    guest_and_contributor_coordination: []
+    community_engagement_activities: []
+    quality_control_procedures: []
+    
+  post_production_and_distribution:
+    editing_and_post_production: []
+    quality_review_and_approval: []
+    distribution_preparation: []
+    promotional_material_completion: []
+    community_follow_up_planning: []
+
+performance_measurement_and_evaluation:
+  success_metrics_and_evaluation:
+    - metric_category: ""  # audience_engagement, community_impact, production_quality
+      specific_measurements: []
+      target_performance: []
+      measurement_methods: []
+      community_feedback_integration: []
+      long_term_impact_assessment: []
+      
+  community_impact_assessment:
+    community_benefit_evaluation: []
+    cultural_preservation_or_celebration: []
+    educational_impact_measurement: []
+    civic_engagement_enhancement: []
+    relationship_building_success: []
+    
+  program_quality_evaluation:
+    content_accuracy_and_quality: []
+    production_value_assessment: []
+    accessibility_effectiveness: []
+    cultural_sensitivity_success: []
+    mission_alignment_verification: []
+
+risk_management_and_contingency_planning:
+  production_risk_assessment:
+    - risk_factor: ""  # technical_issues, guest_availability, weather, community_controversy
+      risk_probability: ""  # high, medium, low
+      potential_impact: ""  # high, medium, low
+      mitigation_strategies: []
+      contingency_plans: []
+      monitoring_procedures: []
+      
+  community_relationship_risk_management:
+    cultural_sensitivity_risk_mitigation: []
+    community_expectation_management: []
+    controversial_topic_handling: []
+    inclusive_representation_assurance: []
+    community_trust_maintenance: []
+    
+  technical_and_operational_contingencies:
+    equipment_failure_backup: []
+    location_unavailability_alternatives: []
+    staff_illness_or_emergency: []
+    weather_or_emergency_disruption: []
+    budget_overrun_management: []
+
+community_partnership_and_collaboration:
+  strategic_partnership_development:
+    - partner_organization: ""
+      partnership_objectives: []
+      role_and_responsibility_distribution: []
+      resource_sharing_agreements: []
+      community_benefit_enhancement: []
+      long_term_relationship_building: []
+      
+  community_organization_collaboration:
+    cultural_organization_involvement: []
+    educational_institution_partnership: []
+    civic_group_participation: []
+    business_community_engagement: []
+    volunteer_organization_coordination: []
+    
+  government_and_official_coordination:
+    local_government_liaison: []
+    cultural_affairs_coordination: []
+    emergency_services_communication: []
+    public_records_and_information_access: []
+    community_event_coordination: []
+
+follow_up_and_community_relationship_building:
+  post_program_community_engagement:
+    community_feedback_collection: []
+    appreciation_and_recognition: []
+    relationship_maintenance: []
+    future_collaboration_planning: []
+    community_impact_documentation: []
+    
+  ongoing_relationship_development:
+    - relationship_category: ""  # community_partners, contributors, audience_members
+      relationship_maintenance_activities: []
+      ongoing_value_provision: []
+      mutual_benefit_cultivation: []
+      long_term_engagement_planning: []
+      
+  future_programming_integration:
+    lessons_learned_documentation: []
+    community_interest_assessment: []
+    recurring_program_potential: []
+    series_development_opportunities: []
+    community_partnership_expansion: []
+
+digital_and_multiplatform_integration:
+  digital_programming_extension:
+    website_content_development: []
+    social_media_content_strategy: []
+    podcast_version_creation: []
+    multimedia_resource_development: []
+    community_discussion_facilitation: []
+    
+  accessibility_and_reach_enhancement:
+    - platform: ""  # website, social_media, podcast, streaming
+      accessibility_features: []
+      community_engagement_optimization: []
+      cultural_sensitivity_integration: []
+      feedback_and_interaction_facilitation: []
+      
+  archive_and_preservation:
+    program_archiving_procedures: []
+    community_historical_preservation: []
+    educational_resource_development: []
+    future_reference_and_research: []
+    cultural_legacy_contribution: []
+
+innovation_and_creative_elements:
+  programming_innovation_opportunities:
+    format_experimentation: []
+    technology_integration: []
+    community_participation_innovation: []
+    accessibility_advancement: []
+    storytelling_technique_development: []
+    
+  creative_collaboration_and_artistic_integration:
+    local_artist_involvement: []
+    creative_community_participation: []
+    multimedia_artistic_integration: []
+    cultural_expression_celebration: []
+    innovative_presentation_methods: []
+    
+  community_content_creation:
+    community_storytelling_integration: []
+    citizen_journalism_incorporation: []
+    collaborative_content_development: []
+    community_expertise_utilization: []
+    participatory_programming_elements: []
+
+legal_and_ethical_considerations:
+  content_rights_and_permissions:
+    intellectual_property_clearance: []
+    community_story_usage_rights: []
+    music_and_media_licensing: []
+    photography_and_video_permissions: []
+    cultural_content_sensitivity: []
+    
+  ethical_programming_standards:
+    community_consent_and_participation: []
+    cultural_appropriation_prevention: []
+    privacy_and_confidentiality: []
+    community_benefit_assurance: []
+    transparent_representation: []
+    
+  regulatory_compliance:
+    fcc_broadcasting_standards: []
+    equal_time_considerations: []
+    emergency_broadcast_integration: []
+    accessibility_compliance: []
+    community_service_documentation: []
+
+success_celebration_and_recognition:
+  community_appreciation_and_recognition:
+    contributor_appreciation: []
+    community_partner_recognition: []
+    volunteer_acknowledgment: []
+    audience_appreciation: []
+    cultural_contribution_celebration: []
+    
+  internal_recognition_and_learning:
+    staff_achievement_acknowledgment: []
+    production_excellence_recognition: []
+    innovation_and_creativity_appreciation: []
+    community_service_dedication: []
+    professional_development_celebration: []
+    
+  external_recognition_and_sharing:
+    industry_recognition_pursuit: []
+    community_impact_documentation: []
+    best_practice_sharing: []
+    regional_leadership_demonstration: []
+    cultural_legacy_contribution: []
+
+notes:
+  community_specific_considerations: []
+  cultural_sensitivity_priorities: []
+  accessibility_accommodation_details: []
+  partnership_development_opportunities: []
+  innovation_and_experimentation_ideas: []
+  long_term_impact_vision: []
+
+approval_signatures:
+  - name: ""
+    title: ""
+    date: ""
+    signature: ""

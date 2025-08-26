@@ -1,0 +1,451 @@
+# Community Engagement Template
+
+engagement_overview:
+  initiative_name: ""
+  engagement_type: "" # partnership_development, event_series, volunteer_program, community_outreach, civic_engagement
+  primary_objectives: []
+  target_communities: []
+  timeline: ""
+  budget_allocation: 0
+  success_metrics: []
+  
+community_assessment:
+  demographic_analysis:
+    population_size: 0
+    age_distribution: []
+    ethnic_composition: []
+    income_levels: []
+    education_levels: []
+    employment_sectors: []
+  
+  community_assets:
+    educational_institutions: []
+    cultural_organizations: []
+    religious_institutions: []
+    civic_groups: []
+    business_associations: []
+    healthcare_facilities: []
+    government_entities: []
+  
+  community_needs:
+    identified_challenges: []
+    service_gaps: []
+    communication_barriers: []
+    access_issues: []
+    priority_concerns: []
+  
+  media_landscape:
+    existing_media_outlets: []
+    information_sources: []
+    communication_channels: []
+    social_media_presence: []
+    community_influencers: []
+
+stakeholder_mapping:
+  primary_stakeholders:
+    - organization_name: ""
+      contact_person: ""
+      relationship_type: ""
+      influence_level: "" # high, medium, low
+      collaboration_potential: "" # high, medium, low
+      mutual_benefits: []
+      engagement_strategy: ""
+  
+  secondary_stakeholders:
+    - organization_name: ""
+      contact_person: ""
+      relationship_type: ""
+      influence_level: "" # high, medium, low
+      collaboration_potential: "" # high, medium, low
+      mutual_benefits: []
+      engagement_strategy: ""
+  
+  community_leaders:
+    - name: ""
+      position: ""
+      organization: ""
+      influence_area: []
+      contact_information: ""
+      engagement_approach: ""
+  
+  potential_partners:
+    - organization_name: ""
+      partnership_type: ""
+      shared_interests: []
+      collaboration_opportunities: []
+      resource_contributions: []
+      expected_outcomes: []
+
+engagement_strategies:
+  partnership_development:
+    formal_partnerships:
+      - partner_organization: ""
+        partnership_type: ""
+        objectives: []
+        mutual_benefits: []
+        resource_commitments: []
+        success_metrics: []
+        timeline: ""
+        evaluation_methods: []
+    
+    informal_collaborations:
+      - collaboration_type: ""
+        participants: []
+        objectives: []
+        activities: []
+        resource_requirements: []
+        timeline: ""
+  
+  community_events:
+    station_hosted_events:
+      - event_name: ""
+        event_type: ""
+        target_audience: ""
+        expected_attendance: 0
+        objectives: []
+        budget: 0
+        timeline: ""
+        success_metrics: []
+        partner_involvement: []
+    
+    community_participation:
+      - event_name: ""
+        organization: ""
+        participation_type: ""
+        station_contribution: []
+        expected_outcomes: []
+        budget_requirement: 0
+  
+  volunteer_engagement:
+    volunteer_opportunities:
+      - opportunity_name: ""
+        description: ""
+        time_commitment: ""
+        skills_required: []
+        training_needed: ""
+        number_of_volunteers: 0
+        supervision_requirements: ""
+    
+    volunteer_recognition:
+      appreciation_methods: []
+      recognition_events: []
+      awards_program: ""
+      ongoing_acknowledgment: []
+  
+  educational_outreach:
+    school_partnerships:
+      - school_name: ""
+        grade_levels: []
+        program_type: ""
+        curriculum_integration: []
+        teacher_training: ""
+        student_involvement: []
+        expected_outcomes: []
+    
+    adult_education:
+      - program_name: ""
+        target_audience: ""
+        topics_covered: []
+        delivery_method: ""
+        frequency: ""
+        partner_organizations: []
+
+communication_strategy:
+  messaging_framework:
+    core_messages:
+      station_mission_alignment: ""
+      community_benefit: ""
+      partnership_value: ""
+      participation_opportunities: ""
+      impact_stories: ""
+    
+    audience_specific_messages:
+      community_leaders: ""
+      nonprofit_organizations: ""
+      educational_institutions: ""
+      business_community: ""
+      residents: ""
+  
+  communication_channels:
+    direct_outreach:
+      personal_meetings: []
+      phone_contacts: []
+      formal_presentations: []
+      site_visits: []
+    
+    digital_communication:
+      email_campaigns: []
+      website_content: []
+      social_media_engagement: []
+      virtual_meetings: []
+    
+    traditional_media:
+      press_releases: []
+      media_interviews: []
+      community_newsletters: []
+      print_advertisements: []
+    
+    community_presence:
+      community_meetings: []
+      public_forums: []
+      festival_participation: []
+      information_booths: []
+
+program_development:
+  community_programming:
+    local_content_creation:
+      - program_name: ""
+        format: ""
+        frequency: ""
+        target_audience: ""
+        community_involvement: []
+        topics_covered: []
+        local_expertise: []
+    
+    community_spotlight:
+      - feature_type: ""
+        frequency: ""
+        selection_criteria: []
+        production_process: ""
+        community_input: []
+  
+  civic_engagement:
+    public_affairs_programming:
+      - program_name: ""
+        focus_area: ""
+        frequency: ""
+        format: ""
+        community_participation: []
+        decision_maker_involvement: []
+    
+    community_forums:
+      - forum_topic: ""
+        format: ""
+        participants: []
+        moderation_approach: ""
+        follow_up_actions: []
+  
+  cultural_programming:
+    arts_partnerships:
+      - partner_organization: ""
+        collaboration_type: ""
+        programming_opportunities: []
+        cross_promotion: []
+        resource_sharing: []
+    
+    cultural_events:
+      - event_name: ""
+        cultural_focus: ""
+        community_involvement: []
+        educational_component: []
+        accessibility_measures: []
+
+resource_management:
+  staffing_requirements:
+    internal_staff:
+      - role: ""
+        time_allocation: ""
+        responsibilities: []
+        required_skills: []
+        training_needs: []
+    
+    external_support:
+      - support_type: ""
+        provider: ""
+        cost: 0
+        timeline: ""
+        deliverables: []
+  
+  budget_allocation:
+    personnel_costs:
+      staff_time: 0
+      consultant_fees: 0
+      training_expenses: 0
+      travel_costs: 0
+    
+    program_expenses:
+      event_costs: 0
+      materials_production: 0
+      venue_rentals: 0
+      equipment_needs: 0
+      promotional_materials: 0
+    
+    partnership_investments:
+      collaborative_funding: 0
+      resource_sharing: 0
+      in_kind_contributions: 0
+      joint_programming: 0
+    
+    total_budget: 0
+    funding_sources: []
+  
+  equipment_and_materials:
+    production_equipment: []
+    promotional_materials: []
+    educational_resources: []
+    office_supplies: []
+
+implementation_timeline:
+  planning_phase:
+    - milestone: ""
+      completion_date: ""
+      responsible_party: ""
+      deliverables: []
+      dependencies: []
+  
+  launch_phase:
+    - milestone: ""
+      completion_date: ""
+      responsible_party: ""
+      deliverables: []
+      dependencies: []
+  
+  ongoing_activities:
+    - activity: ""
+      frequency: ""
+      responsible_party: ""
+      resource_requirements: []
+      evaluation_points: []
+  
+  evaluation_points:
+    - evaluation_date: ""
+      focus_areas: []
+      methods: []
+      decision_points: []
+      adjustment_opportunities: []
+
+success_measurement:
+  quantitative_metrics:
+    participation_metrics:
+      - metric: ""
+        measurement_method: ""
+        baseline: 0
+        target: 0
+        tracking_frequency: ""
+    
+    reach_metrics:
+      - metric: ""
+        measurement_method: ""
+        baseline: 0
+        target: 0
+        tracking_frequency: ""
+    
+    engagement_metrics:
+      - metric: ""
+        measurement_method: ""
+        baseline: 0
+        target: 0
+        tracking_frequency: ""
+  
+  qualitative_assessments:
+    community_feedback:
+      collection_methods: []
+      analysis_approach: ""
+      feedback_integration: ""
+      response_strategies: []
+    
+    partner_satisfaction:
+      assessment_methods: []
+      satisfaction_criteria: []
+      improvement_identification: []
+      relationship_strengthening: []
+  
+  impact_evaluation:
+    community_outcomes:
+      - outcome: ""
+        measurement_approach: ""
+        timeline: ""
+        attribution_methods: []
+    
+    organizational_benefits:
+      - benefit: ""
+        measurement_approach: ""
+        timeline: ""
+        documentation_methods: []
+
+sustainability_planning:
+  long_term_viability:
+    funding_sustainability: []
+    partnership_maintenance: []
+    program_evolution: []
+    capacity_building: []
+  
+  growth_opportunities:
+    expansion_possibilities: []
+    new_partnerships: []
+    program_development: []
+    resource_enhancement: []
+  
+  risk_mitigation:
+    potential_challenges:
+      - challenge: ""
+        probability: "" # low, medium, high
+        impact: "" # low, medium, high
+        mitigation_strategies: []
+        contingency_plans: []
+  
+  knowledge_transfer:
+    documentation_requirements: []
+    training_materials: []
+    succession_planning: []
+    institutional_memory: []
+
+community_feedback_integration:
+  feedback_collection:
+    formal_surveys: []
+    focus_groups: []
+    community_meetings: []
+    online_platforms: []
+    partner_consultations: []
+  
+  feedback_analysis:
+    analysis_methods: []
+    trend_identification: []
+    priority_ranking: []
+    action_planning: []
+  
+  response_mechanisms:
+    public_acknowledgment: []
+    program_adjustments: []
+    policy_changes: []
+    new_initiative_development: []
+  
+  continuous_improvement:
+    review_cycles: []
+    adaptation_processes: []
+    innovation_integration: []
+    best_practice_sharing: []
+
+reporting_and_communication:
+  internal_reporting:
+    - report_type: ""
+      frequency: ""
+      recipients: []
+      content_focus: []
+      format: ""
+  
+  community_reporting:
+    - report_type: ""
+      frequency: ""
+      distribution_channels: []
+      content_focus: []
+      format: ""
+  
+  stakeholder_updates:
+    - stakeholder_group: ""
+      update_frequency: ""
+      communication_method: []
+      information_priorities: []
+
+notes:
+  community_insights: []
+  partnership_opportunities: []
+  cultural_considerations: []
+  accessibility_requirements: []
+  special_circumstances: []
+
+approval_signatures:
+  - name: ""
+    title: ""
+    date: ""
+    signature: ""

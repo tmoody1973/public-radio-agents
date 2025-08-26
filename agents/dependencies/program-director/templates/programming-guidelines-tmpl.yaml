@@ -1,0 +1,443 @@
+# Programming Guidelines Template
+
+guidelines_overview:
+  document_name: ""
+  effective_date: ""
+  last_revision_date: ""
+  next_review_date: ""
+  scope_of_application: []
+  responsible_authority: ""
+  compliance_requirements: []
+  community_alignment_goals: []
+
+mission_and_public_service_standards:
+  programming_mission_statement: ""
+  public_service_priorities:
+    - priority_area: ""  # education, information, culture, community_service
+      definition_and_scope: ""
+      implementation_requirements: []
+      measurement_standards: []
+      community_benefit_goals: []
+      accountability_mechanisms: []
+      
+  community_service_obligations:
+    community_needs_responsiveness: []
+    local_content_requirements: []
+    diversity_and_inclusion_mandates: []
+    accessibility_and_accommodation: []
+    civic_engagement_promotion: []
+    cultural_preservation_support: []
+
+content_standards_and_quality:
+  editorial_standards:
+    accuracy_and_verification:
+      fact_checking_procedures: []
+      source_verification_requirements: []
+      error_correction_protocols: []
+      transparency_in_corrections: []
+      community_accountability: []
+      
+    balance_and_fairness:
+      controversial_issue_coverage: []
+      diverse_perspective_inclusion: []
+      editorial_independence_maintenance: []
+      conflict_of_interest_management: []
+      community_representation_standards: []
+      
+    cultural_sensitivity:
+      inclusive_language_requirements: []
+      cultural_competency_standards: []
+      community_respect_protocols: []
+      bias_awareness_and_mitigation: []
+      marginalized_community_support: []
+      
+  content_appropriateness:
+    - content_category: ""  # news, music, interviews, community_features
+      appropriateness_criteria: []
+      community_standards_alignment: []
+      age_appropriate_considerations: []
+      cultural_sensitivity_requirements: []
+      educational_value_assessment: []
+      
+  production_quality_standards:
+    technical_quality_requirements: []
+    professional_presentation_standards: []
+    accessibility_compliance: []
+    consistency_and_reliability: []
+    emergency_broadcast_preparedness: []
+
+programming_format_and_structure_guidelines:
+  daily_programming_structure:
+    - programming_block: ""  # morning, midday, afternoon, evening, overnight
+      content_focus_requirements: []
+      target_audience_considerations: []
+      community_service_integration: []
+      local_content_minimums: []
+      host_qualifications: []
+      
+  program_length_and_scheduling:
+    - program_type: ""  # news, music, interview, community_affairs
+      recommended_length: ""
+      scheduling_considerations: []
+      audience_flow_optimization: []
+      community_event_accommodation: []
+      flexibility_requirements: []
+      
+  content_balance_requirements:
+    news_and_information_percentage: 0
+    music_programming_percentage: 0
+    community_affairs_percentage: 0
+    educational_content_percentage: 0
+    local_content_minimum: 0
+    diverse_voice_representation: []
+
+host_and_talent_guidelines:
+  host_qualifications_and_standards:
+    - role_category: ""  # news_host, music_host, interview_host, community_liaison
+      minimum_qualifications: []
+      preferred_experience: []
+      community_connection_requirements: []
+      cultural_competency_expectations: []
+      ongoing_development_obligations: []
+      
+  on_air_presentation_standards:
+    professional_communication: []
+    community_engagement_approach: []
+    cultural_sensitivity_requirements: []
+    accessibility_considerations: []
+    crisis_communication_protocols: []
+    
+  community_engagement_expectations:
+    community_event_participation: []
+    relationship_building_responsibilities: []
+    community_feedback_responsiveness: []
+    cultural_competency_development: []
+    volunteer_coordination_support: []
+
+guest_and_source_guidelines:
+  guest_selection_criteria:
+    expertise_and_credibility: []
+    community_representation: []
+    diversity_and_inclusion: []
+    cultural_sensitivity: []
+    accessibility_accommodation: []
+    
+  interview_preparation_standards:
+    research_and_background_verification: []
+    question_development: []
+    cultural_sensitivity_preparation: []
+    accessibility_accommodation_planning: []
+    follow_up_and_fact_checking: []
+    
+  source_development_and_maintenance:
+    community_expert_cultivation: []
+    diverse_source_network: []
+    relationship_building_ethics: []
+    transparency_and_disclosure: []
+    ongoing_relationship_maintenance: []
+
+community_engagement_and_participation_guidelines:
+  community_involvement_standards:
+    - engagement_type: ""  # advisory_participation, volunteer_involvement, community_events
+      participation_requirements: []
+      accessibility_accommodation: []
+      cultural_sensitivity_protocols: []
+      recognition_and_appreciation: []
+      ongoing_support_provision: []
+      
+  listener_feedback_and_interaction:
+    feedback_collection_mechanisms: []
+    response_protocols: []
+    community_dialogue_facilitation: []
+    controversy_management: []
+    appreciation_and_recognition: []
+    
+  community_partnership_guidelines:
+    - partnership_category: ""  # educational, cultural, civic, business
+      partnership_criteria: []
+      mutual_benefit_requirements: []
+      community_service_alignment: []
+      ethical_considerations: []
+      ongoing_evaluation_standards: []
+
+news_and_information_programming_guidelines:
+  local_news_coverage_standards:
+    community_priority_identification: []
+    balanced_coverage_requirements: []
+    source_diversity_expectations: []
+    follow_up_and_ongoing_coverage: []
+    community_impact_assessment: []
+    
+  interview_and_discussion_program_guidelines:
+    guest_selection_and_preparation: []
+    question_development_standards: []
+    controversial_topic_handling: []
+    community_dialogue_facilitation: []
+    fact_checking_and_verification: []
+    
+  breaking_news_and_emergency_protocols:
+    verification_procedures: []
+    community_safety_prioritization: []
+    accurate_information_dissemination: []
+    ongoing_coverage_coordination: []
+    community_support_resource_sharing: []
+
+music_programming_guidelines:
+  music_selection_and_curation:
+    quality_and_appropriateness_standards: []
+    cultural_diversity_requirements: []
+    local_music_integration: []
+    educational_value_consideration: []
+    community_celebration_support: []
+    
+  host_presentation_and_education:
+    musical_knowledge_requirements: []
+    educational_content_integration: []
+    community_connection_building: []
+    cultural_sensitivity_in_presentation: []
+    local_artist_support: []
+    
+  live_music_and_community_event_integration:
+    community_venue_partnerships: []
+    local_artist_showcasing: []
+    music_education_support: []
+    community_cultural_celebration: []
+    accessibility_and_inclusion: []
+
+special_programming_guidelines:
+  community_event_coverage:
+    - event_type: ""  # government_meetings, cultural_celebrations, community_forums
+      coverage_standards: []
+      preparation_requirements: []
+      community_coordination: []
+      accessibility_accommodation: []
+      follow_up_obligations: []
+      
+  seasonal_and_holiday_programming:
+    cultural_sensitivity_requirements: []
+    inclusive_celebration_approach: []
+    community_tradition_respect: []
+    accessibility_and_accommodation: []
+    diverse_community_representation: []
+    
+  crisis_and_emergency_programming:
+    emergency_broadcast_protocols: []
+    community_information_verification: []
+    safety_prioritization: []
+    ongoing_support_coordination: []
+    recovery_and_rebuilding_coverage: []
+
+digital_and_multiplatform_guidelines:
+  website_and_online_content:
+    content_quality_standards: []
+    accessibility_compliance: []
+    community_engagement_facilitation: []
+    information_accuracy_maintenance: []
+    cultural_sensitivity_online: []
+    
+  social_media_programming:
+    - platform: ""  # facebook, twitter, instagram
+      content_guidelines: []
+      community_engagement_standards: []
+      crisis_communication_protocols: []
+      accessibility_considerations: []
+      cultural_sensitivity_requirements: []
+      
+  podcast_and_on_demand_programming:
+    content_adaptation_standards: []
+    accessibility_feature_requirements: []
+    community_engagement_extension: []
+    quality_maintenance: []
+    distribution_optimization: []
+
+accessibility_and_inclusion_guidelines:
+  universal_access_requirements:
+    physical_accessibility_accommodation: []
+    communication_accessibility_support: []
+    language_accessibility_provision: []
+    economic_barrier_removal: []
+    technology_accessibility_assurance: []
+    
+  inclusive_programming_practices:
+    diverse_community_representation: []
+    marginalized_voice_amplification: []
+    cultural_competency_integration: []
+    bias_awareness_and_mitigation: []
+    inclusive_language_requirements: []
+    
+  accommodation_and_support_services:
+    - accommodation_type: ""  # translation, sign_language, assistive_technology
+      provision_standards: []
+      quality_assurance: []
+      community_feedback_integration: []
+      ongoing_improvement: []
+      cost_management: []
+
+ethical_and_legal_compliance_guidelines:
+  fcc_and_regulatory_compliance:
+    license_obligation_fulfillment: []
+    equal_time_and_fairness: []
+    emergency_alert_system: []
+    public_file_maintenance: []
+    community_ascertainment: []
+    
+  cpb_and_funding_compliance:
+    non_commercial_standards: []
+    underwriting_acknowledgment_guidelines: []
+    community_service_documentation: []
+    transparency_and_accountability: []
+    diversity_and_inclusion_reporting: []
+    
+  ethical_programming_standards:
+    editorial_independence_protection: []
+    conflict_of_interest_management: []
+    community_benefit_prioritization: []
+    transparency_and_honesty: []
+    cultural_respect_and_sensitivity: []
+
+performance_measurement_and_quality_assurance:
+  programming_evaluation_standards:
+    - evaluation_criteria: ""  # community_impact, audience_engagement, mission_alignment
+      measurement_methods: []
+      evaluation_frequency: ""
+      improvement_protocols: []
+      community_feedback_integration: []
+      
+  quality_control_procedures:
+    content_review_processes: []
+    technical_quality_monitoring: []
+    community_feedback_analysis: []
+    host_performance_evaluation: []
+    continuous_improvement_implementation: []
+    
+  community_accountability_mechanisms:
+    transparency_in_programming_decisions: []
+    community_input_solicitation: []
+    responsive_programming_adjustment: []
+    public_complaint_resolution: []
+    ongoing_community_dialogue: []
+
+staff_development_and_training_guidelines:
+  mandatory_training_requirements:
+    - training_area: ""  # cultural_competency, accessibility, emergency_procedures
+      training_frequency: ""
+      competency_standards: []
+      assessment_methods: []
+      ongoing_development: []
+      
+  professional_development_expectations:
+    industry_knowledge_maintenance: []
+    community_engagement_skills: []
+    technical_skill_development: []
+    cultural_sensitivity_advancement: []
+    leadership_and_mentorship: []
+    
+  community_connection_development:
+    community_event_participation: []
+    relationship_building_activities: []
+    cultural_competency_application: []
+    volunteer_coordination_skills: []
+    community_advocacy_understanding: []
+
+crisis_management_and_emergency_programming_guidelines:
+  emergency_response_protocols:
+    - emergency_type: ""  # weather, public_safety, community_crisis
+      response_procedures: []
+      information_verification: []
+      community_coordination: []
+      staff_safety_protocols: []
+      service_continuity_plans: []
+      
+  controversial_issue_management:
+    balanced_coverage_approach: []
+    community_dialogue_facilitation: []
+    conflict_resolution_procedures: []
+    stakeholder_communication: []
+    long_term_relationship_maintenance: []
+    
+  programming_disruption_management:
+    technical_failure_protocols: []
+    staff_unavailability_coverage: []
+    community_event_scheduling_conflicts: []
+    budget_constraint_adaptation: []
+    emergency_content_preparation: []
+
+innovation_and_continuous_improvement_guidelines:
+  programming_innovation_standards:
+    community_benefit_focus: []
+    experimental_programming_protocols: []
+    technology_integration_guidelines: []
+    community_feedback_integration: []
+    success_measurement_criteria: []
+    
+  continuous_improvement_processes:
+    regular_guideline_review: []
+    community_input_integration: []
+    best_practice_research: []
+    staff_feedback_incorporation: []
+    mission_alignment_optimization: []
+    
+  adaptation_and_flexibility_requirements:
+    changing_community_needs_responsiveness: []
+    technology_advancement_integration: []
+    demographic_shift_accommodation: []
+    emergency_adaptation_capabilities: []
+    cultural_evolution_reflection: []
+
+implementation_and_enforcement:
+  guideline_implementation:
+    rollout_timeline: []
+    staff_training_requirements: []
+    community_communication: []
+    monitoring_and_evaluation: []
+    adjustment_and_refinement: []
+    
+  compliance_monitoring:
+    regular_audit_procedures: []
+    community_feedback_monitoring: []
+    performance_metric_tracking: []
+    corrective_action_protocols: []
+    recognition_and_celebration: []
+    
+  enforcement_and_accountability:
+    non_compliance_consequences: []
+    improvement_support_provision: []
+    community_complaint_resolution: []
+    transparent_accountability: []
+    ongoing_relationship_repair: []
+
+guideline_review_and_revision:
+  regular_review_schedule:
+    annual_comprehensive_review: []
+    quarterly_performance_assessment: []
+    community_feedback_integration: []
+    regulatory_update_accommodation: []
+    best_practice_incorporation: []
+    
+  revision_process:
+    stakeholder_input_collection: []
+    community_consultation: []
+    staff_feedback_integration: []
+    expert_consultation: []
+    approval_and_implementation: []
+    
+  version_control_and_documentation:
+    change_tracking: []
+    historical_version_maintenance: []
+    staff_notification_procedures: []
+    community_communication: []
+    training_update_coordination: []
+
+notes:
+  community_specific_adaptations: []
+  cultural_sensitivity_priorities: []
+  accessibility_accommodation_emphasis: []
+  partnership_development_considerations: []
+  innovation_opportunity_areas: []
+  long_term_community_service_vision: []
+
+approval_signatures:
+  - name: ""
+    title: ""
+    date: ""
+    signature: ""
