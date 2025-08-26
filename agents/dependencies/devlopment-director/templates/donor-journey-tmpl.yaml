@@ -1,0 +1,380 @@
+# Donor Journey Template
+
+journey_overview:
+  donor_profile:
+    name: ""
+    segment: "" # prospect, new_donor, regular_member, major_donor, lapsed_donor
+    acquisition_source: ""
+    first_contact_date: ""
+    total_lifetime_value: 0
+    giving_capacity_estimate: ""
+  
+  journey_objectives:
+    primary_goal: ""
+    secondary_goals: []
+    success_metrics: []
+    timeline: ""
+
+stages:
+  awareness:
+    description: "Initial exposure to the station and its mission"
+    duration: ""
+    
+    touchpoints:
+      - channel: ""
+        message: ""
+        frequency: ""
+        responsible_party: ""
+        success_metric: ""
+    
+    objectives:
+      - objective: ""
+        measurement: ""
+        target: ""
+    
+    content_strategy:
+      key_messages: []
+      content_types: []
+      channels: []
+    
+    conversion_triggers:
+      - trigger: ""
+        action: ""
+        follow_up: ""
+
+  interest:
+    description: "Developing curiosity and engagement with station content"
+    duration: ""
+    
+    touchpoints:
+      - channel: ""
+        message: ""
+        frequency: ""
+        responsible_party: ""
+        success_metric: ""
+    
+    objectives:
+      - objective: ""
+        measurement: ""
+        target: ""
+    
+    engagement_activities:
+      - activity: ""
+        description: ""
+        expected_outcome: ""
+        measurement: ""
+    
+    nurturing_strategy:
+      communication_frequency: ""
+      content_focus: []
+      personalization_level: ""
+
+  consideration:
+    description: "Evaluating the station as worthy of financial support"
+    duration: ""
+    
+    touchpoints:
+      - channel: ""
+        message: ""
+        frequency: ""
+        responsible_party: ""
+        success_metric: ""
+    
+    decision_factors:
+      - factor: ""
+        importance: "" # high, medium, low
+        addressing_strategy: ""
+    
+    cultivation_activities:
+      - activity: ""
+        purpose: ""
+        timeline: ""
+        responsible_party: ""
+    
+    objection_handling:
+      - objection: ""
+        response_strategy: ""
+        supporting_materials: []
+
+  first_gift:
+    description: "Making the initial financial commitment to the station"
+    duration: ""
+    
+    solicitation_strategy:
+      approach_method: ""
+      ask_amount: 0
+      timing: ""
+      messenger: ""
+      setting: ""
+    
+    conversion_optimization:
+      barriers_removal: []
+      incentives: []
+      urgency_factors: []
+      social_proof: []
+    
+    gift_processing:
+      acknowledgment_timeline: ""
+      recognition_level: ""
+      stewardship_sequence: []
+    
+    immediate_follow_up:
+      - action: ""
+        timeline: ""
+        responsible_party: ""
+        purpose: ""
+
+  retention:
+    description: "Building loyalty and encouraging continued giving"
+    duration: ""
+    
+    stewardship_plan:
+      communication_frequency: ""
+      content_types: []
+      channels: []
+      personalization_elements: []
+    
+    engagement_deepening:
+      - opportunity: ""
+        description: ""
+        timeline: ""
+        expected_outcome: ""
+    
+    retention_strategies:
+      - strategy: ""
+        implementation: ""
+        success_metric: ""
+    
+    renewal_approach:
+      timing: ""
+      method: ""
+      ask_strategy: ""
+      upgrade_potential: ""
+
+  growth:
+    description: "Increasing giving level and deepening relationship"
+    duration: ""
+    
+    upgrade_strategy:
+      capacity_assessment: ""
+      timing_factors: []
+      approach_method: ""
+      ask_progression: []
+    
+    relationship_building:
+      - activity: ""
+        purpose: ""
+        frequency: ""
+        responsible_party: ""
+    
+    involvement_opportunities:
+      - opportunity: ""
+        description: ""
+        commitment_level: ""
+        benefits: []
+    
+    major_gift_cultivation:
+      qualification_criteria: []
+      cultivation_timeline: ""
+      solicitation_strategy: ""
+      stewardship_plan: ""
+
+  advocacy:
+    description: "Becoming an active promoter and ambassador"
+    duration: ""
+    
+    advocacy_activities:
+      - activity: ""
+        description: ""
+        support_needed: ""
+        expected_impact: ""
+    
+    referral_program:
+      incentives: []
+      tracking_method: ""
+      recognition_approach: ""
+    
+    leadership_roles:
+      - role: ""
+        responsibilities: []
+        time_commitment: ""
+        benefits: []
+    
+    legacy_planning:
+      planned_giving_introduction: ""
+      estate_planning_resources: []
+      recognition_opportunities: []
+
+touchpoint_details:
+  communication_channels:
+    direct_mail:
+      frequency: ""
+      content_types: []
+      personalization_level: ""
+      response_tracking: ""
+    
+    email:
+      frequency: ""
+      content_types: []
+      segmentation_strategy: ""
+      automation_triggers: []
+    
+    phone:
+      call_frequency: ""
+      call_purposes: []
+      script_guidelines: ""
+      follow_up_protocol: ""
+    
+    in_person:
+      meeting_frequency: ""
+      meeting_purposes: []
+      location_preferences: ""
+      preparation_requirements: []
+    
+    events:
+      event_types: []
+      invitation_strategy: ""
+      follow_up_approach: ""
+      relationship_building: ""
+    
+    digital:
+      website_personalization: []
+      social_media_engagement: ""
+      online_community_access: []
+
+personalization_strategy:
+  demographic_factors:
+    - factor: ""
+      customization_approach: ""
+      content_adaptation: ""
+  
+  behavioral_triggers:
+    - behavior: ""
+      response_action: ""
+      timing: ""
+      channel: ""
+  
+  preference_management:
+    communication_preferences: []
+    recognition_preferences: []
+    engagement_preferences: []
+    privacy_considerations: []
+  
+  interest_alignment:
+    program_interests: []
+    cause_connections: []
+    personal_motivations: []
+    value_alignments: []
+
+measurement_and_optimization:
+  key_performance_indicators:
+    - metric: ""
+      target: ""
+      measurement_method: ""
+      reporting_frequency: ""
+  
+  conversion_tracking:
+    stage_conversion_rates: []
+    drop_off_points: []
+    optimization_opportunities: []
+  
+  engagement_metrics:
+    - metric: ""
+      benchmark: ""
+      improvement_target: ""
+      action_triggers: []
+  
+  feedback_collection:
+    survey_points: []
+    feedback_methods: []
+    response_integration: ""
+
+risk_management:
+  potential_obstacles:
+    - obstacle: ""
+      probability: "" # low, medium, high
+      impact: "" # low, medium, high
+      mitigation_strategy: ""
+  
+  contingency_plans:
+    - scenario: ""
+      alternative_approach: ""
+      resource_requirements: []
+  
+  early_warning_indicators:
+    - indicator: ""
+      threshold: ""
+      response_action: ""
+
+resource_requirements:
+  staff_time:
+    - role: ""
+      time_commitment: ""
+      specific_responsibilities: []
+  
+  budget_allocation:
+    - expense_category: ""
+      amount: 0
+      justification: ""
+  
+  technology_needs:
+    - tool: ""
+      purpose: ""
+      cost: 0
+      implementation_timeline: ""
+  
+  materials_and_content:
+    - item: ""
+      description: ""
+      production_timeline: ""
+      responsible_party: ""
+
+success_criteria:
+  quantitative_goals:
+    - goal: ""
+      target: 0
+      measurement_period: ""
+      success_threshold: ""
+  
+  qualitative_outcomes:
+    - outcome: ""
+      assessment_method: ""
+      success_indicators: []
+  
+  relationship_quality:
+    satisfaction_metrics: []
+    engagement_depth: []
+    loyalty_indicators: []
+
+continuous_improvement:
+  review_schedule:
+    frequency: ""
+    participants: []
+    focus_areas: []
+  
+  optimization_process:
+    data_analysis: ""
+    hypothesis_testing: ""
+    implementation_approach: ""
+    results_measurement: ""
+  
+  best_practice_integration:
+    industry_benchmarks: []
+    peer_learning: []
+    innovation_adoption: []
+
+notes:
+  special_considerations: ""
+  donor_specific_factors: []
+  relationship_history: ""
+  future_opportunities: ""
+  
+approval_and_updates:
+  created_by: ""
+  creation_date: ""
+  approved_by: ""
+  approval_date: ""
+  last_updated: ""
+  next_review_date: ""
+  version_control: ""
+

@@ -1,0 +1,478 @@
+# Special Event Plan Template
+
+event_overview:
+  event_name: ""
+  event_type: "" # gala, auction, concert, festival, house_party, appreciation_event
+  event_date: ""
+  event_time: ""
+  venue: ""
+  expected_attendance: 0
+  event_chair: ""
+  staff_lead: ""
+  
+  event_purpose:
+    primary_objective: ""
+    secondary_objectives: []
+    target_audience: ""
+    success_definition: ""
+
+goals_and_objectives:
+  financial_goals:
+    gross_revenue_target: 0
+    net_revenue_target: 0
+    ticket_sales_target: 0
+    sponsorship_target: 0
+    auction_target: 0
+    donation_target: 0
+    cost_per_dollar_raised: 0
+  
+  attendance_goals:
+    total_attendance_target: 0
+    new_attendee_target: 0
+    vip_attendance_target: 0
+    volunteer_participation: 0
+  
+  relationship_goals:
+    new_donor_acquisition: 0
+    donor_upgrade_opportunities: 0
+    board_prospect_identification: 0
+    community_engagement: ""
+    media_coverage_goals: []
+
+event_concept:
+  theme: ""
+  atmosphere: ""
+  dress_code: ""
+  
+  program_elements:
+    - element: ""
+      duration: ""
+      purpose: ""
+      responsible_party: ""
+  
+  entertainment:
+    - type: ""
+      performer: ""
+      duration: ""
+      cost: 0
+      technical_requirements: []
+  
+  special_features:
+    - feature: ""
+      description: ""
+      cost: 0
+      impact: ""
+
+venue_and_logistics:
+  venue_details:
+    venue_name: ""
+    address: ""
+    capacity: 0
+    rental_cost: 0
+    included_services: []
+    additional_costs: []
+  
+  space_requirements:
+    reception_area: ""
+    dining_area: ""
+    stage_area: ""
+    auction_display: ""
+    registration_area: ""
+    storage_needs: ""
+  
+  technical_requirements:
+    audio_visual: []
+    lighting: []
+    staging: []
+    internet_connectivity: ""
+    power_requirements: []
+  
+  accessibility:
+    ada_compliance: []
+    parking_availability: ""
+    public_transportation: ""
+    special_accommodations: []
+
+timeline_and_milestones:
+  planning_timeline:
+    - milestone: ""
+      deadline: ""
+      responsible_party: ""
+      status: ""
+      dependencies: []
+  
+  day_of_event_schedule:
+    - time: ""
+      activity: ""
+      responsible_party: ""
+      location: ""
+      notes: ""
+  
+  post_event_timeline:
+    - task: ""
+      deadline: ""
+      responsible_party: ""
+      priority: ""
+
+budget_planning:
+  revenue_projections:
+    ticket_sales:
+      ticket_types:
+        - type: ""
+          price: 0
+          quantity: 0
+          total_revenue: 0
+      total_ticket_revenue: 0
+    
+    sponsorships:
+      sponsorship_levels:
+        - level: ""
+          price: 0
+          quantity: 0
+          benefits: []
+          total_revenue: 0
+      total_sponsorship_revenue: 0
+    
+    auction_items:
+      live_auction_target: 0
+      silent_auction_target: 0
+      total_auction_revenue: 0
+    
+    additional_revenue:
+      - source: ""
+        amount: 0
+        description: ""
+    
+    total_projected_revenue: 0
+  
+  expense_budget:
+    venue_costs:
+      rental_fee: 0
+      service_charges: 0
+      security_deposit: 0
+      insurance: 0
+      total_venue_costs: 0
+    
+    catering:
+      food_cost: 0
+      beverage_cost: 0
+      service_charges: 0
+      gratuity: 0
+      total_catering_costs: 0
+    
+    entertainment:
+      performer_fees: 0
+      technical_support: 0
+      equipment_rental: 0
+      total_entertainment_costs: 0
+    
+    marketing_promotion:
+      printing: 0
+      advertising: 0
+      photography: 0
+      videography: 0
+      total_marketing_costs: 0
+    
+    decorations_flowers:
+      centerpieces: 0
+      stage_decorations: 0
+      entrance_displays: 0
+      total_decoration_costs: 0
+    
+    auction_expenses:
+      item_procurement: 0
+      display_materials: 0
+      auctioneer_fee: 0
+      total_auction_costs: 0
+    
+    administrative_costs:
+      invitations: 0
+      postage: 0
+      registration_materials: 0
+      volunteer_expenses: 0
+      total_administrative_costs: 0
+    
+    contingency: 0
+    total_expenses: 0
+  
+  financial_projections:
+    net_revenue: 0
+    return_on_investment: 0
+    cost_per_attendee: 0
+
+marketing_and_promotion:
+  target_audience:
+    primary_audience:
+      demographics: []
+      interests: []
+      giving_capacity: ""
+      marketing_approach: ""
+    
+    secondary_audiences:
+      - audience: ""
+        characteristics: []
+        marketing_strategy: ""
+  
+  marketing_strategy:
+    positioning: ""
+    key_messages: []
+    value_propositions: []
+    call_to_action: ""
+  
+  promotional_channels:
+    direct_mail:
+      save_the_date: ""
+      formal_invitation: ""
+      follow_up_mailings: []
+      target_lists: []
+    
+    digital_marketing:
+      website_promotion: []
+      email_campaigns: []
+      social_media_strategy: ""
+      online_advertising: []
+    
+    earned_media:
+      press_releases: []
+      media_interviews: []
+      community_calendar_listings: []
+    
+    personal_outreach:
+      board_member_invitations: 0
+      staff_personal_invitations: 0
+      volunteer_recruitment: []
+  
+  materials_needed:
+    - item: ""
+      quantity: 0
+      cost: 0
+      deadline: ""
+      responsible_party: ""
+
+sponsorship_program:
+  sponsorship_levels:
+    - level: ""
+      investment: 0
+      benefits: []
+      recognition: []
+      quantity_available: 0
+      target_prospects: []
+  
+  sponsor_benefits:
+    recognition_opportunities: []
+    networking_benefits: []
+    marketing_value: []
+    exclusive_access: []
+  
+  sponsor_cultivation:
+    prospect_identification: []
+    solicitation_strategy: ""
+    proposal_timeline: ""
+    stewardship_plan: ""
+
+auction_planning:
+  auction_format:
+    live_auction: ""
+    silent_auction: ""
+    online_auction: ""
+    special_features: []
+  
+  item_procurement:
+    procurement_strategy: ""
+    solicitation_timeline: ""
+    item_categories: []
+    value_targets: []
+  
+  auction_logistics:
+    display_setup: ""
+    bidding_process: ""
+    payment_processing: ""
+    item_delivery: ""
+  
+  auctioneer_selection:
+    professional_auctioneer: ""
+    volunteer_auctioneer: ""
+    training_requirements: []
+    compensation: 0
+
+volunteer_management:
+  volunteer_needs:
+    - role: ""
+      number_needed: 0
+      time_commitment: ""
+      skills_required: []
+      responsibilities: []
+  
+  recruitment_strategy:
+    recruitment_channels: []
+    recruitment_timeline: ""
+    incentives: []
+    recognition_plan: ""
+  
+  volunteer_coordination:
+    training_schedule: []
+    communication_plan: ""
+    day_of_coordination: ""
+    appreciation_activities: []
+
+guest_experience:
+  registration_process:
+    advance_registration: ""
+    day_of_registration: ""
+    check_in_process: ""
+    materials_provided: []
+  
+  hospitality_elements:
+    welcome_reception: ""
+    vip_treatment: []
+    special_accommodations: []
+    guest_services: []
+  
+  program_flow:
+    event_schedule: []
+    transitions: []
+    timing_management: ""
+    contingency_plans: []
+
+committee_structure:
+  event_committee:
+    committee_chair: ""
+    committee_members: []
+    meeting_schedule: ""
+    responsibilities: []
+  
+  subcommittees:
+    - committee: ""
+      chair: ""
+      members: []
+      responsibilities: []
+      timeline: ""
+  
+  staff_roles:
+    - staff_member: ""
+      role: ""
+      responsibilities: []
+      time_commitment: ""
+
+risk_management:
+  potential_risks:
+    - risk: ""
+      probability: ""
+      impact: ""
+      mitigation_strategy: ""
+      contingency_plan: ""
+  
+  insurance_requirements:
+    event_insurance: ""
+    liability_coverage: ""
+    vendor_insurance: []
+    additional_coverage: []
+  
+  emergency_procedures:
+    emergency_contacts: []
+    evacuation_plan: ""
+    medical_emergencies: ""
+    weather_contingencies: []
+
+evaluation_and_follow_up:
+  success_metrics:
+    financial_performance: []
+    attendance_analysis: []
+    guest_satisfaction: []
+    volunteer_feedback: []
+  
+  post_event_analysis:
+    financial_reconciliation: ""
+    goal_achievement_review: []
+    lessons_learned: []
+    improvement_recommendations: []
+  
+  follow_up_activities:
+    thank_you_communications: []
+    donor_stewardship: ""
+    sponsor_recognition: []
+    volunteer_appreciation: []
+  
+  future_planning:
+    next_event_considerations: []
+    relationship_building: []
+    database_updates: []
+    strategic_implications: []
+
+vendor_management:
+  key_vendors:
+    - vendor: ""
+      service: ""
+      contact: ""
+      cost: 0
+      contract_terms: ""
+      payment_schedule: ""
+  
+  vendor_coordination:
+    communication_plan: ""
+    timeline_coordination: []
+    quality_assurance: []
+    backup_plans: []
+
+legal_and_compliance:
+  permits_licenses:
+    required_permits: []
+    application_deadlines: []
+    responsible_party: ""
+    costs: 0
+  
+  contracts_agreements:
+    venue_contract: ""
+    vendor_agreements: []
+    performer_contracts: []
+    insurance_policies: []
+  
+  tax_implications:
+    deductible_portions: []
+    benefit_valuations: []
+    reporting_requirements: []
+    documentation_needs: []
+
+communication_plan:
+  internal_communication:
+    staff_updates: ""
+    board_reporting: ""
+    volunteer_communication: ""
+    committee_coordination: ""
+  
+  external_communication:
+    guest_communication: []
+    sponsor_updates: []
+    media_relations: []
+    community_outreach: []
+
+technology_requirements:
+  registration_system: ""
+  payment_processing: ""
+  auction_software: ""
+  audio_visual_equipment: []
+  
+  technical_support:
+    setup_requirements: []
+    day_of_support: ""
+    troubleshooting_plan: []
+    backup_systems: []
+
+notes_and_special_considerations:
+  unique_elements: ""
+  cultural_considerations: []
+  accessibility_requirements: []
+  special_circumstances: ""
+  
+approval_and_sign_off:
+  plan_approval:
+    approved_by: ""
+    approval_date: ""
+    budget_authorization: ""
+  
+  final_checklist:
+    - item: ""
+      responsible_party: ""
+      deadline: ""
+      status: ""
+

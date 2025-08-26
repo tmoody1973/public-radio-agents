@@ -1,0 +1,446 @@
+# Stewardship Plan Template
+
+plan_overview:
+  donor_name: ""
+  donor_id: ""
+  plan_type: "" # individual, segment, campaign_specific, annual
+  plan_period: ""
+  created_by: ""
+  creation_date: ""
+  last_updated: ""
+  next_review_date: ""
+  
+  executive_summary:
+    donor_profile: ""
+    relationship_status: ""
+    stewardship_level: ""
+    key_objectives: []
+    success_metrics: []
+
+donor_profile:
+  basic_information:
+    full_name: ""
+    preferred_name: ""
+    spouse_partner: ""
+    contact_information: []
+    communication_preferences: []
+  
+  giving_history:
+    first_gift_date: ""
+    total_lifetime_giving: 0
+    largest_gift: 0
+    most_recent_gift: 0
+    giving_frequency: ""
+    
+    gift_history:
+      - date: ""
+        amount: 0
+        purpose: ""
+        campaign: ""
+        recognition_provided: ""
+  
+  relationship_indicators:
+    relationship_depth: ""
+    engagement_level: ""
+    satisfaction_rating: ""
+    loyalty_indicators: []
+    influence_potential: ""
+
+stewardship_objectives:
+  primary_goals:
+    - goal: ""
+      timeline: ""
+      success_metric: ""
+      responsible_party: ""
+  
+  relationship_objectives:
+    trust_building: []
+    engagement_deepening: []
+    satisfaction_enhancement: []
+    loyalty_strengthening: []
+  
+  future_giving_objectives:
+    retention_focus: ""
+    upgrade_potential: ""
+    planned_giving_introduction: ""
+    referral_opportunities: []
+
+stewardship_level_assignment:
+  stewardship_tier: "" # platinum, gold, silver, bronze, standard
+  
+  tier_criteria:
+    gift_amount_threshold: 0
+    cumulative_giving: 0
+    relationship_factors: []
+    engagement_indicators: []
+    potential_assessment: ""
+  
+  tier_benefits:
+    recognition_level: ""
+    communication_frequency: ""
+    exclusive_access: []
+    personal_attention: ""
+    special_events: []
+
+communication_strategy:
+  communication_schedule:
+    immediate_acknowledgment:
+      timeline: "within 48 hours"
+      method: ""
+      personalization: ""
+      responsible_party: ""
+    
+    regular_updates:
+      frequency: ""
+      content_focus: []
+      channels: []
+      timing_optimization: ""
+    
+    special_communications:
+      - occasion: ""
+        timing: ""
+        method: ""
+        content: ""
+        responsible_party: ""
+  
+  content_strategy:
+    key_messages: []
+    content_themes: []
+    storytelling_approach: ""
+    impact_reporting: []
+  
+  channel_preferences:
+    primary_channels: []
+    secondary_channels: []
+    channel_optimization: ""
+    accessibility_considerations: []
+
+recognition_program:
+  recognition_elements:
+    public_recognition:
+      - type: ""
+        venue: ""
+        timing: ""
+        approval_required: ""
+    
+    private_recognition:
+      - type: ""
+        format: ""
+        frequency: ""
+        personalization: ""
+    
+    tangible_recognition:
+      - item: ""
+        occasion: ""
+        cost: 0
+        significance: ""
+  
+  naming_opportunities:
+    available_opportunities: []
+    qualification_requirements: []
+    recognition_benefits: []
+    stewardship_commitments: []
+  
+  recognition_preferences:
+    preferred_recognition: []
+    recognition_limitations: []
+    privacy_considerations: []
+    family_involvement: ""
+
+engagement_activities:
+  exclusive_events:
+    - event: ""
+      frequency: ""
+      target_audience: ""
+      objectives: []
+      expected_outcomes: []
+  
+  behind_the_scenes_access:
+    station_tours: ""
+    staff_meetings: []
+    program_observations: []
+    decision_making_involvement: []
+  
+  educational_opportunities:
+    industry_insights: []
+    community_impact_education: []
+    station_operations_learning: []
+    professional_development: []
+  
+  volunteer_opportunities:
+    - opportunity: ""
+      time_commitment: ""
+      skills_utilized: []
+      benefits_to_donor: []
+      benefits_to_station: []
+
+impact_reporting:
+  reporting_schedule:
+    frequency: ""
+    timing: ""
+    format: ""
+    distribution_method: ""
+  
+  content_elements:
+    financial_stewardship: []
+    program_outcomes: []
+    community_impact: []
+    success_stories: []
+    challenges_and_solutions: []
+  
+  personalization:
+    donor_specific_impact: ""
+    gift_attribution: ""
+    personal_connection: []
+    customized_metrics: []
+  
+  multimedia_elements:
+    photography: []
+    video_content: []
+    infographics: []
+    testimonials: []
+
+relationship_building:
+  personal_interactions:
+    face_to_face_meetings:
+      frequency: ""
+      purpose: []
+      location_preferences: ""
+      preparation_requirements: []
+    
+    phone_conversations:
+      frequency: ""
+      timing: ""
+      conversation_topics: []
+      follow_up_protocol: ""
+    
+    informal_interactions:
+      social_opportunities: []
+      community_events: []
+      casual_encounters: []
+      relationship_deepening: []
+  
+  family_engagement:
+    spouse_involvement: ""
+    children_engagement: []
+    family_events: []
+    generational_planning: ""
+  
+  peer_connections:
+    donor_introductions: []
+    peer_events: []
+    networking_opportunities: []
+    community_building: []
+
+stewardship_timeline:
+  immediate_stewardship:
+    first_48_hours: []
+    first_week: []
+    first_month: []
+    success_indicators: []
+  
+  ongoing_stewardship:
+    quarterly_activities: []
+    annual_milestones: []
+    special_occasions: []
+    relationship_maintenance: []
+  
+  long_term_cultivation:
+    multi_year_objectives: []
+    legacy_planning: []
+    succession_considerations: []
+    perpetual_stewardship: []
+
+performance_measurement:
+  stewardship_metrics:
+    relationship_quality:
+      - metric: ""
+        measurement_method: ""
+        target: ""
+        frequency: ""
+    
+    engagement_indicators:
+      - indicator: ""
+        measurement: ""
+        benchmark: ""
+        improvement_target: ""
+    
+    satisfaction_measures:
+      - measure: ""
+        assessment_method: ""
+        frequency: ""
+        action_triggers: []
+  
+  giving_performance:
+    retention_tracking: ""
+    upgrade_monitoring: ""
+    giving_frequency: ""
+    gift_size_trends: []
+  
+  feedback_collection:
+    formal_surveys: []
+    informal_feedback: []
+    third_party_insights: []
+    continuous_monitoring: ""
+
+resource_allocation:
+  staff_time:
+    - role: ""
+      time_commitment: ""
+      specific_responsibilities: []
+      skill_requirements: []
+  
+  budget_requirements:
+    communication_costs: 0
+    event_expenses: 0
+    recognition_items: 0
+    travel_entertainment: 0
+    total_stewardship_budget: 0
+  
+  technology_needs:
+    database_requirements: []
+    communication_tools: []
+    tracking_systems: []
+    automation_opportunities: []
+
+risk_management:
+  relationship_risks:
+    - risk: ""
+      probability: ""
+      impact: ""
+      mitigation_strategy: ""
+      monitoring_approach: ""
+  
+  stewardship_challenges:
+    communication_barriers: []
+    expectation_management: []
+    resource_constraints: []
+    staff_transitions: []
+  
+  contingency_planning:
+    alternative_approaches: []
+    backup_strategies: []
+    crisis_communication: []
+    relationship_repair: []
+
+quality_assurance:
+  stewardship_standards:
+    service_level_agreements: []
+    quality_benchmarks: []
+    consistency_measures: []
+    excellence_indicators: []
+  
+  monitoring_systems:
+    tracking_mechanisms: []
+    reporting_protocols: []
+    feedback_loops: []
+    improvement_processes: []
+  
+  staff_training:
+    skill_development: []
+    best_practices: []
+    relationship_management: []
+    communication_excellence: []
+
+integration_and_coordination:
+  cross_functional_coordination:
+    development_team: []
+    marketing_communications: []
+    program_staff: []
+    executive_leadership: []
+  
+  database_integration:
+    information_sharing: []
+    data_consistency: []
+    privacy_protection: []
+    access_controls: []
+  
+  strategic_alignment:
+    organizational_priorities: []
+    campaign_integration: []
+    long_term_planning: []
+    mission_connection: []
+
+continuous_improvement:
+  evaluation_process:
+    regular_assessment: ""
+    performance_review: []
+    stakeholder_feedback: []
+    best_practice_identification: []
+  
+  optimization_opportunities:
+    efficiency_improvements: []
+    effectiveness_enhancements: []
+    innovation_adoption: []
+    technology_upgrades: []
+  
+  learning_integration:
+    knowledge_sharing: []
+    skill_development: []
+    process_refinement: []
+    strategic_evolution: []
+
+special_considerations:
+  donor_specific_factors:
+    unique_circumstances: []
+    special_requirements: []
+    cultural_considerations: []
+    accessibility_needs: []
+  
+  seasonal_factors:
+    timing_considerations: []
+    holiday_acknowledgments: []
+    anniversary_recognition: []
+    life_event_responses: []
+  
+  external_factors:
+    economic_conditions: []
+    competitive_environment: []
+    regulatory_changes: []
+    industry_trends: []
+
+documentation_and_records:
+  record_keeping:
+    interaction_logs: []
+    communication_history: []
+    preference_tracking: []
+    outcome_documentation: []
+  
+  privacy_and_confidentiality:
+    information_security: []
+    access_restrictions: []
+    sharing_protocols: []
+    retention_policies: []
+  
+  reporting_requirements:
+    internal_reporting: []
+    board_updates: []
+    donor_communications: []
+    compliance_documentation: []
+
+approval_and_governance:
+  plan_approval:
+    approved_by: ""
+    approval_date: ""
+    authorization_level: ""
+    implementation_clearance: ""
+  
+  governance_oversight:
+    review_committee: ""
+    reporting_structure: []
+    accountability_measures: []
+    performance_standards: []
+  
+  plan_updates:
+    update_triggers: []
+    modification_process: ""
+    approval_requirements: []
+    version_control: ""
+
+notes_and_observations:
+  strategic_insights: ""
+  relationship_observations: []
+  opportunity_identification: []
+  challenge_documentation: []
+  future_considerations: []
+

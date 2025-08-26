@@ -1,0 +1,368 @@
+# Campaign Plan Template
+
+campaign_info:
+  name: ""
+  type: "" # annual_appeal, capital_campaign, membership_drive, emergency_appeal, special_project
+  start_date: ""
+  end_date: ""
+  fiscal_year: ""
+  campaign_manager: ""
+  
+goals:
+  financial:
+    total_goal: 0
+    stretch_goal: 0
+    minimum_goal: 0
+    new_donor_goal: 0
+    upgrade_goal: 0
+    retention_goal_percentage: 0
+  
+  participation:
+    total_donors: 0
+    new_donors: 0
+    returning_donors: 0
+    board_participation_percentage: 100
+    staff_participation_percentage: 100
+    volunteer_participation_percentage: 0
+  
+  engagement:
+    event_attendance: 0
+    volunteer_hours: 0
+    social_media_engagement: 0
+    email_list_growth: 0
+
+case_for_support:
+  mission_statement: ""
+  
+  community_need:
+    problem_description: ""
+    urgency_factors: []
+    supporting_data: []
+    community_impact: ""
+  
+  station_response:
+    programs_services: []
+    unique_qualifications: []
+    track_record: []
+    innovation_elements: []
+  
+  funding_need:
+    total_project_cost: 0
+    funding_sources:
+      - source: ""
+        amount: 0
+        status: "" # secured, pending, projected
+    funding_gap: 0
+    timeline_urgency: ""
+
+target_audiences:
+  primary_segments:
+    - segment_name: ""
+      description: ""
+      size: 0
+      average_gift_target: 0
+      total_goal: 0
+      cultivation_strategy: ""
+      solicitation_method: ""
+      timeline: ""
+  
+  secondary_segments:
+    - segment_name: ""
+      description: ""
+      size: 0
+      average_gift_target: 0
+      total_goal: 0
+      cultivation_strategy: ""
+      solicitation_method: ""
+      timeline: ""
+
+gift_table:
+  leadership_gifts:
+    - level: "Lead Gift"
+      amount: 0
+      prospects_needed: 0
+      gifts_needed: 1
+      total_raised: 0
+      solicitation_method: "personal visit"
+      timeline: ""
+  
+  major_gifts:
+    - level: ""
+      amount: 0
+      prospects_needed: 0
+      gifts_needed: 0
+      total_raised: 0
+      solicitation_method: ""
+      timeline: ""
+  
+  general_gifts:
+    - level: ""
+      amount_range: ""
+      prospects_needed: 0
+      gifts_needed: 0
+      total_raised: 0
+      solicitation_method: ""
+      timeline: ""
+
+strategies_tactics:
+  cultivation:
+    events:
+      - event_name: ""
+        date: ""
+        target_audience: ""
+        expected_attendance: 0
+        budget: 0
+        objectives: []
+    
+    communications:
+      - type: "" # newsletter, email, direct_mail, social_media
+        frequency: ""
+        target_audience: ""
+        key_messages: []
+        timeline: ""
+    
+    personal_visits:
+      target_prospects: 0
+      visits_per_month: 0
+      staff_responsible: []
+      volunteer_involvement: ""
+  
+  solicitation:
+    direct_mail:
+      pieces: 0
+      target_audience: ""
+      expected_response_rate: 0
+      average_gift: 0
+      timeline: ""
+    
+    email_campaigns:
+      campaigns: 0
+      target_audience: ""
+      expected_response_rate: 0
+      average_gift: 0
+      timeline: ""
+    
+    phone_campaigns:
+      calls: 0
+      target_audience: ""
+      expected_response_rate: 0
+      average_gift: 0
+      timeline: ""
+    
+    personal_solicitations:
+      prospects: 0
+      expected_success_rate: 0
+      average_gift: 0
+      timeline: ""
+  
+  stewardship:
+    acknowledgment_process:
+      timeline: "within 48 hours"
+      personalization_level: ""
+      special_recognition: []
+    
+    ongoing_communication:
+      frequency: ""
+      content_types: []
+      channels: []
+    
+    donor_appreciation:
+      events: []
+      recognition_opportunities: []
+      exclusive_access: []
+
+marketing_communications:
+  key_messages:
+    primary_message: ""
+    supporting_messages: []
+    call_to_action: ""
+  
+  materials_needed:
+    - item: ""
+      description: ""
+      quantity: 0
+      deadline: ""
+      responsible_party: ""
+      budget: 0
+  
+  media_strategy:
+    earned_media:
+      press_releases: []
+      media_interviews: []
+      community_events: []
+    
+    paid_media:
+      advertising_budget: 0
+      channels: []
+      timeline: ""
+    
+    digital_strategy:
+      website_updates: []
+      social_media_plan: ""
+      email_marketing: ""
+      online_giving_optimization: []
+
+timeline:
+  pre_campaign:
+    - milestone: ""
+      date: ""
+      responsible_party: ""
+      status: "" # not_started, in_progress, completed
+  
+  campaign_phases:
+    - phase: ""
+      start_date: ""
+      end_date: ""
+      objectives: []
+      key_activities: []
+      milestones: []
+  
+  post_campaign:
+    - milestone: ""
+      date: ""
+      responsible_party: ""
+      status: ""
+
+budget:
+  revenue_projections:
+    total_projected: 0
+    by_source:
+      - source: ""
+        amount: 0
+        percentage: 0
+  
+  expenses:
+    staff_costs:
+      salaries_benefits: 0
+      consultant_fees: 0
+      temporary_staff: 0
+    
+    materials_production:
+      printing: 0
+      design: 0
+      photography: 0
+      video_production: 0
+    
+    marketing_advertising:
+      paid_advertising: 0
+      promotional_materials: 0
+      website_development: 0
+    
+    events:
+      venue_costs: 0
+      catering: 0
+      entertainment: 0
+      decorations: 0
+    
+    technology:
+      database_costs: 0
+      software_licenses: 0
+      equipment: 0
+    
+    other_expenses:
+      postage: 0
+      travel: 0
+      miscellaneous: 0
+  
+  total_expenses: 0
+  net_revenue: 0
+  cost_per_dollar_raised: 0
+
+team_structure:
+  campaign_leadership:
+    campaign_chair: ""
+    co_chairs: []
+    honorary_chairs: []
+  
+  staff_roles:
+    - name: ""
+      title: ""
+      responsibilities: []
+      time_commitment: ""
+  
+  volunteer_committees:
+    - committee_name: ""
+      chair: ""
+      members: []
+      responsibilities: []
+      meeting_schedule: ""
+  
+  board_involvement:
+    expectations: []
+    giving_requirement: ""
+    solicitation_assignments: 0
+
+risk_management:
+  potential_challenges:
+    - challenge: ""
+      probability: "" # low, medium, high
+      impact: "" # low, medium, high
+      mitigation_strategy: ""
+      contingency_plan: ""
+  
+  success_factors:
+    critical_elements: []
+    key_dependencies: []
+    early_indicators: []
+
+evaluation_metrics:
+  financial_metrics:
+    - metric: ""
+      target: 0
+      measurement_method: ""
+      reporting_frequency: ""
+  
+  engagement_metrics:
+    - metric: ""
+      target: 0
+      measurement_method: ""
+      reporting_frequency: ""
+  
+  operational_metrics:
+    - metric: ""
+      target: 0
+      measurement_method: ""
+      reporting_frequency: ""
+
+reporting_schedule:
+  internal_reports:
+    - report_type: ""
+      frequency: ""
+      recipients: []
+      content_overview: ""
+  
+  board_reports:
+    frequency: ""
+    format: ""
+    key_metrics: []
+  
+  public_updates:
+    frequency: ""
+    channels: []
+    content_focus: ""
+
+post_campaign_analysis:
+  success_evaluation:
+    goals_achieved: []
+    goals_missed: []
+    unexpected_outcomes: []
+  
+  lessons_learned:
+    what_worked_well: []
+    areas_for_improvement: []
+    recommendations_for_future: []
+  
+  donor_retention_plan:
+    stewardship_strategy: ""
+    next_solicitation_timeline: ""
+    relationship_building_activities: []
+
+notes:
+  additional_considerations: ""
+  special_circumstances: ""
+  approval_signatures:
+    - name: ""
+      title: ""
+      date: ""
+      signature: ""
+

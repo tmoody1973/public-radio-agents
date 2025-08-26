@@ -1,0 +1,387 @@
+# Major Gift Strategy Template
+
+strategy_overview:
+  prospect_name: ""
+  prospect_id: ""
+  strategy_date: ""
+  strategy_author: ""
+  review_date: ""
+  last_updated: ""
+  
+  executive_summary:
+    relationship_status: ""
+    giving_capacity: ""
+    cultivation_stage: ""
+    recommended_ask: 0
+    timeline_to_solicitation: ""
+    success_probability: ""
+
+prospect_profile:
+  basic_information:
+    full_name: ""
+    preferred_name: ""
+    spouse_partner: ""
+    age: 0
+    occupation: ""
+    employer: ""
+    residence: ""
+    contact_preferences: []
+  
+  wealth_indicators:
+    estimated_net_worth: 0
+    annual_income_range: ""
+    liquid_assets: 0
+    real_estate_holdings: []
+    business_interests: []
+    investment_portfolio: ""
+    giving_capacity_rating: ""
+  
+  philanthropic_profile:
+    annual_giving_capacity: 0
+    major_gift_capacity: 0
+    lifetime_giving_potential: 0
+    
+    giving_history:
+      - organization: ""
+        relationship: ""
+        gift_amount: 0
+        gift_date: ""
+        recognition_level: ""
+    
+    giving_patterns:
+      preferred_causes: []
+      giving_motivations: []
+      decision_making_process: ""
+      timing_preferences: ""
+      recognition_preferences: ""
+
+relationship_analysis:
+  current_relationship:
+    relationship_depth: "" # new, developing, established, close
+    primary_contact: ""
+    relationship_history: ""
+    engagement_level: ""
+    trust_indicators: []
+  
+  connection_points:
+    - connection_type: ""
+      contact_person: ""
+      relationship_strength: ""
+      influence_level: ""
+      cultivation_potential: ""
+  
+  station_engagement:
+    listening_habits: ""
+    program_preferences: []
+    event_attendance: []
+    volunteer_involvement: ""
+    feedback_provided: []
+  
+  giving_history_with_station:
+    - gift_date: ""
+      amount: 0
+      purpose: ""
+      solicitation_method: ""
+      recognition_provided: ""
+
+capacity_assessment:
+  financial_capacity:
+    liquid_assets_available: 0
+    annual_discretionary_income: 0
+    competing_financial_obligations: []
+    economic_factors: []
+  
+  giving_capacity:
+    annual_giving_potential: 0
+    major_gift_potential: 0
+    ultimate_gift_potential: 0
+    capacity_confidence_level: ""
+  
+  capacity_indicators:
+    lifestyle_markers: []
+    spending_patterns: []
+    investment_behavior: ""
+    financial_priorities: []
+
+inclination_assessment:
+  mission_alignment:
+    values_match: ""
+    personal_interests: []
+    cause_connections: []
+    community_involvement: ""
+  
+  motivation_factors:
+    primary_motivations: []
+    personal_experiences: []
+    family_influences: []
+    peer_influences: []
+    recognition_desires: []
+  
+  readiness_indicators:
+    life_stage_factors: []
+    timing_considerations: []
+    competing_priorities: []
+    decision_readiness: ""
+  
+  inclination_rating: ""
+  inclination_confidence: ""
+
+cultivation_strategy:
+  cultivation_objectives:
+    primary_goal: ""
+    secondary_goals: []
+    relationship_milestones: []
+    timeline: ""
+  
+  cultivation_activities:
+    - activity: ""
+      purpose: ""
+      timeline: ""
+      responsible_party: ""
+      expected_outcome: ""
+      success_metrics: []
+  
+  engagement_plan:
+    communication_frequency: ""
+    communication_channels: []
+    content_strategy: ""
+    personalization_elements: []
+  
+  involvement_opportunities:
+    - opportunity: ""
+      description: ""
+      time_commitment: ""
+      benefits_to_prospect: []
+      benefits_to_station: []
+
+solicitation_strategy:
+  ask_preparation:
+    ask_amount: 0
+    ask_range: ""
+    payment_options: []
+    project_designation: ""
+    recognition_package: []
+  
+  solicitation_approach:
+    solicitation_method: ""
+    solicitor_team: []
+    meeting_location: ""
+    presentation_materials: []
+    follow_up_timeline: ""
+  
+  proposal_elements:
+    case_for_support: ""
+    project_description: ""
+    impact_statement: ""
+    recognition_opportunities: []
+    naming_rights: ""
+  
+  timing_strategy:
+    optimal_timing: ""
+    seasonal_considerations: []
+    personal_timing_factors: []
+    organizational_timing: ""
+
+stewardship_plan:
+  immediate_stewardship:
+    acknowledgment_timeline: ""
+    recognition_approach: ""
+    thank_you_sequence: []
+    initial_impact_reporting: ""
+  
+  ongoing_stewardship:
+    communication_schedule: ""
+    reporting_frequency: ""
+    exclusive_access: []
+    special_events: []
+  
+  relationship_maintenance:
+    regular_touchpoints: []
+    personal_attention: ""
+    family_involvement: ""
+    peer_connections: []
+  
+  upgrade_potential:
+    next_ask_timeline: ""
+    capacity_growth_factors: []
+    relationship_deepening: ""
+    legacy_planning_introduction: ""
+
+risk_assessment:
+  potential_obstacles:
+    - obstacle: ""
+      probability: ""
+      impact: ""
+      mitigation_strategy: ""
+  
+  competitive_factors:
+    other_organizations: []
+    competing_priorities: []
+    timing_conflicts: []
+  
+  relationship_risks:
+    communication_challenges: []
+    expectation_management: []
+    staff_transitions: []
+    organizational_changes: []
+
+success_metrics:
+  quantitative_measures:
+    - metric: ""
+      target: ""
+      measurement_method: ""
+      timeline: ""
+  
+  qualitative_indicators:
+    relationship_quality: []
+    engagement_depth: []
+    satisfaction_measures: []
+  
+  milestone_tracking:
+    cultivation_milestones: []
+    solicitation_milestones: []
+    stewardship_milestones: []
+
+resource_requirements:
+  staff_time:
+    - role: ""
+      time_commitment: ""
+      specific_responsibilities: []
+  
+  budget_allocation:
+    cultivation_expenses: 0
+    solicitation_costs: 0
+    stewardship_budget: 0
+    recognition_costs: 0
+  
+  materials_needed:
+    - item: ""
+      purpose: ""
+      timeline: ""
+      responsible_party: ""
+
+timeline_and_milestones:
+  cultivation_phase:
+    duration: ""
+    key_activities: []
+    milestones: []
+    success_indicators: []
+  
+  solicitation_phase:
+    preparation_timeline: ""
+    solicitation_date: ""
+    follow_up_schedule: []
+    decision_timeline: ""
+  
+  stewardship_phase:
+    immediate_actions: []
+    ongoing_schedule: ""
+    relationship_building: []
+    future_cultivation: ""
+
+contingency_planning:
+  alternative_scenarios:
+    - scenario: ""
+      probability: ""
+      alternative_strategy: ""
+      resource_adjustments: []
+  
+  backup_strategies:
+    alternative_asks: []
+    different_timelines: []
+    modified_approaches: []
+  
+  exit_strategies:
+    graceful_withdrawal: ""
+    relationship_preservation: ""
+    future_opportunities: ""
+
+team_coordination:
+  strategy_team:
+    - name: ""
+      role: ""
+      responsibilities: []
+      expertise: ""
+  
+  communication_plan:
+    meeting_schedule: ""
+    reporting_structure: ""
+    decision_making_process: ""
+    information_sharing: ""
+  
+  accountability_measures:
+    individual_responsibilities: []
+    progress_tracking: ""
+    performance_evaluation: ""
+
+monitoring_and_evaluation:
+  progress_tracking:
+    tracking_methods: []
+    reporting_frequency: ""
+    key_indicators: []
+  
+  strategy_adjustment:
+    review_triggers: []
+    modification_process: ""
+    approval_requirements: ""
+  
+  learning_integration:
+    best_practices_capture: ""
+    knowledge_sharing: ""
+    strategy_refinement: ""
+
+documentation_and_records:
+  contact_records:
+    interaction_logging: ""
+    conversation_summaries: []
+    follow_up_tracking: ""
+  
+  research_documentation:
+    source_attribution: ""
+    verification_status: ""
+    update_schedule: ""
+  
+  strategy_updates:
+    version_control: ""
+    change_documentation: ""
+    approval_records: ""
+
+confidentiality_and_ethics:
+  information_handling:
+    confidentiality_requirements: []
+    access_restrictions: ""
+    sharing_protocols: ""
+  
+  ethical_considerations:
+    prospect_privacy: ""
+    information_boundaries: ""
+    professional_standards: []
+  
+  compliance_requirements:
+    organizational_policies: []
+    legal_requirements: []
+    industry_standards: []
+
+notes_and_observations:
+  strategic_insights: ""
+  relationship_observations: []
+  cultivation_opportunities: []
+  special_considerations: ""
+  
+approval_and_review:
+  strategy_approval:
+    approved_by: ""
+    approval_date: ""
+    approval_conditions: []
+  
+  review_schedule:
+    next_review_date: ""
+    review_participants: []
+    review_criteria: []
+  
+  update_history:
+    - update_date: ""
+      updated_by: ""
+      changes_made: []
+      reason_for_update: ""
+

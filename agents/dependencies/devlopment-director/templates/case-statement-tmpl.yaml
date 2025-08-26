@@ -1,0 +1,329 @@
+# Case Statement Template
+
+document_info:
+  title: ""
+  subtitle: ""
+  version: "1.0"
+  date_created: ""
+  last_updated: ""
+  author: ""
+  approved_by: ""
+  target_audience: "" # board, major_donors, foundations, community_leaders
+
+executive_summary:
+  mission_statement: ""
+  vision_statement: ""
+  core_values: []
+  key_accomplishments: []
+  funding_need_summary: ""
+  impact_potential: ""
+
+organization_overview:
+  history:
+    founding_date: ""
+    founding_story: ""
+    key_milestones: []
+    evolution_highlights: []
+  
+  current_status:
+    years_of_service: 0
+    community_served: ""
+    annual_budget: 0
+    staff_size: 0
+    volunteer_base: 0
+    facilities: []
+  
+  governance:
+    board_composition:
+      total_members: 0
+      diversity_representation: ""
+      expertise_areas: []
+      community_connections: []
+    
+    leadership_team:
+      - name: ""
+        title: ""
+        background: ""
+        tenure: ""
+    
+    advisory_groups: []
+
+community_need:
+  problem_statement:
+    primary_challenge: ""
+    scope_and_scale: ""
+    affected_populations: []
+    urgency_factors: []
+  
+  supporting_evidence:
+    statistics: []
+    research_findings: []
+    community_feedback: []
+    expert_opinions: []
+  
+  consequences_of_inaction:
+    immediate_impacts: []
+    long_term_consequences: []
+    opportunity_costs: []
+  
+  market_analysis:
+    competitive_landscape: ""
+    unique_position: ""
+    barriers_to_entry: []
+    collaborative_opportunities: []
+
+station_response:
+  programs_and_services:
+    - program_name: ""
+      description: ""
+      target_audience: ""
+      annual_reach: 0
+      outcomes_achieved: []
+      success_metrics: []
+  
+  unique_qualifications:
+    organizational_strengths: []
+    staff_expertise: []
+    community_relationships: []
+    infrastructure_assets: []
+    track_record: []
+  
+  innovation_and_excellence:
+    awards_recognition: []
+    best_practices: []
+    pilot_programs: []
+    partnerships: []
+    thought_leadership: []
+
+impact_and_outcomes:
+  quantitative_results:
+    - metric: ""
+      baseline: 0
+      current_performance: 0
+      target_goal: 0
+      measurement_period: ""
+  
+  qualitative_outcomes:
+    success_stories: []
+    testimonials: []
+    community_feedback: []
+    stakeholder_perspectives: []
+  
+  broader_community_impact:
+    economic_benefits: []
+    social_outcomes: []
+    cultural_contributions: []
+    educational_value: []
+    civic_engagement: []
+
+strategic_plan:
+  vision_for_future:
+    five_year_vision: ""
+    aspirational_goals: []
+    community_transformation: ""
+  
+  strategic_priorities:
+    - priority: ""
+      description: ""
+      timeline: ""
+      success_indicators: []
+      resource_requirements: []
+  
+  growth_opportunities:
+    program_expansion: []
+    new_initiatives: []
+    partnership_development: []
+    technology_advancement: []
+    capacity_building: []
+
+funding_requirements:
+  total_campaign_goal: 0
+  campaign_timeline: ""
+  
+  funding_categories:
+    - category: ""
+      amount_needed: 0
+      percentage_of_total: 0
+      description: ""
+      impact_statement: ""
+      naming_opportunities: []
+  
+  gift_opportunities:
+    major_gifts:
+      - level: ""
+        amount: 0
+        number_needed: 0
+        recognition_benefits: []
+        impact_description: ""
+    
+    naming_opportunities:
+      - opportunity: ""
+        investment_level: 0
+        recognition_details: ""
+        legacy_value: ""
+    
+    endowment_options:
+      - fund_name: ""
+        minimum_gift: 0
+        annual_distribution: 0
+        purpose: ""
+        perpetual_impact: ""
+
+financial_sustainability:
+  current_funding_sources:
+    - source: ""
+      annual_amount: 0
+      percentage_of_budget: 0
+      stability_rating: "" # stable, growing, declining, uncertain
+  
+  diversification_strategy:
+    new_revenue_streams: []
+    growth_projections: []
+    risk_mitigation: []
+  
+  fiscal_responsibility:
+    financial_oversight: ""
+    audit_results: []
+    efficiency_metrics: []
+    transparency_measures: []
+
+investment_impact:
+  return_on_investment:
+    community_benefits_per_dollar: ""
+    leverage_potential: ""
+    multiplier_effects: []
+  
+  donor_benefits:
+    tax_advantages: []
+    recognition_opportunities: []
+    engagement_possibilities: []
+    legacy_creation: ""
+  
+  urgency_factors:
+    time_sensitive_opportunities: []
+    matching_fund_deadlines: []
+    competitive_pressures: []
+    community_expectations: []
+
+organizational_capacity:
+  leadership_strength:
+    board_expertise: []
+    staff_qualifications: []
+    succession_planning: ""
+    professional_development: []
+  
+  operational_excellence:
+    systems_and_processes: []
+    quality_assurance: []
+    continuous_improvement: []
+    stakeholder_satisfaction: []
+  
+  growth_readiness:
+    infrastructure_capacity: []
+    scalability_factors: []
+    risk_management: []
+    change_management: []
+
+partnership_opportunities:
+  current_collaborations:
+    - partner: ""
+      relationship_type: ""
+      mutual_benefits: []
+      success_examples: []
+  
+  potential_partnerships:
+    strategic_alliances: []
+    funding_collaborations: []
+    program_partnerships: []
+    resource_sharing: []
+  
+  community_integration:
+    civic_involvement: []
+    business_relationships: []
+    educational_connections: []
+    cultural_partnerships: []
+
+risk_assessment:
+  potential_challenges:
+    - risk: ""
+      probability: "" # low, medium, high
+      impact: "" # low, medium, high
+      mitigation_strategy: ""
+  
+  contingency_planning:
+    scenario_planning: []
+    backup_strategies: []
+    crisis_management: []
+  
+  success_factors:
+    critical_elements: []
+    key_dependencies: []
+    early_indicators: []
+
+call_to_action:
+  investment_invitation:
+    primary_ask: ""
+    giving_options: []
+    payment_methods: []
+    recognition_levels: []
+  
+  engagement_opportunities:
+    volunteer_roles: []
+    advisory_positions: []
+    advocacy_activities: []
+    networking_possibilities: []
+  
+  next_steps:
+    immediate_actions: []
+    follow_up_process: ""
+    decision_timeline: ""
+    contact_information: []
+
+appendices:
+  supporting_documents:
+    - document: ""
+      description: ""
+      relevance: ""
+  
+  financial_statements:
+    audit_reports: []
+    budget_summaries: []
+    financial_projections: []
+  
+  testimonials_and_endorsements:
+    community_leaders: []
+    beneficiaries: []
+    partners: []
+    experts: []
+  
+  media_coverage:
+    news_articles: []
+    awards_recognition: []
+    research_citations: []
+
+design_specifications:
+  visual_elements:
+    color_scheme: []
+    typography: ""
+    imagery_style: ""
+    layout_preferences: ""
+  
+  production_notes:
+    page_count: 0
+    format: "" # print, digital, both
+    distribution_method: []
+    update_schedule: ""
+
+approval_process:
+  review_stages:
+    - reviewer: ""
+      role: ""
+      review_focus: []
+      deadline: ""
+  
+  final_approval:
+    approver: ""
+    approval_date: ""
+    version_control: ""
+    distribution_authorization: ""
+
