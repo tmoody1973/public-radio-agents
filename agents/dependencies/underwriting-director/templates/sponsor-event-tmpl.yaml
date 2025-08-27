@@ -1,0 +1,478 @@
+# Sponsor Event Template
+
+event_overview:
+  event_details:
+    event_name: ""
+    event_type: "" # station_hosted, community_event, co_sponsored, third_party
+    event_date: ""
+    start_time: ""
+    end_time: ""
+    venue: ""
+    venue_address: ""
+    expected_attendance: 0
+    target_audience: []
+    event_theme: ""
+    dress_code: ""
+  
+  sponsorship_context:
+    sponsorship_level: "" # title, presenting, supporting, contributing
+    investment_amount: 0
+    sponsorship_category: ""
+    exclusive_sponsor: false
+    co_sponsors: []
+    sponsorship_duration: ""
+    renewal_options: []
+
+event_objectives:
+  primary_goals:
+    - objective: ""
+      measurement_method: ""
+      success_criteria: []
+      target_metric: ""
+      responsible_party: ""
+  
+  secondary_goals:
+    - objective: ""
+      measurement_method: ""
+      success_criteria: []
+      expected_outcome: ""
+  
+  sponsor_alignment:
+    business_objectives_support: []
+    brand_positioning_enhancement: []
+    target_market_engagement: []
+    relationship_building_opportunities: []
+    community_connection_strengthening: []
+
+marketing_and_promotion:
+  pre_event_marketing:
+    announcement_timeline:
+      - milestone: ""
+        date: ""
+        marketing_channels: []
+        key_messages: []
+        target_audiences: []
+    
+    promotional_materials:
+      - material_type: ""
+        description: ""
+        distribution_channels: []
+        production_timeline: ""
+        approval_requirements: []
+        cost_allocation: 0
+    
+    media_outreach:
+      press_release_distribution: []
+      media_interviews_scheduled: []
+      community_calendar_listings: []
+      influencer_engagement: []
+      social_media_campaign: []
+  
+  sponsor_recognition_marketing:
+    brand_integration:
+      logo_placement: []
+      name_recognition: []
+      marketing_material_inclusion: []
+      website_prominence: []
+      social_media_features: []
+    
+    co_marketing_opportunities:
+      joint_press_releases: false
+      shared_marketing_materials: false
+      cross_promotional_activities: []
+      collaborative_content_creation: false
+      mutual_audience_exposure: []
+
+on_air_promotion:
+  promotional_schedule:
+    announcement_frequency:
+      weeks_before_event: 0
+      daily_mentions: 0
+      total_promotional_spots: 0
+      peak_promotion_period: ""
+      last_minute_reminders: 0
+    
+    content_strategy:
+      event_highlights: []
+      sponsor_recognition_approach: ""
+      audience_engagement_tactics: []
+      call_to_action_messaging: []
+      urgency_creation_methods: []
+  
+  live_coverage:
+    remote_broadcast_setup: false
+    live_event_reporting: false
+    real_time_updates: false
+    audience_participation: false
+    host_presence_duration: ""
+    
+  post_event_coverage:
+    event_recap_programming: false
+    success_story_sharing: true
+    photo_gallery_promotion: true
+    sponsor_appreciation_mentions: true
+    future_event_teasers: false
+
+digital_integration:
+  website_features:
+    dedicated_event_page: true
+    registration_system: false
+    sponsor_recognition_section: true
+    event_countdown_widget: false
+    photo_gallery_preparation: true
+    post_event_summary_page: true
+  
+  social_media_campaign:
+    platform_strategy:
+      - platform: ""
+        content_types: []
+        posting_frequency: ""
+        engagement_goals: []
+        hashtag_strategy: []
+    
+    content_calendar:
+      - date: ""
+        platform: ""
+        content_type: ""
+        message: ""
+        visuals_needed: []
+        engagement_target: 0
+  
+  email_marketing:
+    announcement_emails: []
+    reminder_campaigns: []
+    invitation_distribution: []
+    thank_you_communications: []
+    follow_up_sequences: []
+
+event_logistics:
+  venue_coordination:
+    space_requirements:
+      capacity_needed: 0
+      setup_configuration: ""
+      av_equipment_needs: []
+      accessibility_requirements: []
+      parking_availability: ""
+      public_transportation: ""
+    
+    vendor_management:
+      catering_arrangements: []
+      entertainment_booking: []
+      decoration_planning: []
+      security_requirements: []
+      cleanup_responsibilities: []
+  
+  attendee_management:
+    registration_process: ""
+    check_in_procedures: []
+    name_tag_system: ""
+    welcome_materials: []
+    networking_facilitation: []
+    departure_coordination: []
+  
+  sponsor_specific_logistics:
+    sponsor_arrival_coordination: ""
+    vip_reception_arrangements: []
+    special_recognition_moments: []
+    networking_opportunities: []
+    photo_opportunity_scheduling: []
+    gift_presentation_planning: []
+
+sponsor_benefits_activation:
+  event_day_recognition:
+    opening_acknowledgments: true
+    program_mentions: []
+    signage_placement: []
+    branded_materials: []
+    host_recognition: []
+    closing_appreciation: true
+  
+  networking_facilitation:
+    introductions_coordination: []
+    conversation_starters: []
+    business_card_exchange: []
+    follow_up_contact_sharing: []
+    relationship_building_support: []
+  
+  exclusive_access:
+    vip_areas: false
+    early_arrival_privileges: false
+    private_reception_access: false
+    behind_the_scenes_tours: false
+    exclusive_photo_opportunities: false
+    special_seating_arrangements: false
+
+content_creation:
+  photography_and_videography:
+    professional_coverage: true
+    sponsor_specific_shots: true
+    candid_networking_photos: true
+    event_highlights_capture: true
+    social_media_content: true
+    archive_documentation: true
+  
+  content_usage_rights:
+    sponsor_usage_permissions: []
+    station_content_ownership: []
+    social_media_sharing_rights: []
+    marketing_material_usage: []
+    future_promotional_use: []
+  
+  post_event_content:
+    photo_gallery_creation: true
+    video_highlight_reel: false
+    thank_you_content: true
+    success_metrics_infographic: false
+    testimonial_collection: true
+
+engagement_activities:
+  networking_components:
+    structured_networking: false
+    speed_networking_sessions: false
+    roundtable_discussions: false
+    informal_mingling_time: true
+    business_card_exchanges: true
+    contact_information_sharing: true
+  
+  educational_elements:
+    guest_speakers: []
+    panel_discussions: []
+    workshop_sessions: []
+    informational_presentations: []
+    q_and_a_opportunities: []
+  
+  entertainment_and_engagement:
+    live_music_performance: false
+    interactive_activities: []
+    games_and_contests: false
+    prize_drawings: false
+    cultural_performances: false
+    community_showcases: []
+
+measurement_and_evaluation:
+  attendance_tracking:
+    total_attendance: 0
+    demographic_breakdown: []
+    new_attendee_percentage: 0
+    return_attendee_percentage: 0
+    target_audience_representation: ""
+  
+  engagement_metrics:
+    networking_activity_level: ""
+    session_participation_rates: []
+    feedback_collection_rate: ""
+    business_card_exchange_volume: 0
+    follow_up_activity_generated: 0
+  
+  sponsor_specific_metrics:
+    brand_recognition_measurement: ""
+    lead_generation_tracking: 0
+    business_inquiries_generated: 0
+    relationship_building_success: ""
+    future_partnership_interest: ""
+
+feedback_collection:
+  attendee_feedback:
+    survey_distribution: []
+    feedback_form_completion: 0
+    satisfaction_ratings: []
+    improvement_suggestions: []
+    future_event_interest: ""
+  
+  sponsor_evaluation:
+    partnership_satisfaction: ""
+    value_received_assessment: ""
+    future_participation_interest: ""
+    improvement_recommendations: []
+    relationship_strengthening_outcomes: ""
+  
+  internal_team_review:
+    event_execution_assessment: []
+    process_improvement_identification: []
+    resource_allocation_effectiveness: ""
+    timeline_adherence_evaluation: ""
+    budget_performance_analysis: ""
+
+post_event_follow_up:
+  immediate_follow_up:
+    - action: ""
+      timeline: ""
+      responsible_party: ""
+      target_audience: []
+      success_criteria: []
+  
+  sponsor_stewardship:
+    thank_you_communications: []
+    success_metrics_sharing: []
+    photo_and_content_distribution: []
+    relationship_continuation_planning: []
+    future_opportunity_discussions: []
+  
+  relationship_building:
+    new_connection_facilitation: []
+    business_introduction_coordination: []
+    follow_up_meeting_scheduling: []
+    partnership_opportunity_identification: []
+    community_engagement_continuation: []
+
+budget_and_financial_management:
+  cost_breakdown:
+    venue_costs: 0
+    catering_expenses: 0
+    marketing_and_promotion: 0
+    staff_time_allocation: 0
+    materials_and_supplies: 0
+    professional_services: 0
+    contingency_fund: 0
+    total_event_cost: 0
+  
+  revenue_allocation:
+    sponsorship_revenue: 0
+    registration_fees: 0
+    additional_income_sources: []
+    net_event_revenue: 0
+    roi_calculation: 0
+  
+  cost_per_attendee_analysis:
+    total_cost_per_attendee: 0
+    sponsor_cost_per_attendee: 0
+    value_delivered_per_dollar: ""
+    competitive_cost_comparison: ""
+
+risk_management:
+  identified_risks:
+    - risk: ""
+      probability: "" # low, medium, high
+      impact: "" # low, medium, high
+      mitigation_strategy: ""
+      contingency_plan: ""
+      monitoring_approach: ""
+  
+  contingency_planning:
+    weather_contingencies: []
+    low_attendance_scenarios: []
+    vendor_failure_responses: []
+    technical_difficulty_solutions: []
+    emergency_procedures: []
+  
+  insurance_and_liability:
+    event_insurance_coverage: []
+    liability_protections: []
+    vendor_insurance_verification: []
+    attendee_safety_measures: []
+    emergency_contact_information: []
+
+success_criteria:
+  quantitative_goals:
+    - goal: ""
+      target: 0
+      actual: 0
+      variance: 0
+      success_threshold: ""
+      achievement_level: ""
+  
+  qualitative_outcomes:
+    - outcome: ""
+      assessment_method: ""
+      success_indicators: []
+      actual_results: ""
+      improvement_areas: []
+  
+  sponsor_satisfaction_metrics:
+    overall_satisfaction_rating: 0
+    value_perception_score: 0
+    future_participation_likelihood: 0
+    referral_willingness: 0
+    relationship_strengthening_assessment: ""
+
+lessons_learned:
+  successful_elements:
+    - element: ""
+      success_factors: []
+      replication_strategy: ""
+      enhancement_opportunities: []
+  
+  improvement_areas:
+    - area: ""
+      issues_identified: []
+      root_causes: []
+      improvement_strategies: []
+      implementation_timeline: ""
+  
+  process_optimization:
+    workflow_improvements: []
+    resource_allocation_enhancements: []
+    communication_betterments: []
+    technology_upgrades: []
+    training_needs_identified: []
+
+future_opportunities:
+  event_series_potential: false
+  annual_recurring_event: false
+  expanded_sponsorship_opportunities: []
+  partnership_deepening_possibilities: []
+  community_engagement_growth: []
+  brand_association_strengthening: []
+
+documentation_and_records:
+  event_documentation:
+    planning_materials: []
+    marketing_collateral: []
+    photographs_and_videos: []
+    feedback_and_evaluations: []
+    financial_records: []
+    vendor_contracts: []
+  
+  knowledge_transfer:
+    process_documentation: []
+    vendor_contact_information: []
+    timeline_and_checklist_templates: []
+    budget_templates: []
+    lesson_learned_summaries: []
+
+approval_and_sign_off:
+  event_planning_approval:
+    planning_committee_approval: ""
+    budget_authorization: ""
+    venue_contract_signing: ""
+    marketing_plan_approval: ""
+    final_event_approval: ""
+  
+  post_event_validation:
+    event_success_confirmation: ""
+    financial_reconciliation: ""
+    sponsor_satisfaction_verification: ""
+    follow_up_completion: ""
+    documentation_archival: ""
+
+notes_and_special_considerations:
+  unique_event_elements: []
+  sponsor_specific_requests: []
+  community_sensitivities: []
+  cultural_considerations: []
+  accessibility_accommodations: []
+  
+event_contacts:
+  key_personnel:
+    - role: ""
+      name: ""
+      phone: ""
+      email: ""
+      responsibilities: []
+      availability: ""
+  
+  emergency_contacts:
+    - type: ""
+      name: ""
+      phone: ""
+      backup_contact: ""
+      when_to_contact: ""
+
+metadata:
+  template_version: ""
+  created_by: ""
+  creation_date: ""
+  last_updated: ""
+  approved_by: ""
+  approval_date: ""
+  review_schedule: ""

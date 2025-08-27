@@ -1,0 +1,418 @@
+# Sponsor Benefits Template
+
+benefits_overview:
+  partnership_details:
+    sponsor_name: ""
+    partnership_level: ""
+    investment_amount: 0
+    contract_duration: ""
+    effective_date: ""
+    renewal_date: ""
+    account_manager: ""
+    partnership_objectives: []
+    success_metrics: []
+
+  benefits_summary:
+    total_benefits_value: 0
+    core_benefits_included: []
+    premium_benefits_added: []
+    exclusive_benefits_granted: []
+    custom_benefits_developed: []
+
+on_air_benefits:
+  acknowledgment_package:
+    monthly_spot_allocation: 0
+    spot_length: ""
+    total_annual_spots: 0
+    estimated_annual_impressions: 0
+    
+    daypart_distribution:
+      morning_drive_spots: 0
+      midday_spots: 0
+      afternoon_drive_spots: 0
+      evening_spots: 0
+      weekend_spots: 0
+    
+    program_placement:
+      news_program_spots: 0
+      music_program_spots: 0
+      specialty_show_spots: 0
+      preferred_programs: []
+      avoided_programs: []
+  
+  acknowledgment_specifications:
+    script_content:
+      business_identification: true
+      service_description: true
+      contact_information: true
+      location_mention: true
+      years_in_business: true
+      special_credentials: true
+    
+    production_quality:
+      professional_voice_talent: true
+      music_bed_inclusion: false
+      sound_effects: false
+      script_customization: true
+      seasonal_variations: true
+    
+    compliance_assurance:
+      fcc_section_503_compliance: true
+      content_approval_process: true
+      legal_review_included: true
+      revision_support: true
+
+  premium_on_air_opportunities:
+    sponsored_features:
+      - feature_type: ""
+        frequency: ""
+        duration: ""
+        exclusivity_level: ""
+        additional_value: 0
+    
+    special_programming:
+      event_coverage_mentions: []
+      breaking_news_associations: []
+      weather_sponsorship: false
+      traffic_sponsorship: false
+      community_calendar_sponsorship: false
+    
+    live_read_opportunities:
+      host_endorsement_availability: false
+      live_mention_frequency: ""
+      event_promotion_support: []
+      personalized_messages: true
+
+digital_benefits:
+  website_integration:
+    directory_listing:
+      business_profile_page: true
+      logo_display: true
+      contact_information: true
+      service_description: true
+      photos_gallery: false
+      map_integration: true
+    
+    website_prominence:
+      homepage_recognition: false
+      underwriter_page_feature: true
+      search_functionality: true
+      mobile_optimization: true
+      seo_benefits: true
+    
+    analytics_and_tracking:
+      website_referral_tracking: true
+      click_through_monitoring: true
+      user_engagement_metrics: true
+      monthly_analytics_reports: true
+      conversion_tracking_setup: false
+
+  social_media_integration:
+    platform_presence:
+      facebook_mentions: ""
+      twitter_acknowledgments: ""
+      instagram_features: ""
+      linkedin_connections: ""
+      youtube_channel_mentions: ""
+    
+    content_creation:
+      custom_graphics_creation: false
+      video_content_development: false
+      story_features: true
+      event_coverage: true
+      behind_scenes_content: false
+    
+    engagement_metrics:
+      reach_measurement: true
+      engagement_rate_tracking: true
+      share_and_comment_monitoring: true
+      hashtag_performance: true
+      influencer_reach_analysis: false
+
+  email_marketing_benefits:
+    newsletter_inclusion:
+      member_newsletter_mentions: true
+      community_newsletter_features: true
+      special_event_notifications: true
+      exclusive_content_access: false
+      targeted_list_communications: false
+    
+    email_analytics:
+      open_rate_tracking: true
+      click_through_rate_monitoring: true
+      engagement_analytics: true
+      list_growth_attribution: false
+      conversion_measurement: false
+
+community_engagement_benefits:
+  event_participation:
+    station_events:
+      - event_type: ""
+        recognition_level: ""
+        networking_opportunities: true
+        speaking_opportunities: false
+        booth_space_provided: false
+        promotional_materials: true
+    
+    community_events:
+      co_sponsored_events: []
+      event_promotion_support: true
+      on_site_acknowledgments: true
+      networking_facilitation: true
+      media_coverage_coordination: false
+  
+  networking_opportunities:
+    business_connections:
+      chamber_of_commerce_introductions: true
+      peer_business_networking: true
+      community_leader_connections: true
+      industry_association_introductions: false
+      board_member_networking: false
+    
+    exclusive_access:
+      vip_event_invitations: false
+      private_receptions: false
+      behind_the_scenes_tours: true
+      meet_and_greet_opportunities: true
+      executive_briefings: false
+
+  community_recognition:
+    public_acknowledgment:
+      community_service_recognition: true
+      business_achievement_highlights: true
+      milestone_celebrations: true
+      award_nominations: false
+      media_feature_coordination: false
+    
+    thought_leadership:
+      expert_interview_opportunities: false
+      panel_discussion_invitations: false
+      community_forum_participation: true
+      educational_content_collaboration: false
+      industry_insight_sharing: false
+
+business_development_benefits:
+  marketing_support:
+    consultation_services:
+      marketing_strategy_discussions: false
+      audience_analysis_sharing: true
+      market_research_insights: true
+      competitive_intelligence: false
+      growth_strategy_input: false
+    
+    content_development:
+      marketing_materials_review: false
+      message_development_support: false
+      brand_positioning_advice: false
+      campaign_concept_feedback: false
+      creative_direction_input: false
+  
+  referral_and_recommendation:
+    business_referrals:
+      client_referral_program: false
+      peer_business_recommendations: true
+      vendor_introductions: false
+      partnership_facilitation: false
+      networking_coordination: true
+    
+    testimonial_opportunities:
+      case_study_development: false
+      success_story_sharing: true
+      testimonial_collection: true
+      reference_opportunities: false
+      award_nomination_support: false
+
+exclusive_benefits:
+  category_exclusivity:
+    exclusive_category_rights: false
+    competitive_protection: true
+    first_right_of_refusal: false
+    market_expansion_priority: false
+    
+  premium_access:
+    vip_customer_service: false
+    priority_scheduling: true
+    expedited_support: true
+    exclusive_events_access: false
+    special_recognition_programs: false
+  
+  custom_opportunities:
+    tailored_benefit_development: []
+    special_project_collaboration: []
+    unique_partnership_elements: []
+    innovative_marketing_opportunities: []
+    strategic_alliance_potential: []
+
+performance_measurement:
+  audience_metrics:
+    reach_measurement:
+      estimated_weekly_reach: 0
+      estimated_monthly_reach: 0
+      frequency_calculations: 0
+      gross_impressions_delivered: 0
+      demographic_breakdowns: true
+    
+    engagement_analytics:
+      time_spent_listening: ""
+      audience_retention_rates: ""
+      program_affinity_scores: ""
+      brand_recall_measurements: false
+      listener_satisfaction_surveys: false
+  
+  digital_performance:
+    website_analytics:
+      monthly_referral_traffic: 0
+      average_session_duration: ""
+      bounce_rate_analysis: ""
+      conversion_tracking: false
+      user_behavior_analysis: true
+    
+    social_media_metrics:
+      monthly_reach: 0
+      engagement_rates: 0
+      share_and_save_rates: 0
+      comment_sentiment_analysis: false
+      follower_growth_attribution: false
+  
+  business_impact_tracking:
+    attribution_analysis:
+      inquiry_volume_tracking: false
+      sales_attribution_support: false
+      customer_acquisition_measurement: false
+      brand_awareness_studies: false
+      market_share_analysis: false
+    
+    roi_calculation_support:
+      cost_per_impression_analysis: true
+      marketing_efficiency_metrics: true
+      competitive_cost_comparisons: true
+      lifetime_value_calculations: false
+      return_on_investment_reporting: false
+
+reporting_and_communication:
+  regular_reporting:
+    monthly_reports:
+      placement_verification: true
+      audience_delivery_summary: true
+      digital_engagement_metrics: true
+      upcoming_opportunities: true
+      performance_insights: true
+    
+    quarterly_reviews:
+      comprehensive_performance_analysis: true
+      strategic_planning_sessions: false
+      partnership_optimization_discussions: true
+      future_opportunity_identification: true
+      relationship_health_assessment: true
+  
+  communication_schedule:
+    routine_touchpoints:
+      monthly_check_in_calls: true
+      quarterly_business_reviews: true
+      annual_strategic_planning: false
+      as_needed_consultations: true
+      emergency_response_availability: true
+
+value_enhancement_opportunities:
+  upgrade_potential:
+    investment_increase_benefits: []
+    additional_service_additions: []
+    premium_tier_advantages: []
+    exclusive_benefit_unlocks: []
+    custom_package_development: []
+  
+  partnership_evolution:
+    long_term_relationship_benefits: []
+    loyalty_program_advantages: []
+    anniversary_recognition: true
+    multi_year_commitment_rewards: []
+    strategic_partnership_potential: []
+  
+  innovation_opportunities:
+    new_technology_integration: []
+    emerging_platform_access: []
+    pilot_program_participation: []
+    beta_testing_opportunities: []
+    thought_leadership_platforms: []
+
+competitive_advantages:
+  market_differentiation:
+    unique_positioning_benefits: []
+    competitive_separation_advantages: []
+    market_leadership_association: true
+    industry_credibility_enhancement: true
+    professional_network_expansion: true
+  
+  brand_association_benefits:
+    trusted_media_brand_connection: true
+    community_goodwill_transfer: true
+    educational_mission_alignment: true
+    cultural_sophistication_association: true
+    civic_responsibility_demonstration: true
+
+partnership_support:
+  account_management:
+    dedicated_account_manager: true
+    regular_relationship_management: true
+    strategic_planning_support: false
+    problem_resolution_assistance: true
+    growth_opportunity_identification: true
+  
+  customer_service:
+    priority_customer_support: false
+    expedited_issue_resolution: true
+    proactive_communication: true
+    feedback_collection_and_response: true
+    continuous_improvement_focus: true
+
+risk_mitigation:
+  performance_guarantees:
+    audience_delivery_guarantees: true
+    make_good_policy: true
+    placement_accuracy_assurance: true
+    quality_standards_maintenance: true
+    compliance_protection: true
+  
+  relationship_protection:
+    contract_flexibility_provisions: []
+    mutual_termination_protections: []
+    dispute_resolution_mechanisms: []
+    performance_improvement_processes: []
+    relationship_repair_protocols: []
+
+future_opportunities:
+  growth_potential:
+    market_expansion_support: []
+    new_service_introductions: []
+    strategic_partnership_development: []
+    thought_leadership_positioning: []
+    community_influence_enhancement: []
+  
+  innovation_access:
+    new_technology_early_adoption: []
+    emerging_platform_integration: []
+    pilot_program_participation: []
+    industry_trend_insights: []
+    competitive_advantage_development: []
+
+notes_and_customization:
+  special_considerations: ""
+  custom_benefit_arrangements: []
+  unique_partnership_elements: []
+  client_specific_adaptations: []
+  relationship_history_factors: []
+
+approval_and_maintenance:
+  benefit_package_approval:
+    created_by: ""
+    approved_by: ""
+    approval_date: ""
+    effective_date: ""
+    review_schedule: ""
+  
+  maintenance_and_updates:
+    last_updated: ""
+    next_review_date: ""
+    update_triggers: []
+    version_control: ""
+    change_management_process: ""

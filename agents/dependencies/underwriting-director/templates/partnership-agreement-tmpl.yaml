@@ -1,0 +1,446 @@
+# Partnership Agreement Template
+
+agreement_overview:
+  parties:
+    station_information:
+      legal_name: ""
+      call_letters: ""
+      address: ""
+      city_state_zip: ""
+      phone: ""
+      email: ""
+      website: ""
+      tax_id: ""
+      license_holder: ""
+    
+    underwriter_information:
+      legal_business_name: ""
+      dba_name: ""
+      contact_person: ""
+      title: ""
+      address: ""
+      city_state_zip: ""
+      phone: ""
+      mobile: ""
+      email: ""
+      website: ""
+      tax_id: ""
+      business_type: ""
+      years_in_operation: ""
+  
+  agreement_details:
+    contract_type: "" # new, renewal, amendment, extension
+    effective_date: ""
+    expiration_date: ""
+    contract_duration_months: 0
+    auto_renewal_clause: false
+    cancellation_notice_period: ""
+    governing_law: ""
+    jurisdiction: ""
+
+financial_terms:
+  investment_structure:
+    total_annual_investment: 0
+    monthly_investment: 0
+    payment_schedule: "" # monthly, quarterly, annual, custom
+    payment_due_date: ""
+    payment_method: "" # check, ach, credit_card, wire_transfer
+    late_payment_penalty: ""
+    grace_period: ""
+    early_payment_discount: ""
+  
+  pricing_details:
+    base_package: ""
+    package_value: 0
+    additional_services: []
+    discounts_applied: []
+    taxes_applicable: false
+    total_gross_amount: 0
+    total_net_amount: 0
+  
+  adjustment_provisions:
+    annual_rate_increase: ""
+    market_adjustment_clause: false
+    performance_based_adjustments: false
+    economic_hardship_provisions: []
+    force_majeure_considerations: []
+
+acknowledgment_specifications:
+  on_air_acknowledgments:
+    monthly_spot_quantity: 0
+    spot_length: "" # 10_second, 15_second, 20_second, 30_second
+    daypart_distribution:
+      morning_drive_percentage: 0
+      midday_percentage: 0
+      afternoon_drive_percentage: 0
+      evening_percentage: 0
+      weekend_percentage: 0
+    
+    scheduling_parameters:
+      separation_from_competitors: "" # minutes between competing businesses
+      preferred_programs: []
+      excluded_programs: []
+      seasonal_adjustments: []
+      holiday_considerations: []
+    
+    script_specifications:
+      script_approval_required: true
+      revision_process: ""
+      approval_timeline: ""
+      content_guidelines: []
+      fcc_compliance_assurance: true
+  
+  digital_integration:
+    website_listing:
+      directory_inclusion: true
+      logo_display: true
+      description_length: ""
+      contact_information: []
+      website_link: true
+      search_optimization: true
+    
+    social_media_inclusion:
+      facebook_mentions: ""
+      twitter_acknowledgments: ""
+      instagram_features: ""
+      linkedin_connections: ""
+      frequency_commitment: ""
+    
+    email_newsletter:
+      inclusion_frequency: ""
+      placement_priority: ""
+      content_format: ""
+      link_inclusion: true
+      analytics_sharing: true
+    
+    podcast_placement:
+      show_inclusion: []
+      frequency: ""
+      placement_priority: ""
+      analytics_provided: true
+
+content_and_compliance:
+  acknowledgment_content:
+    business_identification:
+      legal_name_usage: true
+      dba_name_usage: true
+      location_mention: true
+      contact_information: []
+      years_in_business: true
+    
+    permitted_content:
+      service_description: ""
+      product_information: ""
+      business_hours: true
+      special_credentials: []
+      awards_recognition: []
+      community_involvement: true
+    
+    prohibited_content:
+      calls_to_action: false
+      pricing_information: false
+      comparative_claims: false
+      promotional_language: false
+      urgent_language: false
+      discount_mentions: false
+  
+  fcc_compliance:
+    section_73_503_adherence: true
+    identification_only_standard: true
+    non_promotional_language: true
+    value_neutral_descriptions: true
+    compliance_review_process: ""
+    violation_correction_protocol: ""
+  
+  content_approval_process:
+    script_submission_deadline: ""
+    station_review_timeline: ""
+    client_approval_requirement: true
+    revision_rounds_included: 0
+    final_approval_authority: ""
+    emergency_revision_process: ""
+
+performance_standards:
+  audience_delivery:
+    guaranteed_impressions: 0
+    demographic_targets: []
+    geographic_coverage: ""
+    listening_occasions: 0
+    reach_frequency_goals: []
+  
+  placement_guarantees:
+    scheduled_versus_actual: ""
+    make_good_policy: ""
+    placement_verification: ""
+    timing_accuracy: ""
+    rotation_balance: ""
+  
+  quality_assurance:
+    production_standards: []
+    audio_quality_requirements: []
+    brand_representation_standards: []
+    consistency_expectations: []
+    correction_procedures: []
+
+reporting_and_analytics:
+  regular_reporting:
+    placement_reports:
+      frequency: ""
+      format: ""
+      distribution_method: ""
+      content_included: []
+      delivery_timeline: ""
+    
+    performance_analytics:
+      audience_metrics: []
+      digital_engagement_data: []
+      website_traffic_referrals: true
+      social_media_analytics: true
+      comprehensive_roi_analysis: false
+  
+  custom_reporting:
+    special_reports_available: []
+    additional_analytics: []
+    third_party_verification: false
+    comparative_analysis: false
+    market_research_inclusion: false
+
+additional_services:
+  value_added_benefits:
+    networking_opportunities:
+      - event_type: ""
+        frequency: ""
+        access_level: ""
+        networking_value: ""
+        additional_cost: 0
+    
+    business_development_support:
+      referral_program: false
+      business_introductions: false
+      marketing_consultation: false
+      industry_insights: false
+      thought_leadership_opportunities: false
+    
+    community_engagement:
+      station_event_recognition: []
+      community_calendar_inclusion: true
+      civic_organization_introductions: false
+      volunteer_opportunities: false
+  
+  exclusive_opportunities:
+    category_exclusivity: false
+    exclusive_sponsorships: []
+    vip_event_access: []
+    special_recognition_programs: []
+    priority_scheduling: false
+
+termination_and_renewal:
+  termination_provisions:
+    either_party_cancellation: true
+    notice_period_required: ""
+    early_termination_fee: 0
+    pro_rated_refund_policy: ""
+    final_acknowledgment_schedule: ""
+  
+  breach_of_contract:
+    material_breach_definition: ""
+    cure_period: ""
+    immediate_termination_causes: []
+    dispute_resolution_process: ""
+    damages_and_remedies: []
+  
+  renewal_options:
+    automatic_renewal_terms: ""
+    renewal_negotiation_timeline: ""
+    rate_adjustment_mechanism: ""
+    service_modification_options: []
+    long_term_discount_incentives: []
+
+intellectual_property:
+  content_ownership:
+    acknowledgment_script_rights: ""
+    logo_usage_permissions: []
+    music_and_audio_rights: ""
+    digital_content_ownership: ""
+    archive_and_reuse_rights: ""
+  
+  brand_protection:
+    trademark_usage_guidelines: []
+    brand_representation_standards: []
+    co_branding_opportunities: []
+    logo_modification_restrictions: []
+    third_party_usage_prohibitions: []
+
+confidentiality_and_privacy:
+  confidential_information:
+    business_information_protection: []
+    audience_data_confidentiality: []
+    financial_terms_non_disclosure: true
+    strategic_plan_confidentiality: true
+    competitive_information_protection: true
+  
+  data_protection:
+    listener_data_usage: ""
+    analytics_data_sharing: ""
+    third_party_data_restrictions: []
+    privacy_policy_compliance: true
+    data_retention_policies: []
+
+liability_and_indemnification:
+  liability_limitations:
+    station_liability_cap: 0
+    consequential_damages_exclusion: true
+    force_majeure_protections: []
+    technical_failure_exceptions: []
+    third_party_claim_protection: []
+  
+  indemnification_clauses:
+    content_indemnification: ""
+    copyright_infringement_protection: ""
+    defamation_claim_coverage: ""
+    regulatory_violation_responsibility: ""
+    business_practice_indemnification: ""
+
+force_majeure:
+  covered_events:
+    natural_disasters: true
+    government_actions: true
+    technical_system_failures: true
+    pandemic_health_emergencies: true
+    labor_disputes: true
+    telecommunications_outages: true
+  
+  response_procedures:
+    notification_requirements: ""
+    service_restoration_timeline: ""
+    alternative_service_provisions: []
+    financial_adjustment_mechanisms: []
+    contract_suspension_options: []
+
+dispute_resolution:
+  resolution_process:
+    direct_negotiation_requirement: true
+    mediation_option: true
+    arbitration_requirement: false
+    court_jurisdiction: ""
+    attorney_fees_provision: ""
+  
+  escalation_procedures:
+    - step: ""
+      timeline: ""
+      participants: []
+      success_criteria: ""
+      next_step_triggers: []
+
+special_provisions:
+  unique_terms:
+    - provision_type: ""
+      description: ""
+      effective_conditions: []
+      duration: ""
+      modification_process: ""
+  
+  industry_specific_requirements:
+    regulatory_compliance: []
+    professional_standards: []
+    ethical_considerations: []
+    community_standards: []
+    public_service_obligations: []
+
+contract_administration:
+  key_contacts:
+    station_primary_contact:
+      name: ""
+      title: ""
+      phone: ""
+      email: ""
+      responsibilities: []
+    
+    station_billing_contact:
+      name: ""
+      title: ""
+      phone: ""
+      email: ""
+      address: ""
+    
+    underwriter_primary_contact:
+      name: ""
+      title: ""
+      phone: ""
+      email: ""
+      decision_authority: ""
+    
+    underwriter_billing_contact:
+      name: ""
+      title: ""
+      phone: ""
+      email: ""
+      address: ""
+  
+  communication_protocols:
+    regular_communication_schedule: ""
+    emergency_contact_procedures: []
+    change_notification_requirements: ""
+    approval_processes: []
+    documentation_standards: []
+
+amendments_and_modifications:
+  modification_process:
+    written_agreement_requirement: true
+    approval_authority_levels: []
+    negotiation_procedures: ""
+    implementation_timeline: ""
+    version_control_system: ""
+  
+  standard_amendment_types:
+    rate_adjustments: ""
+    service_additions: ""
+    schedule_modifications: ""
+    contact_changes: ""
+    technical_updates: ""
+
+signatures_and_execution:
+  execution_requirements:
+    signature_authority_verification: true
+    witness_requirements: false
+    notarization_required: false
+    electronic_signature_accepted: true
+    original_document_retention: ""
+  
+  effective_date_determination:
+    signing_date_effective: true
+    future_effective_date: ""
+    conditional_effectiveness: []
+    regulatory_approval_required: false
+
+notes_and_attachments:
+  special_notes: ""
+  referenced_documents: []
+  attachments_included: []
+  related_agreements: []
+  superseded_contracts: []
+
+approval_tracking:
+  internal_approvals:
+    - approver: ""
+      title: ""
+      approval_date: ""
+      signature: ""
+      comments: ""
+  
+  client_approvals:
+    - approver: ""
+      title: ""
+      approval_date: ""
+      signature: ""
+      authority_verification: ""
+
+document_control:
+  version: ""
+  creation_date: ""
+  last_modified: ""
+  created_by: ""
+  reviewed_by: ""
+  approved_by: ""
+  distribution_list: []
+  retention_period: ""

@@ -1,50 +1,66 @@
-# Quick Start Guide
+# Quick Start Guide: Public Radio Agents
 
-> Get up and running with the Public Radio BMAd system in 5 minutes
+Get your AI-powered public radio management team up and running in 5 minutes!
 
-## Step 1: Choose Your LLM
+## Step 1: Get the Framework (30 seconds)
 
-The Public Radio BMAd system works with any chat-based Large Language Model. Here are the most popular options:
+1. **Download** the `publicradio.txt` file from this repository
+2. **Copy** the entire contents of the file (Ctrl+A, Ctrl+C)
 
-### ChatGPT (Recommended)
-- **Best for**: Most users, comprehensive features
+💡 **File size**: ~21KB - Contains everything you need for all 4 agents and workflows
+
+## Step 2: Choose Your AI Platform (1 minute)
+
+The framework works with any chat-based AI. Here are the most popular options:
+
+### 🤖 **ChatGPT** (Recommended for beginners)
 - **Access**: [chat.openai.com](https://chat.openai.com)
-- **Requirements**: Free account (GPT-3.5) or Plus subscription (GPT-4)
-- **Advantages**: Excellent at following complex instructions, good memory
+- **Best Model**: GPT-4 (more capable) or GPT-3.5 (faster, cheaper)
+- **Advantages**: Excellent instruction following, good for complex planning
+- **Cost**: Free tier available, $20/month for Plus
 
-### Claude
-- **Best for**: Detailed analysis, long conversations
+### 🧠 **Claude** (Great for detailed analysis)
 - **Access**: [claude.ai](https://claude.ai)
-- **Requirements**: Free account or Pro subscription
-- **Advantages**: Great for nuanced understanding, ethical reasoning
+- **Best Model**: Claude 3.5 Sonnet (most balanced) or Claude 3 Opus (most capable)
+- **Advantages**: Great for long conversations, nuanced understanding
+- **Cost**: Free tier available, $20/month for Pro
 
-### Google Gemini
-- **Best for**: Integration with Google services, real-time information
+### 🔍 **Google Gemini** (Good for research)
 - **Access**: [gemini.google.com](https://gemini.google.com)
-- **Requirements**: Google account
-- **Advantages**: Can access current information, integrates with Google Workspace
+- **Best Model**: Gemini Pro
+- **Advantages**: Can access current information, Google integration
+- **Cost**: Free with Google account
 
-### Local/Enterprise Options
-- **Ollama**: Run models locally on your computer
-- **Azure OpenAI**: Enterprise ChatGPT with data privacy
-- **AWS Bedrock**: Enterprise AI with multiple model options
+### 💻 **Development IDEs** (For technical users)
+- **⚡ Cursor**: [cursor.sh](https://cursor.sh) - AI-powered code editor
+- **🌊 Windsurf**: AI development environment
+- **📝 VS Code**: With GitHub Copilot, Continue, or Codeium extensions
+- **Advantages**: Integrate expertise into development workflow
+- **Use Case**: Building station websites, databases, management systems
 
-## Step 2: Load the System
+### 🏠 **Local Models** (Privacy-focused)
+- **Options**: Ollama, LM Studio, or similar
+- **Models**: Llama, Mistral, and other open models
+- **Advantages**: Complete privacy, no ongoing costs
+- **Requirements**: Powerful computer for best performance
 
-### Method 1: Copy and Paste (Recommended)
-1. Download [`publicradio.txt`](../publicradio.txt) from this repository
-2. Open the file and copy all contents (Ctrl+A, Ctrl+C)
-3. Open your chosen LLM in a new chat session
-4. Paste the entire contents (Ctrl+V)
-5. Press Enter to activate the system
+## Step 3: Activate the Framework (30 seconds)
 
-### Method 2: Upload File (if supported)
-Some LLMs allow file uploads:
-1. Download [`publicradio.txt`](../publicradio.txt)
-2. Use the file upload feature in your LLM
-3. Ask the LLM to "load and activate this Public Radio BMAd system"
+### For Web AI Platforms
+1. **Open** your chosen AI platform in a new chat
+2. **Paste** the entire `publicradio.txt` content 
+3. **Send** the message
+4. **Wait** for activation confirmation
 
-## Step 3: Verify Activation
+### For Development IDEs
+1. **Open** IDE's AI chat panel (Cursor: Cmd/Ctrl+L, VS Code: varies by extension)
+2. **Paste** the entire `publicradio.txt` content
+3. **Send** to activate within your development environment
+4. **Use agents while coding** for specialized guidance
+
+✅ **Success**: You'll see the "Public Radio Orchestrator" welcome message with available commands.
+
+## Step 4: Verify Activation (30 seconds)
 
 After loading, you should see something like:
 
@@ -64,94 +80,172 @@ How can I help your station today?
 
 If you see this message, the system is ready to use!
 
-## Step 4: Start Using the System
+## Step 5: Start Your First Session (3 minutes)
 
-### For First-Time Users
-Type: `*help`
+### Quick Command Reference
 
-This shows all available commands and agents.
+All commands start with `*` (asterisk):
 
-### For Specific Needs
-Choose the appropriate agent:
+**🎯 Essential Commands**
+- `*help` - Show all available commands and agents
+- `*status` - Check current agent and progress  
+- `*exit` - Return to main orchestrator
 
-- **Fundraising help**: `*agent development-director`
-- **Marketing questions**: `*agent marketing-director`
-- **Sponsorship issues**: `*agent underwriting-director`
-- **Programming decisions**: `*agent program-director`
+**👥 Agent Commands**
+- `*agent development-director` - Fundraising expert (Sarah)
+- `*agent marketing-director` - Marketing expert (Marcus)
+- `*agent underwriting-director` - Corporate partnerships expert (Diana)
+- `*agent program-director` - Programming expert (Jordan)
 
-### For Major Projects
-Use structured workflows:
+**🔄 Workflow Commands** 
+- `*workflow annual-planning` - Comprehensive planning
+- `*workflow membership-campaign` - Membership drives
+- `*workflow program-launch` - New programming
 
-- **Annual planning**: `*workflow annual-planning`
-- **Membership campaign**: `*workflow membership-campaign`
-- **New program launch**: `*workflow program-launch`
-- **Special events**: `*workflow special-event`
+**💬 Utility Commands**
+- `*chat-mode` - General consultation
+- `*kb-mode` - Knowledge base access
+- `*party-mode` - Multi-agent collaboration
 
-### For General Consultation
-Type: `*chat-mode`
+### Choose Your Starting Point
 
-This starts a conversational session where you can discuss your challenges and get recommendations.
-
-## Example: Your First Session
-
-Here's a typical first session:
-
-**You**: *help
-
-**System**: 
+#### 🆕 **New Users**: Explore the System
 ```
-=== Public Radio Orchestrator Commands ===
-All commands must start with * (asterisk)
-
-Available Specialist Agents:
-*agent development-director: Fundraising strategy, donor relations, campaigns
-*agent marketing-director: Audience development, brand management, digital marketing
-*agent underwriting-director: Corporate partnerships, sponsorship sales
-*agent program-director: Programming strategy, content development
-
-Available Workflows:
-*workflow annual-planning: Comprehensive annual planning
-*workflow membership-campaign: Plan and execute membership drives
-...
+*help
 ```
+Shows all available commands and agents.
 
-**You**: I need help with our declining membership. What should I do?
+#### 🎯 **Specific Problems**: Go Directly to Expert
+- **"Membership is declining"** → `*agent development-director`
+- **"Need better social media"** → `*agent marketing-director` 
+- **"Want more sponsors"** → `*agent underwriting-director`
+- **"Planning new shows"** → `*agent program-director`
 
-**System**: 
+#### 📋 **Major Projects**: Use Structured Workflows
+- **"Planning next year"** → `*workflow annual-planning`
+- **"Running membership drive"** → `*workflow membership-campaign`
+- **"Launching new program"** → `*workflow program-launch`
+
+#### 💬 **General Discussion**: Start with Chat Mode
 ```
-Declining membership is a common challenge. I recommend starting with our Development Director agent who specializes in fundraising and donor relations.
+*chat-mode
+```
+For open-ended consultation and exploration.
 
-Type: *agent development-director
+## Real-World Quick Start Examples
 
-This will activate Sarah, who can analyze your situation and recommend specific strategies for membership recovery.
+### 📊 **Example 1: "Our membership is declining"**
 
-Alternatively, if this is part of a broader organizational challenge, you might want to start with:
-*workflow annual-planning
+**Your Situation**: Community radio station, membership down 15% this year
 
-Which approach would you prefer?
+```
+*agent development-director
+Our membership dropped from 800 to 680 members this year. Average gift is $75. 
+We mainly use direct mail and on-air appeals. What should we do?
 ```
 
-**You**: *agent development-director
+**AI Response**: Sarah (Development Director) analyzes your situation and provides:
+- Specific retention strategies for your member base
+- Monthly giving program recommendations  
+- Digital fundraising integration ideas
+- Template for member survey to understand lapsing reasons
+- Action plan with timeline and expected outcomes
 
-**System**: 
+### 📢 **Example 2: "We need better social media presence"**  
+
+**Your Situation**: Small market station, struggling with online engagement
+
 ```
-Hi! I'm Sarah, your Development Director. I specialize in fundraising strategy and donor relations for public radio stations.
-
-I understand you're facing declining membership. This is unfortunately common, but very solvable with the right approach.
-
-To help you effectively, I need to understand your current situation:
-
-1. What's your current membership level and how much has it declined?
-2. What's your average gift size and retention rate?
-3. What fundraising methods are you currently using?
-4. Do you have any data on why members are lapsing?
-
-Once I understand your situation, I can recommend specific strategies and even create detailed campaign plans for you.
-
-What can you tell me about your current membership situation?
+*agent marketing-director
+We have Facebook and Instagram but only get 3-5 likes per post. 
+Our audience is mostly 45+ but we want to reach younger listeners too.
 ```
 
-From here, you have a conversation with the Development Director agent, who will analyze your situation and provide specific recommendations.
+**AI Response**: Marcus (Marketing Director) provides:
+- Social media audit checklist tailored to public radio
+- Content calendar template with post ideas for older and younger demographics
+- Platform-specific strategies for Facebook vs. Instagram
+- Community engagement tactics that work for smaller markets
+- Metrics to track improvement
+
+### 🤝 **Example 3: "We want local business support"**
+
+**Your Situation**: Need more underwriting revenue, unsure how to approach businesses
+
+```
+*agent underwriting-director
+We have 2 small sponsors bringing in $800/month total. 
+There are lots of local businesses but we don't know how to approach them.
+```
+
+**AI Response**: Diana (Underwriting Director) guides you through:
+- Local business prospecting strategy with specific research methods
+- FCC-compliant underwriting packages and pricing guidance
+- Email and phone scripts for initial business outreach
+- Sponsorship proposal template customized for local businesses
+- Relationship building and retention strategies
+
+### 🎙️ **Example 4: "Planning community programming"**
+
+**Your Situation**: Want to add local content but concerned about resources and compliance
+
+```
+*agent program-director
+We want to start a weekly show featuring local nonprofits and community events. 
+What do we need to consider for FCC compliance and production?
+```
+
+**AI Response**: Jordan (Program Director) covers:
+- FCC compliance checklist for community programming
+- Production workflow for consistent quality with limited resources
+- Community partnership strategies for sustainable content
+- Talent development for volunteer hosts
+- Programming schedule optimization and audience development
+
+### 📋 **Example 5: "Planning our annual fundraising campaign"**
+
+**Your Situation**: Larger project requiring coordination across departments
+
+```
+*workflow membership-campaign
+We want to plan our fall membership drive. Last year raised $45K, 
+want to increase to $60K this year with better integration of digital and on-air.
+```
+
+**AI Response**: Multi-agent workflow guides you through:
+- **Phase 1**: Strategic planning with goal-setting and audience analysis
+- **Phase 2**: Campaign development with messaging, timeline, and creative assets
+- **Phase 3**: Implementation coordination across development, marketing, and programming
+- **Phase 4**: Performance monitoring and optimization during campaign
+- **Phase 5**: Post-campaign analysis and donor stewardship
+
+Each phase involves the appropriate specialist agents and produces specific deliverables like campaign timelines, creative briefs, volunteer coordination plans, and performance reports.
+
+### 💻 **Example 6: "Building station management software"**
+
+**Your Situation**: Technical developer working on station database/website
+
+**Using Cursor IDE**:
+```
+*agent development-director
+I'm building a donor management system. What database fields and relationships 
+are essential for effective public radio fundraising?
+```
+
+**AI Response**: Development Director provides:
+- Complete database schema for donor management
+- Segmentation fields for targeted campaigns
+- Integration requirements for email marketing
+- Reporting requirements for CPB compliance
+- Privacy and data protection considerations
+
+**Continue in same IDE session**:
+```
+*agent program-director  
+Now help me design the program scheduling module with FCC compliance logging.
+```
+
+**Benefit**: Get specialized expertise without leaving your development environment.
 
 ## Platform-Specific Tips
 
@@ -169,6 +263,13 @@ From here, you have a conversation with the Development Director agent, who will
 - Can access current information if needed
 - Good for research and fact-checking
 - Integrates well with Google Docs for document creation
+
+### IDE Tips (Cursor, Windsurf, VS Code)
+- **Context switching**: Use different agents as your project needs change
+- **Documentation**: Get technical specs with public radio expertise
+- **Code review**: Ask agents to review features for public radio appropriateness
+- **Database design**: Get expert guidance for public radio-specific data structures
+- **API development**: Understand integration requirements for station systems
 
 ## Troubleshooting
 
@@ -192,6 +293,11 @@ From here, you have a conversation with the Development Director agent, who will
 - Start a new chat session for a fresh start
 - Use `*status` to see where you are in any process
 
+### IDE-Specific Issues
+- **Framework not loading in IDE**: Ensure AI chat panel is active and framework was completely pasted
+- **Commands not recognized**: Try activating the framework again in the chat interface
+- **Context lost during development**: Reload framework periodically during long coding sessions
+
 ## Next Steps
 
 Once you're comfortable with the basics:
@@ -200,7 +306,8 @@ Once you're comfortable with the basics:
 2. **Study the [Case Study](case-study.md)** to see the system in action
 3. **Explore [Workflows](workflows.md)** for structured processes
 4. **Check [Agent Reference](agent-reference.md)** for detailed capabilities
-5. **Review [Customization Guide](customization.md)** to adapt the system
+5. **Explore [IDE Integration Guide](ide-integration.md)** if you're a developer
+6. **Review [Customization Guide](customization.md)** to adapt the system
 
 ## Getting Help
 

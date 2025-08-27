@@ -1,0 +1,415 @@
+# Client Stewardship Template
+
+stewardship_overview:
+  client_profile:
+    business_name: ""
+    contact_name: ""
+    title: ""
+    phone: ""
+    email: ""
+    address: ""
+    industry: ""
+    partnership_start_date: ""
+    current_investment_level: ""
+    contract_duration: ""
+    renewal_date: ""
+  
+  stewardship_objectives:
+    primary_goal: ""
+    secondary_goals: []
+    success_metrics: []
+    relationship_depth_target: ""
+    retention_probability: ""
+
+relationship_management:
+  communication_schedule:
+    regular_touchpoints:
+      - frequency: ""
+        method: "" # phone, email, in-person, written
+        purpose: ""
+        responsible_party: ""
+        duration: ""
+        preparation_required: []
+    
+    performance_reviews:
+      - review_type: "" # monthly, quarterly, annual
+        participants: []
+        agenda_items: []
+        materials_needed: []
+        follow_up_actions: []
+    
+    special_occasions:
+      - occasion: "" # anniversary, holidays, business milestones
+        recognition_method: ""
+        timeline: ""
+        budget_allocation: 0
+        expected_impact: ""
+
+  relationship_building_activities:
+    networking_opportunities:
+      - event_type: ""
+        description: ""
+        frequency: ""
+        client_benefit: ""
+        station_investment: ""
+    
+    educational_content:
+      - content_type: ""
+        topic: ""
+        delivery_method: ""
+        frequency: ""
+        expertise_required: ""
+    
+    business_development_support:
+      - support_type: ""
+        description: ""
+        resource_requirement: ""
+        expected_outcome: ""
+        success_measurement: ""
+
+performance_monitoring:
+  acknowledgment_tracking:
+    placement_verification:
+      scheduled_spots: 0
+      actual_airings: 0
+      make_good_spots: 0
+      placement_accuracy: ""
+      timing_compliance: ""
+    
+    quality_assurance:
+      script_accuracy: ""
+      production_quality: ""
+      brand_representation: ""
+      fcc_compliance: ""
+      client_satisfaction: ""
+    
+    scheduling_optimization:
+      daypart_distribution: []
+      program_placement: []
+      rotation_balance: ""
+      audience_delivery: ""
+      reach_frequency: ""
+
+  performance_metrics:
+    audience_delivery:
+      - metric: ""
+        target: 0
+        actual: 0
+        variance_percentage: 0
+        explanation: ""
+        improvement_actions: []
+    
+    business_impact_indicators:
+      website_traffic: ""
+      inquiry_volume: ""
+      sales_attribution: ""
+      brand_awareness: ""
+      customer_feedback: ""
+    
+    digital_engagement:
+      website_mentions: 0
+      social_media_reach: 0
+      email_newsletter_inclusion: 0
+      event_participation: 0
+      networking_connections: 0
+
+client_satisfaction:
+  feedback_collection:
+    survey_schedule:
+      frequency: ""
+      method: ""
+      key_questions: []
+      response_tracking: ""
+      improvement_integration: ""
+    
+    interview_process:
+      - interview_type: "" # structured, informal, focus_group
+        participants: []
+        topics: []
+        frequency: ""
+        documentation_method: ""
+    
+    complaint_resolution:
+      issue_identification: ""
+      response_timeline: ""
+      resolution_process: []
+      follow_up_schedule: ""
+      prevention_measures: []
+
+  satisfaction_improvement:
+    identified_areas:
+      - improvement_area: ""
+        current_score: 0
+        target_score: 0
+        action_plan: []
+        timeline: ""
+        responsible_party: ""
+        success_measurement: ""
+    
+    value_enhancement:
+      - enhancement: ""
+        implementation_cost: 0
+        expected_benefit: ""
+        client_impact: ""
+        rollout_timeline: ""
+        success_metrics: []
+
+partnership_development:
+  growth_opportunities:
+    investment_increase:
+      current_level: ""
+      target_level: ""
+      justification: ""
+      presentation_strategy: ""
+      timeline: ""
+      success_probability: ""
+    
+    service_expansion:
+      - additional_service: ""
+        description: ""
+        investment_required: 0
+        client_benefit: ""
+        implementation_timeline: ""
+        success_likelihood: ""
+    
+    contract_extension:
+      current_term: ""
+      proposed_term: ""
+      incentives_offered: []
+      negotiation_strategy: ""
+      approval_requirements: []
+
+  strategic_alignment:
+    business_goal_support:
+      - client_goal: ""
+        station_support: ""
+        resource_allocation: ""
+        success_measurement: ""
+        timeline: ""
+        expected_outcome: ""
+    
+    market_position_enhancement:
+      current_position: ""
+      desired_position: ""
+      station_contribution: ""
+      collaborative_activities: []
+      timeline: ""
+      success_indicators: []
+
+recognition_and_appreciation:
+  appreciation_activities:
+    regular_recognition:
+      - recognition_type: ""
+        frequency: ""
+        format: ""
+        audience: ""
+        cost: 0
+        impact_level: ""
+    
+    milestone_celebrations:
+      - milestone: ""
+        celebration_plan: ""
+        budget: 0
+        participants: []
+        timeline: ""
+        expected_impact: ""
+    
+    special_acknowledgments:
+      award_nominations: []
+      media_features: []
+      community_recognition: []
+      industry_honors: []
+      testimonial_requests: []
+
+  exclusive_benefits:
+    vip_access:
+      - benefit: ""
+        description: ""
+        frequency: ""
+        exclusivity_level: ""
+        cost_to_station: 0
+        perceived_value: 0
+    
+    insider_information:
+      market_insights: []
+      industry_trends: []
+      networking_intelligence: []
+      business_opportunities: []
+      strategic_advice: []
+
+problem_prevention:
+  early_warning_systems:
+    satisfaction_indicators:
+      - indicator: ""
+        monitoring_method: ""
+        threshold_levels: []
+        alert_system: ""
+        response_protocol: ""
+    
+    business_health_monitoring:
+      financial_stability: ""
+      market_position: ""
+      management_changes: ""
+      competitive_pressures: ""
+      industry_trends: ""
+    
+    relationship_health_signs:
+      communication_frequency: ""
+      response_times: ""
+      engagement_level: ""
+      feedback_quality: ""
+      referral_activity: ""
+
+  risk_mitigation:
+    identified_risks:
+      - risk: ""
+        probability: "" # low, medium, high
+        impact: "" # low, medium, high
+        mitigation_strategy: ""
+        monitoring_approach: ""
+        contingency_plan: ""
+    
+    protective_measures:
+      contract_protections: []
+      relationship_diversification: ""
+      communication_protocols: []
+      performance_guarantees: []
+      dispute_resolution: ""
+
+renewal_strategy:
+  renewal_planning:
+    timeline_management:
+      renewal_date: ""
+      planning_start_date: ""
+      proposal_presentation_date: ""
+      negotiation_period: ""
+      contract_finalization_date: ""
+    
+    value_proposition_update:
+      performance_highlights: []
+      market_changes: []
+      new_opportunities: []
+      competitive_advantages: []
+      future_benefits: []
+    
+    negotiation_preparation:
+      client_priorities: []
+      budget_considerations: ""
+      competitive_alternatives: []
+      negotiation_leverage: []
+      concession_strategies: []
+
+  retention_tactics:
+    loyalty_incentives:
+      - incentive: ""
+        description: ""
+        cost: 0
+        expected_impact: ""
+        exclusivity: ""
+        duration: ""
+    
+    relationship_deepening:
+      additional_touchpoints: []
+      exclusive_access: []
+      strategic_partnerships: []
+      business_development: []
+      community_leadership: []
+
+resource_allocation:
+  time_investment:
+    - activity: ""
+      time_per_month: ""
+      responsible_party: ""
+      skill_level_required: ""
+      outcome_expected: ""
+  
+  budget_allocation:
+    - expense_category: ""
+      monthly_budget: 0
+      annual_budget: 0
+      roi_expectation: ""
+      justification: ""
+  
+  technology_requirements:
+    - tool: ""
+      purpose: ""
+      cost: 0
+      implementation_timeline: ""
+      training_required: ""
+
+success_measurement:
+  key_performance_indicators:
+    - kpi: ""
+      target: ""
+      measurement_method: ""
+      reporting_frequency: ""
+      responsible_party: ""
+      improvement_actions: []
+  
+  relationship_quality_metrics:
+    satisfaction_score: ""
+    engagement_level: ""
+    loyalty_indicators: []
+    referral_activity: ""
+    contract_renewals: ""
+  
+  business_impact_measures:
+    revenue_retention: ""
+    revenue_growth: ""
+    partnership_duration: ""
+    cross_selling_success: ""
+    market_expansion: ""
+
+continuous_improvement:
+  feedback_integration:
+    client_suggestions: []
+    staff_recommendations: []
+    industry_best_practices: []
+    performance_analysis: []
+    innovation_opportunities: []
+  
+  process_optimization:
+    efficiency_improvements: []
+    quality_enhancements: []
+    cost_reductions: []
+    technology_upgrades: []
+    training_developments: []
+  
+  relationship_evolution:
+    partnership_maturity: ""
+    strategic_importance: ""
+    growth_trajectory: ""
+    future_potential: ""
+    succession_planning: ""
+
+documentation_and_reporting:
+  record_keeping:
+    interaction_logs: []
+    performance_reports: []
+    feedback_documentation: []
+    contract_amendments: []
+    strategic_plans: []
+  
+  regular_reporting:
+    - report_type: ""
+      frequency: ""
+      recipients: []
+      content_focus: []
+      action_items: []
+      follow_up_requirements: ""
+
+notes:
+  special_considerations: ""
+  client_preferences: []
+  relationship_history: ""
+  future_opportunities: ""
+  strategic_importance: ""
+
+approval_and_updates:
+  created_by: ""
+  creation_date: ""
+  approved_by: ""
+  approval_date: ""
+  last_updated: ""
+  next_review_date: ""
+  version_control: ""

@@ -1,0 +1,525 @@
+# Underwriting Guidelines Template
+
+guidelines_overview:
+  document_purpose:
+    scope_of_guidelines: ""
+    target_audience: []
+    compliance_requirements: []
+    enforcement_authority: ""
+    update_schedule: ""
+    effective_date: ""
+    
+  regulatory_foundation:
+    primary_regulations: []
+    fcc_section_references: []
+    applicable_laws: []
+    industry_standards: []
+    professional_codes: []
+
+content_standards:
+  permitted_content:
+    business_identification:
+      legal_business_name: true
+      trade_names_and_dba: true
+      business_location: true
+      service_area_description: true
+      years_in_operation: true
+      business_ownership_type: false
+      
+    contact_information:
+      physical_address: true
+      mailing_address: true
+      phone_numbers: true
+      website_urls: true
+      email_addresses: true
+      social_media_handles: true
+      business_hours: true
+      
+    service_descriptions:
+      factual_service_listings: true
+      product_categories: true
+      professional_credentials: true
+      certifications_and_licenses: true
+      awards_and_recognition: true
+      objective_business_descriptions: true
+      
+    neutral_business_information:
+      established_slogans: true
+      registered_trademarks: true
+      factual_accomplishments: true
+      community_involvement: true
+      charitable_activities: true
+      educational_background: true
+      
+  prohibited_content:
+    promotional_language:
+      calls_to_action: false
+      urgent_language: false
+      persuasive_messaging: false
+      sales_pressure: false
+      emotional_appeals: false
+      
+    comparative_claims:
+      superlative_descriptions: false
+      competitive_comparisons: false
+      quality_claims: false
+      superiority_statements: false
+      ranking_assertions: false
+      
+    pricing_information:
+      specific_prices: false
+      discount_percentages: false
+      sale_announcements: false
+      pricing_comparisons: false
+      cost_savings_claims: false
+      affordability_statements: false
+      
+    inducements_to_purchase:
+      special_offers: false
+      limited_time_promotions: false
+      incentive_programs: false
+      bonus_offerings: false
+      free_trial_mentions: false
+      availability_limitations: false
+
+script_development:
+  writing_standards:
+    tone_and_style:
+      professional_tone: true
+      informational_approach: true
+      neutral_language: true
+      factual_presentation: true
+      respectful_messaging: true
+      community_focused: true
+      
+    length_specifications:
+      ten_second_format: "25-30 words maximum"
+      fifteen_second_format: "35-40 words maximum"
+      twenty_second_format: "45-50 words maximum"
+      thirty_second_format: "65-70 words maximum"
+      
+    structural_elements:
+      opening_identification: ""
+      service_description: ""
+      contact_information: ""
+      location_reference: ""
+      closing_acknowledgment: ""
+      
+  approval_process:
+    development_workflow:
+      - step: ""
+        responsible_party: ""
+        timeline: ""
+        deliverables: []
+        approval_criteria: []
+        
+    review_requirements:
+      content_compliance_check: true
+      legal_review_threshold: ""
+      management_approval_level: ""
+      client_approval_required: true
+      final_sign_off_authority: ""
+      
+    revision_procedures:
+      feedback_incorporation: ""
+      revision_rounds_allowed: 0
+      timeline_for_revisions: ""
+      escalation_process: []
+      emergency_revision_protocol: ""
+
+production_standards:
+  audio_quality_requirements:
+    technical_specifications:
+      recording_quality: ""
+      audio_levels: ""
+      noise_floor: ""
+      frequency_response: ""
+      file_format: ""
+      compression_standards: ""
+      
+    voice_talent_standards:
+      professional_announcers: true
+      station_staff_readers: true
+      client_provided_talent: false
+      voice_consistency: true
+      pronunciation_accuracy: true
+      delivery_style: ""
+      
+    music_and_sound_elements:
+      background_music_usage: ""
+      sound_effects_policy: ""
+      station_imaging_integration: ""
+      brand_consistency: true
+      volume_balancing: true
+      
+  production_workflow:
+    scheduling_requirements:
+      production_lead_time: ""
+      revision_accommodation: ""
+      rush_order_procedures: []
+      quality_control_timeline: ""
+      delivery_deadlines: ""
+      
+    file_management:
+      naming_conventions: []
+      storage_requirements: []
+      backup_procedures: []
+      archive_policies: []
+      version_control: ""
+
+scheduling_and_placement:
+  placement_standards:
+    rotation_requirements:
+      balanced_distribution: true
+      daypart_allocation: []
+      program_integration: []
+      separation_from_competitors: ""
+      frequency_management: ""
+      
+    program_suitability:
+      appropriate_program_placement: []
+      content_alignment: []
+      audience_matching: []
+      avoided_programs: []
+      special_considerations: []
+      
+    timing_specifications:
+      spot_separation_requirements: ""
+      cluster_limitations: ""
+      hourly_distribution: []
+      daily_rotation: []
+      weekly_balance: ""
+      
+  scheduling_priorities:
+    priority_levels:
+      - priority_level: ""
+        criteria: []
+        placement_advantages: []
+        investment_threshold: 0
+        special_benefits: []
+        
+    conflict_resolution:
+      competing_requests: ""
+      priority_determination: ""
+      alternative_solutions: []
+      client_communication: ""
+      service_recovery: []
+
+client_relationship_management:
+  partnership_standards:
+    relationship_expectations:
+      professional_communication: true
+      timely_responsiveness: true
+      transparent_reporting: true
+      proactive_service: true
+      problem_resolution_focus: true
+      
+    service_levels:
+      account_management: ""
+      regular_communication: ""
+      performance_reporting: ""
+      strategic_consultation: false
+      crisis_response: ""
+      
+    boundary_maintenance:
+      editorial_independence: true
+      commercial_separation: true
+      journalistic_integrity: true
+      community_service_priority: true
+      ethical_standards: true
+      
+  communication_protocols:
+    regular_touchpoints:
+      - frequency: ""
+        method: ""
+        participants: []
+        agenda_items: []
+        documentation_requirements: []
+        
+    issue_escalation:
+      - escalation_level: ""
+        triggers: []
+        responsible_party: ""
+        resolution_timeline: ""
+        authority_level: ""
+        
+    reporting_standards:
+      placement_verification: true
+      performance_metrics: []
+      feedback_collection: true
+      improvement_recommendations: true
+      strategic_insights: false
+
+compliance_monitoring:
+  quality_assurance:
+    monitoring_procedures:
+      content_review_frequency: ""
+      compliance_auditing: ""
+      random_sampling: true
+      client_feedback_integration: true
+      staff_monitoring: true
+      
+    documentation_requirements:
+      script_archives: true
+      approval_records: true
+      client_communications: true
+      compliance_reviews: true
+      training_documentation: true
+      
+    corrective_action_procedures:
+      violation_identification: ""
+      immediate_response: ""
+      correction_implementation: ""
+      prevention_measures: []
+      reporting_requirements: []
+      
+  staff_training:
+    training_requirements:
+      initial_compliance_training: true
+      annual_refresher_training: true
+      regulatory_update_training: true
+      case_study_review: true
+      best_practices_sharing: true
+      
+    competency_assessment:
+      knowledge_testing: ""
+      practical_application: ""
+      scenario_evaluation: ""
+      continuous_improvement: ""
+      certification_maintenance: ""
+      
+    professional_development:
+      industry_conference_attendance: false
+      workshop_participation: false
+      peer_learning_opportunities: true
+      regulatory_update_subscriptions: true
+      legal_consultation_access: true
+
+digital_integration_guidelines:
+  website_standards:
+    content_requirements:
+      business_directory_listing: true
+      accurate_information: true
+      contact_details: true
+      service_descriptions: true
+      logo_usage_rights: true
+      
+    design_standards:
+      visual_consistency: true
+      brand_compliance: true
+      mobile_optimization: true
+      accessibility_requirements: true
+      user_experience_focus: true
+      
+    seo_considerations:
+      search_optimization: true
+      keyword_relevance: true
+      local_search_enhancement: true
+      content_indexing: true
+      performance_tracking: true
+      
+  social_media_integration:
+    platform_standards:
+      - platform: ""
+        content_guidelines: []
+        posting_frequency: ""
+        engagement_protocols: []
+        compliance_requirements: []
+        
+    content_creation:
+      brand_consistency: true
+      message_alignment: true
+      visual_standards: []
+      hashtag_usage: []
+      engagement_approach: ""
+
+event_and_sponsorship_guidelines:
+  event_participation:
+    appropriate_events:
+      community_focused: true
+      educational_purpose: true
+      cultural_significance: true
+      civic_engagement: true
+      non_controversial: true
+      
+    recognition_standards:
+      acknowledgment_format: []
+      signage_requirements: []
+      verbal_recognition: []
+      program_listing: []
+      promotional_material_inclusion: []
+      
+    partnership_boundaries:
+      editorial_independence: true
+      content_control: true
+      mission_alignment: true
+      community_benefit: true
+      ethical_considerations: []
+      
+  special_sponsorships:
+    program_sponsorships:
+      - program_type: ""
+        sponsorship_format: ""
+        content_integration: ""
+        frequency: ""
+        special_requirements: []
+        
+    feature_sponsorships:
+      news_sponsorship_guidelines: []
+      weather_sponsorship_standards: []
+      traffic_sponsorship_requirements: []
+      community_calendar_sponsorship: []
+      educational_content_sponsorship: []
+
+contract_and_legal_guidelines:
+  contract_standards:
+    essential_terms:
+      investment_amount: true
+      payment_schedule: true
+      service_specifications: true
+      performance_guarantees: true
+      termination_provisions: true
+      
+    protective_clauses:
+      fcc_compliance_requirements: true
+      content_approval_rights: true
+      editorial_independence: true
+      liability_limitations: true
+      dispute_resolution: true
+      
+    flexibility_provisions:
+      modification_procedures: []
+      cancellation_options: []
+      force_majeure_protections: []
+      performance_adjustment: []
+      renewal_terms: []
+      
+  legal_compliance:
+    regulatory_adherence:
+      fcc_regulation_compliance: true
+      state_law_requirements: true
+      local_ordinance_compliance: true
+      industry_standard_following: true
+      ethical_guideline_adherence: true
+      
+    risk_management:
+      liability_assessment: []
+      insurance_requirements: []
+      indemnification_provisions: []
+      dispute_prevention: []
+      legal_review_triggers: []
+
+performance_measurement:
+  success_metrics:
+    quantitative_measures:
+      audience_delivery: true
+      impression_calculations: true
+      reach_and_frequency: true
+      digital_engagement: true
+      website_traffic: true
+      
+    qualitative_assessments:
+      client_satisfaction: true
+      relationship_quality: true
+      community_impact: true
+      brand_alignment: true
+      mission_fulfillment: true
+      
+    reporting_standards:
+      accuracy_requirements: true
+      timeliness_expectations: true
+      format_specifications: []
+      distribution_protocols: []
+      confidentiality_maintenance: true
+      
+  continuous_improvement:
+    feedback_integration:
+      client_input: true
+      staff_suggestions: true
+      industry_benchmarking: true
+      regulatory_updates: true
+      best_practices_adoption: true
+      
+    process_optimization:
+      workflow_efficiency: []
+      quality_enhancements: []
+      technology_improvements: []
+      training_updates: []
+      policy_refinements: []
+
+enforcement_and_accountability:
+  violation_consequences:
+    minor_violations:
+      corrective_action: ""
+      additional_training: ""
+      enhanced_monitoring: ""
+      documentation_requirements: ""
+      
+    major_violations:
+      immediate_cessation: ""
+      management_review: ""
+      client_notification: ""
+      legal_consultation: ""
+      regulatory_reporting: ""
+      
+    repeat_violations:
+      progressive_discipline: []
+      process_restructuring: []
+      additional_oversight: []
+      contract_modifications: []
+      partnership_termination: []
+      
+  accountability_measures:
+    individual_responsibility: []
+    supervisory_oversight: []
+    management_accountability: []
+    organizational_commitment: []
+    stakeholder_transparency: []
+
+update_and_maintenance:
+  revision_procedures:
+    regular_review_schedule: ""
+    update_triggers: []
+    stakeholder_input: []
+    approval_process: []
+    implementation_timeline: ""
+    
+  communication_of_changes:
+    staff_notification: []
+    client_communication: []
+    training_updates: []
+    documentation_revision: []
+    compliance_monitoring: []
+    
+  version_control:
+    document_versioning: ""
+    change_tracking: []
+    historical_record: []
+    distribution_management: []
+    access_control: []
+
+appendices:
+  reference_materials:
+    regulatory_documents: []
+    industry_standards: []
+    best_practice_guides: []
+    template_examples: []
+    contact_information: []
+    
+  supporting_tools:
+    compliance_checklists: []
+    script_templates: []
+    approval_forms: []
+    training_materials: []
+    monitoring_tools: []
+
+metadata:
+  document_control:
+    version_number: ""
+    effective_date: ""
+    last_revision: ""
+    next_review_date: ""
+    document_owner: ""
+    approval_authority: ""
+    distribution_list: []
+    confidentiality_classification: ""

@@ -1,0 +1,396 @@
+# Prospect Research Template
+
+prospect_overview:
+  basic_information:
+    business_name: ""
+    legal_name: ""
+    dba_names: []
+    industry_category: ""
+    business_type: "" # corporation, llc, partnership, sole_proprietorship
+    years_in_operation: 0
+    employee_count: 0
+    annual_revenue_estimate: 0
+    headquarters_location: ""
+    service_area: []
+  
+  contact_information:
+    primary_contact:
+      name: ""
+      title: ""
+      role: ""
+      phone: ""
+      mobile: ""
+      email: ""
+      linkedin_profile: ""
+      decision_authority: ""
+    
+    secondary_contacts:
+      - name: ""
+        title: ""
+        department: ""
+        phone: ""
+        email: ""
+        role_in_decision: ""
+    
+    business_address:
+      street: ""
+      city: ""
+      state: ""
+      zip_code: ""
+      county: ""
+      additional_locations: []
+
+market_position_analysis:
+  competitive_landscape:
+    market_share: ""
+    competitive_position: "" # leader, challenger, follower, niche
+    key_competitors: []
+    competitive_advantages: []
+    market_differentiation: []
+    pricing_position: "" # premium, competitive, value
+  
+  business_model:
+    revenue_streams: []
+    customer_segments: []
+    distribution_channels: []
+    key_partnerships: []
+    cost_structure: []
+    value_propositions: []
+  
+  growth_trajectory:
+    historical_growth: ""
+    current_trends: ""
+    expansion_plans: []
+    market_opportunities: []
+    growth_challenges: []
+
+financial_analysis:
+  revenue_assessment:
+    estimated_annual_revenue: 0
+    revenue_growth_trend: ""
+    seasonality_factors: []
+    revenue_diversification: ""
+    major_revenue_sources: []
+  
+  financial_stability:
+    credit_rating: ""
+    payment_history: ""
+    financial_reputation: ""
+    debt_obligations: ""
+    cash_flow_indicators: []
+  
+  marketing_budget_estimation:
+    estimated_marketing_spend: 0
+    marketing_budget_percentage: 0
+    current_advertising_investments: []
+    marketing_priorities: []
+    budget_decision_timeline: ""
+
+target_market_alignment:
+  customer_demographics:
+    primary_customer_profile: ""
+    age_ranges: []
+    income_levels: []
+    education_levels: []
+    geographic_distribution: []
+    lifestyle_characteristics: []
+  
+  public_radio_audience_match:
+    demographic_overlap: ""
+    psychographic_alignment: []
+    value_system_compatibility: ""
+    lifestyle_intersection: []
+    purchasing_behavior_match: ""
+  
+  market_reach_analysis:
+    service_area_coverage: ""
+    target_market_size: 0
+    market_penetration: ""
+    growth_potential: 0
+    expansion_opportunities: []
+
+business_reputation_assessment:
+  community_standing:
+    local_reputation: ""
+    community_involvement: []
+    civic_organization_participation: []
+    charitable_giving_history: []
+    public_service_contributions: []
+  
+  professional_reputation:
+    industry_recognition: []
+    awards_and_honors: []
+    professional_memberships: []
+    certifications_and_credentials: []
+    thought_leadership_activities: []
+  
+  online_presence_analysis:
+    website_quality: ""
+    social_media_engagement: ""
+    online_reviews_summary: ""
+    digital_marketing_sophistication: ""
+    search_engine_visibility: ""
+
+marketing_and_advertising_history:
+  current_marketing_activities:
+    advertising_channels: []
+    marketing_strategies: []
+    promotional_campaigns: []
+    digital_marketing_presence: []
+    content_marketing_efforts: []
+  
+  media_usage_patterns:
+    traditional_media_usage: []
+    digital_media_investments: []
+    radio_advertising_history: []
+    print_advertising_history: []
+    outdoor_advertising_usage: []
+  
+  sponsorship_and_partnership_history:
+    current_sponsorships: []
+    community_event_support: []
+    nonprofit_partnerships: []
+    cause_marketing_activities: []
+    corporate_social_responsibility: []
+
+decision_making_analysis:
+  organizational_structure:
+    decision_makers: []
+    influencers: []
+    budget_authority: ""
+    approval_process: ""
+    decision_timeline: ""
+  
+  buying_behavior:
+    purchase_decision_factors: []
+    evaluation_criteria: []
+    vendor_selection_process: ""
+    contract_negotiation_approach: ""
+    relationship_importance: ""
+  
+  communication_preferences:
+    preferred_contact_methods: []
+    meeting_preferences: ""
+    information_consumption_habits: []
+    decision_support_needs: []
+
+partnership_potential_assessment:
+  alignment_factors:
+    mission_alignment: ""
+    value_compatibility: []
+    audience_overlap_quality: ""
+    geographic_relevance: ""
+    partnership_readiness: ""
+  
+  revenue_potential:
+    estimated_investment_capacity: 0
+    growth_potential: ""
+    contract_length_likelihood: ""
+    upsell_opportunities: []
+    referral_potential: ""
+  
+  strategic_value:
+    market_influence: ""
+    referral_network_access: []
+    industry_leadership_position: ""
+    community_connector_potential: ""
+    long_term_partnership_value: ""
+
+competitive_intelligence:
+  competitor_relationships:
+    current_media_partnerships: []
+    advertising_agency_relationships: []
+    marketing_consultant_usage: []
+    vendor_loyalty_patterns: []
+    switching_likelihood: ""
+  
+  market_opportunities:
+    unmet_marketing_needs: []
+    service_gaps_identified: []
+    timing_advantages: []
+    competitive_vulnerabilities: []
+    market_entry_opportunities: []
+
+approach_strategy_development:
+  initial_contact_approach:
+    recommended_contact_method: ""
+    introduction_strategy: ""
+    value_proposition_emphasis: []
+    timing_considerations: []
+    referral_opportunities: []
+  
+  relationship_building_plan:
+    cultivation_strategy: []
+    trust_building_activities: []
+    value_demonstration_methods: []
+    partnership_development_timeline: ""
+    milestone_objectives: []
+  
+  proposal_customization_guidance:
+    key_messaging_themes: []
+    service_emphasis_areas: []
+    pricing_strategy_recommendations: []
+    proposal_format_preferences: ""
+    presentation_approach: ""
+
+risk_assessment:
+  business_risks:
+    - risk_factor: ""
+      probability: "" # low, medium, high
+      impact: "" # low, medium, high
+      mitigation_approach: ""
+      monitoring_requirements: ""
+  
+  partnership_risks:
+    reputation_risks: []
+    financial_risks: []
+    operational_risks: []
+    strategic_risks: []
+    relationship_risks: []
+  
+  market_risks:
+    industry_volatility: ""
+    economic_sensitivity: ""
+    regulatory_changes: []
+    competitive_threats: []
+    technology_disruption: ""
+
+opportunity_scoring:
+  evaluation_criteria:
+    - criterion: ""
+      weight: 0
+      score: 0
+      justification: ""
+      improvement_potential: ""
+  
+  overall_assessment:
+    total_score: 0
+    priority_ranking: "" # high, medium, low
+    recommended_action: ""
+    resource_allocation: ""
+    timeline_recommendation: ""
+
+research_sources:
+  information_sources:
+    - source: ""
+      reliability: ""
+      information_type: []
+      access_method: ""
+      update_frequency: ""
+      cost: 0
+  
+  verification_methods:
+    cross_reference_sources: []
+    direct_verification_approaches: []
+    third_party_confirmations: []
+    ongoing_monitoring_systems: []
+
+follow_up_recommendations:
+  immediate_actions:
+    - action: ""
+      timeline: ""
+      responsible_party: ""
+      resources_needed: []
+      expected_outcome: ""
+  
+  ongoing_research_needs:
+    information_gaps: []
+    monitoring_requirements: []
+    update_triggers: []
+    research_schedule: ""
+    intelligence_sharing: []
+
+competitive_analysis:
+  direct_competitors_analysis:
+    - competitor: ""
+      market_position: ""
+      competitive_advantages: []
+      vulnerabilities: []
+      partnership_history: []
+      approach_differentiation: []
+  
+  indirect_competitors_analysis:
+    alternative_solutions: []
+    substitute_services: []
+    competitive_threats: []
+    market_disruption_potential: []
+
+stakeholder_mapping:
+  internal_stakeholders:
+    - stakeholder: ""
+      influence_level: ""
+      decision_role: ""
+      communication_needs: []
+      relationship_status: ""
+  
+  external_stakeholders:
+    - stakeholder: ""
+      relationship_type: ""
+      influence_on_prospect: ""
+      partnership_potential: ""
+      approach_strategy: ""
+
+research_quality_assessment:
+  information_completeness: ""
+  source_reliability: ""
+  data_freshness: ""
+  verification_level: ""
+  confidence_rating: ""
+  
+  research_gaps:
+    missing_information: []
+    verification_needed: []
+    additional_research_priorities: []
+    intelligence_gathering_needs: []
+
+action_planning:
+  next_steps:
+    - step: ""
+      priority: ""
+      timeline: ""
+      responsible_party: ""
+      success_criteria: []
+      resources_required: []
+  
+  engagement_strategy:
+    approach_methodology: ""
+    relationship_building_plan: []
+    value_proposition_presentation: ""
+    objection_anticipation: []
+    success_probability: ""
+
+documentation_and_tracking:
+  research_updates:
+    last_updated: ""
+    information_sources: []
+    verification_status: ""
+    next_review_date: ""
+    update_triggers: []
+  
+  sharing_and_distribution:
+    authorized_users: []
+    confidentiality_level: ""
+    distribution_restrictions: []
+    usage_guidelines: []
+
+notes_and_observations:
+  key_insights: []
+  strategic_observations: []
+  relationship_opportunities: []
+  potential_challenges: []
+  unique_characteristics: []
+
+research_metadata:
+  researcher: ""
+  research_date: ""
+  research_methodology: []
+  time_investment: ""
+  cost_of_research: 0
+  quality_rating: ""
+  
+approval_and_validation:
+  reviewed_by: ""
+  validation_date: ""
+  accuracy_verification: ""
+  strategic_alignment_check: ""
+  action_approval: ""

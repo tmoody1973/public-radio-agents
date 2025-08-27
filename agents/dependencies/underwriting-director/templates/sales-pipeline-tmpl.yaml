@@ -1,0 +1,452 @@
+# Sales Pipeline Template
+
+pipeline_overview:
+  pipeline_configuration:
+    pipeline_name: ""
+    target_market_segment: ""
+    product_focus: ""
+    pipeline_owner: ""
+    reporting_period: ""
+    revenue_target: 0
+    conversion_rate_target: 0
+    average_deal_size_target: 0
+    sales_cycle_target: ""
+  
+  pipeline_health_metrics:
+    total_pipeline_value: 0
+    weighted_pipeline_value: 0
+    number_of_opportunities: 0
+    average_opportunity_value: 0
+    pipeline_velocity: ""
+    conversion_rate: 0
+    win_rate: 0
+    loss_rate: 0
+
+pipeline_stages:
+  prospect_identification:
+    stage_description: "Initial identification and qualification of potential partners"
+    entry_criteria: []
+    exit_criteria: []
+    average_duration: ""
+    
+    key_activities:
+      - activity: ""
+        responsible_party: ""
+        tools_required: []
+        success_metrics: []
+        completion_timeline: ""
+    
+    stage_metrics:
+      conversion_rate_to_next_stage: 0
+      average_time_in_stage: ""
+      drop_out_rate: 0
+      key_performance_indicators: []
+    
+    required_information:
+      - information_type: ""
+        source: ""
+        verification_method: ""
+        completeness_requirement: ""
+    
+    deliverables:
+      - deliverable: ""
+        format: ""
+        recipient: ""
+        completion_criteria: ""
+
+  initial_contact:
+    stage_description: "First outreach and initial relationship establishment"
+    entry_criteria: []
+    exit_criteria: []
+    average_duration: ""
+    
+    key_activities:
+      - activity: ""
+        responsible_party: ""
+        preparation_required: []
+        success_criteria: []
+        follow_up_actions: []
+    
+    communication_tracking:
+      contact_attempts: 0
+      successful_contacts: 0
+      preferred_communication_method: ""
+      response_rate: 0
+      next_contact_date: ""
+    
+    relationship_establishment:
+      rapport_building_activities: []
+      trust_indicators: []
+      interest_level_assessment: ""
+      pain_point_identification: []
+      value_proposition_reception: ""
+
+  needs_assessment:
+    stage_description: "Deep dive into prospect needs and partnership potential"
+    entry_criteria: []
+    exit_criteria: []
+    average_duration: ""
+    
+    assessment_components:
+      business_objectives: []
+      marketing_challenges: []
+      budget_parameters: ""
+      decision_making_process: ""
+      timeline_requirements: ""
+      success_criteria: []
+    
+    qualification_scoring:
+      - criterion: ""
+        weight: 0
+        score: 0
+        max_score: 0
+        notes: ""
+    
+    competitor_analysis:
+      current_providers: []
+      satisfaction_levels: []
+      switching_barriers: []
+      competitive_advantages: []
+      differentiation_opportunities: []
+
+  proposal_development:
+    stage_description: "Custom proposal creation and presentation preparation"
+    entry_criteria: []
+    exit_criteria: []
+    average_duration: ""
+    
+    proposal_components:
+      situation_analysis: ""
+      recommended_solution: ""
+      investment_proposal: 0
+      implementation_timeline: ""
+      success_metrics: []
+      terms_and_conditions: []
+    
+    customization_elements:
+      business_specific_benefits: []
+      industry_relevant_examples: []
+      roi_projections: []
+      risk_mitigation_strategies: []
+      partnership_vision: ""
+    
+    internal_approvals:
+      - approval_type: ""
+        approver: ""
+        approval_date: ""
+        conditions: []
+        notes: ""
+
+  proposal_presentation:
+    stage_description: "Formal presentation and initial feedback collection"
+    entry_criteria: []
+    exit_criteria: []
+    average_duration: ""
+    
+    presentation_planning:
+      attendees: []
+      presentation_format: ""
+      duration: ""
+      location: ""
+      materials_needed: []
+      technology_requirements: []
+    
+    presentation_execution:
+      key_messages_delivered: []
+      questions_raised: []
+      concerns_identified: []
+      positive_responses: []
+      next_steps_agreed: []
+    
+    feedback_analysis:
+      decision_maker_reactions: []
+      influencer_feedback: []
+      objections_raised: []
+      additional_information_requested: []
+      timeline_indicators: ""
+
+  negotiation:
+    stage_description: "Contract terms discussion and agreement finalization"
+    entry_criteria: []
+    exit_criteria: []
+    average_duration: ""
+    
+    negotiation_parameters:
+      negotiable_elements: []
+      non_negotiable_terms: []
+      concession_strategies: []
+      value_justifications: []
+      alternative_proposals: []
+    
+    negotiation_tracking:
+      - negotiation_point: ""
+        client_position: ""
+        station_position: ""
+        compromise_reached: ""
+        impact_on_deal: ""
+        resolution_date: ""
+    
+    decision_timeline:
+      decision_deadline: ""
+      decision_makers_involved: []
+      approval_process_steps: []
+      final_decision_date: ""
+      implementation_start_date: ""
+
+  contract_execution:
+    stage_description: "Final agreement and partnership launch preparation"
+    entry_criteria: []
+    exit_criteria: []
+    average_duration: ""
+    
+    contract_finalization:
+      legal_review_required: false
+      contract_modifications: []
+      signature_collection: []
+      final_approvals: []
+      executed_contract_date: ""
+    
+    onboarding_preparation:
+      client_orientation_scheduled: ""
+      internal_team_briefing: ""
+      production_requirements: []
+      launch_timeline: ""
+      success_metrics_established: []
+
+opportunity_tracking:
+  opportunity_details:
+    opportunity_name: ""
+    prospect_company: ""
+    primary_contact: ""
+    opportunity_value: 0
+    probability_percentage: 0
+    expected_close_date: ""
+    actual_close_date: ""
+    lead_source: ""
+    assigned_salesperson: ""
+    
+  opportunity_history:
+    - date: ""
+      activity: ""
+      outcome: ""
+      next_steps: []
+      notes: ""
+      updated_by: ""
+    
+  competitive_situation:
+    competitors_identified: []
+    competitive_advantages: []
+    competitive_threats: []
+    differentiation_strategy: ""
+    win_probability_factors: []
+
+pipeline_analytics:
+  stage_analysis:
+    - stage_name: ""
+      opportunities_count: 0
+      total_value: 0
+      average_value: 0
+      conversion_rate: 0
+      average_duration: ""
+      bottleneck_indicators: []
+  
+  velocity_metrics:
+    pipeline_velocity: 0
+    stage_velocity: []
+    acceleration_factors: []
+    deceleration_factors: []
+    velocity_trends: []
+  
+  conversion_analysis:
+    overall_conversion_rate: 0
+    stage_conversion_rates: []
+    win_loss_analysis: []
+    drop_out_reasons: []
+    improvement_opportunities: []
+
+forecasting:
+  revenue_forecast:
+    current_quarter_forecast: 0
+    next_quarter_forecast: 0
+    annual_forecast: 0
+    forecast_confidence_level: ""
+    forecast_assumptions: []
+  
+  pipeline_projections:
+    new_opportunities_projected: 0
+    expected_closures: []
+    pipeline_growth_rate: 0
+    market_expansion_impact: 0
+    seasonal_adjustments: []
+  
+  scenario_planning:
+    - scenario: ""
+      probability: 0
+      revenue_impact: 0
+      timeline_impact: ""
+      mitigation_strategies: []
+      monitoring_indicators: []
+
+performance_management:
+  individual_performance:
+    - salesperson: ""
+      opportunities_managed: 0
+      pipeline_value: 0
+      conversion_rate: 0
+      average_deal_size: 0
+      sales_cycle_length: ""
+      performance_rating: ""
+  
+  team_performance:
+    total_team_pipeline: 0
+    team_conversion_rate: 0
+    team_velocity: ""
+    collaboration_effectiveness: ""
+    knowledge_sharing_quality: ""
+  
+  performance_improvement:
+    training_needs_identified: []
+    coaching_priorities: []
+    process_improvements: []
+    tool_enhancements: []
+    best_practices_adoption: []
+
+pipeline_optimization:
+  bottleneck_identification:
+    - bottleneck: ""
+      impact_level: ""
+      root_causes: []
+      solution_strategies: []
+      implementation_timeline: ""
+      expected_improvement: ""
+  
+  process_improvements:
+    - improvement_area: ""
+      current_state: ""
+      desired_state: ""
+      action_plan: []
+      resource_requirements: []
+      success_metrics: []
+  
+  technology_enhancements:
+    automation_opportunities: []
+    integration_improvements: []
+    reporting_enhancements: []
+    user_experience_upgrades: []
+    data_quality_improvements: []
+
+lead_management:
+  lead_sources:
+    - source: ""
+      lead_volume: 0
+      lead_quality_score: 0
+      conversion_rate: 0
+      cost_per_lead: 0
+      roi: 0
+  
+  lead_qualification:
+    qualification_criteria: []
+    scoring_methodology: ""
+    qualification_process: []
+    handoff_procedures: []
+    feedback_loop: ""
+  
+  lead_nurturing:
+    nurturing_campaigns: []
+    content_strategy: []
+    communication_frequency: ""
+    personalization_approach: ""
+    engagement_tracking: []
+
+competitive_intelligence:
+  competitor_tracking:
+    - competitor: ""
+      market_activity: []
+      pricing_changes: []
+      service_updates: []
+      win_loss_record: ""
+      strategic_insights: []
+  
+  market_intelligence:
+    industry_trends: []
+    regulatory_changes: []
+    economic_factors: []
+    technology_developments: []
+    opportunity_implications: []
+
+risk_management:
+  pipeline_risks:
+    - risk: ""
+      probability: ""
+      impact: ""
+      mitigation_strategy: ""
+      monitoring_approach: ""
+      contingency_plan: ""
+  
+  deal_risks:
+    - opportunity_id: ""
+      risk_factors: []
+      risk_level: ""
+      mitigation_actions: []
+      escalation_triggers: []
+
+reporting_and_communication:
+  regular_reports:
+    - report_type: ""
+      frequency: ""
+      recipients: []
+      key_metrics: []
+      format: ""
+      automation_level: ""
+  
+  stakeholder_communication:
+    - stakeholder: ""
+      communication_frequency: ""
+      information_needs: []
+      preferred_format: ""
+      escalation_procedures: []
+
+tools_and_systems:
+  crm_system:
+    system_name: ""
+    key_features_used: []
+    integration_points: []
+    user_adoption_rate: 0
+    customizations: []
+  
+  supporting_tools:
+    - tool_name: ""
+      purpose: ""
+      users: []
+      effectiveness_rating: ""
+      integration_status: ""
+
+continuous_improvement:
+  review_schedule:
+    pipeline_review_frequency: ""
+    performance_review_schedule: ""
+    process_improvement_meetings: ""
+    strategy_adjustment_timeline: ""
+  
+  improvement_initiatives:
+    - initiative: ""
+      objective: ""
+      timeline: ""
+      resources_required: []
+      success_metrics: []
+      responsible_party: ""
+
+notes_and_observations:
+  market_insights: []
+  process_observations: []
+  improvement_opportunities: []
+  strategic_considerations: []
+  relationship_dynamics: []
+
+pipeline_metadata:
+  created_by: ""
+  creation_date: ""
+  last_updated: ""
+  review_schedule: ""
+  approval_status: ""
+  distribution_list: []
