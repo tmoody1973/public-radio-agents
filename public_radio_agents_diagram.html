@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Public Radio Agents Flow Diagram</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 10px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 100%;
+            margin: 0 auto;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%);
+            color: white;
+            padding: 12px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            margin: 0;
+            font-size: 22px;
+            font-weight: 600;
+        }
+        
+        .header p {
+            margin: 5px 0 0 0;
+            opacity: 0.9;
+            font-size: 14px;
+        }
+        
+        .flow-container {
+            padding: 15px;
+            background: #f8f9fa;
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 12px;
+        }
+        
+        .flow-row {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+        
+        .flow-node {
+            background: white;
+            border-radius: 6px;
+            padding: 10px 15px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            text-align: center;
+            position: relative;
+            min-width: 120px;
+            font-size: 12px;
+        }
+        
+        .start-node {
+            background: linear-gradient(135deg, #27ae60 0%, #2ecc71 100%);
+            color: white;
+            font-weight: 600;
+        }
+        
+        .input-node {
+            background: linear-gradient(135deg, #3498db 0%, #2980b9 100%);
+            color: white;
+        }
+        
+        .decision-node {
+            background: linear-gradient(135deg, #f39c12 0%, #e67e22 100%);
+            color: white;
+            border-radius: 25px;
+            min-width: 140px;
+        }
+        
+        .process-node {
+            background: linear-gradient(135deg, #9b59b6 0%, #8e44ad 100%);
+            color: white;
+        }
+        
+        .agent-node {
+            border: 2px solid;
+            min-width: 100px;
+            font-size: 11px;
+        }
+        
+        .agent-node.development { 
+            border-color: #e74c3c; 
+            background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%);
+            color: white;
+        }
+        
+        .agent-node.marketing { 
+            border-color: #f39c12;
+            background: linear-gradient(135deg, #f39c12 0%, #d68910 100%);
+            color: white;
+        }
+        
+        .agent-node.underwriting { 
+            border-color: #27ae60;
+            background: linear-gradient(135deg, #27ae60 0%, #229954 100%);
+            color: white;
+        }
+        
+        .agent-node.program { 
+            border-color: #9b59b6;
+            background: linear-gradient(135deg, #9b59b6 0%, #8e44ad 100%);
+            color: white;
+        }
+        
+        .workflow-node {
+            background: linear-gradient(135deg, #16a085 0%, #138d75 100%);
+            color: white;
+            font-size: 11px;
+            min-width: 90px;
+        }
+        
+        .output-node {
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+            color: white;
+        }
+        
+        .collaboration-node {
+            background: linear-gradient(135deg, #e67e22 0%, #d35400 100%);
+            color: white;
+            border-radius: 15px;
+        }
+        
+        .end-node {
+            background: linear-gradient(135deg, #c0392b 0%, #a93226 100%);
+            color: white;
+            font-weight: 600;
+        }
+        
+        .flow-arrow {
+            font-size: 20px;
+            color: #7f8c8d;
+            margin: 0 5px;
+        }
+        
+        .vertical-arrow {
+            writing-mode: vertical-lr;
+            text-orientation: mixed;
+            transform: rotate(90deg);
+        }
+        
+        .command-examples {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin: 5px 0;
+        }
+        
+        .command-example {
+            background: #ecf0f1;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            font-size: 10px;
+            border-left: 2px solid #3498db;
+        }
+        
+        .branch-section {
+            display: flex;
+            justify-content: space-around;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+        
+        .branch {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-width: 200px;
+        }
+        
+        .branch-label {
+            background: #34495e;
+            color: white;
+            padding: 3px 10px;
+            border-radius: 12px;
+            font-size: 10px;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+        
+        .agent-row {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        
+        .workflow-row {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        
+        .resources-compact {
+            background: white;
+            border: 1px dashed #bdc3c7;
+            border-radius: 6px;
+            padding: 8px;
+            margin: 5px;
+            font-size: 10px;
+            max-width: 300px;
+        }
+        
+        .resources-compact h4 {
+            margin: 0 0 5px 0;
+            color: #2c3e50;
+            font-size: 11px;
+        }
+        
+        .resource-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+        }
+        
+        .resource-tag {
+            background: #ecf0f1;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-size: 9px;
+            color: #7f8c8d;
+        }
+        
+        .flow-section {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .horizontal-section {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+        
+        .loop-indicator {
+            border: 2px dashed #95a5a6;
+            border-radius: 6px;
+            padding: 6px;
+            background: #ecf0f1;
+            font-size: 10px;
+            color: #7f8c8d;
+            text-align: center;
+            max-width: 120px;
+        }
+        
+        @media print {
+            body {
+                background: white;
+                padding: 5px;
+            }
+            
+            .container {
+                box-shadow: none;
+                max-width: none;
+                margin: 0;
+            }
+            
+            .flow-container {
+                padding: 8px;
+            }
+            
+            .header {
+                padding: 8px;
+            }
+            
+            .header h1 {
+                font-size: 18px;
+            }
+            
+            .header p {
+                font-size: 12px;
+            }
+        }
+        
+        @page {
+            size: landscape;
+            margin: 0.5in;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📊 Public Radio Agents System Flow</h1>
+            <p>Complete process flow from user input to expert deliverables</p>
+        </div>
+        
+        <div class="flow-container">
+            <!-- Row 1: Start and Input -->
+            <div class="horizontal-section">
+                <div class="flow-node start-node">🚀 START</div>
+                <div class="flow-arrow">→</div>
+                <div class="flow-node input-node">💬 USER COMMAND<br><small>* prefix required</small></div>
+                <div class="flow-arrow">→</div>
+                <div class="flow-node process-node">🎭 ORCHESTRATOR<br>ANALYZES</div>
+                <div class="flow-arrow">→</div>
+                <div class="flow-node decision-node">🔍 COMMAND TYPE?</div>
+            </div>
+
+            <!-- Row 2: Command Examples -->
+            <div class="command-examples">
+                <div class="command-example">*agent development-director</div>
+                <div class="command-example">*workflow membership-campaign</div>
+                <div class="command-example">*party-mode</div>
+                <div class="command-example">*help</div>
+                <div class="command-example">*kb-mode</div>
+            </div>
+
+            <!-- Row 3: Branching Paths -->
+            <div class="branch-section">
+                <!-- Agents Branch -->
+                <div class="branch">
+                    <div class="branch-label">AGENT REQUEST</div>
+                    <div class="agent-row">
+                        <div class="flow-node agent-node development">👑<br>Sarah<br><small>Development</small></div>
+                        <div class="flow-node agent-node marketing">📢<br>Marcus<br><small>Marketing</small></div>
+                        <div class="flow-node agent-node underwriting">🤝<br>Diana<br><small>Underwriting</small></div>
+                        <div class="flow-node agent-node program">🎙️<br>Jordan<br><small>Programming</small></div>
+                    </div>
+                </div>
+
+                <!-- Workflows Branch -->
+                <div class="branch">
+                    <div class="branch-label">WORKFLOW REQUEST</div>
+                    <div class="workflow-row">
+                        <div class="flow-node workflow-node">📅<br>Annual<br>Planning</div>
+                        <div class="flow-node workflow-node">💰<br>Membership<br>Campaign</div>
+                        <div class="flow-node workflow-node">🤝<br>Underwriting<br>Campaign</div>
+                        <div class="flow-node workflow-node">🎙️<br>Program<br>Launch</div>
+                        <div class="flow-node workflow-node">🎉<br>Special<br>Event</div>
+                        <div class="flow-node workflow-node">🚨<br>Crisis<br>Response</div>
+                    </div>
+                </div>
+
+                <!-- Special Modes Branch -->
+                <div class="branch">
+                    <div class="branch-label">SPECIAL MODES</div>
+                    <div style="display: flex; flex-direction: column; gap: 8px; align-items: center;">
+                        <div class="flow-node collaboration-node">🎉 PARTY MODE<br><small>(All Agents)</small></div>
+                        <div class="flow-node process-node">📚 KB MODE<br><small>(Knowledge Base)</small></div>
+                        <div class="flow-node process-node">💬 CHAT MODE<br><small>(Conversation)</small></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Row 4: Processing Flow -->
+            <div class="horizontal-section">
+                <div class="flow-arrow vertical-arrow">↓</div>
+                <div class="flow-node process-node">⚡ AGENT TRANSFORMATION<br><small>& Resource Loading</small></div>
+                <div class="flow-arrow">→</div>
+                <div class="flow-node process-node">🧠 EXPERT ANALYSIS<br><small>& Planning</small></div>
+                <div class="flow-arrow">→</div>
+                <div class="flow-node decision-node">🤔 NEED COLLABORATION?</div>
+            </div>
+
+            <!-- Row 5: Resources and Collaboration Decision -->
+            <div class="horizontal-section">
+                <div class="resources-compact">
+                    <h4>📦 Resources Loaded On-Demand</h4>
+                    <div class="resource-list">
+                        <div class="resource-tag">Knowledge Base</div>
+                        <div class="resource-tag">Templates</div>
+                        <div class="resource-tag">Tasks</div>
+                        <div class="resource-tag">Checklists</div>
+                        <div class="resource-tag">Utils</div>
+                    </div>
+                </div>
+                <div class="flow-arrow">→</div>
+                <div style="display: flex; flex-direction: column; gap: 8px; align-items: center;">
+                    <div class="flow-node collaboration-node">🤝 MULTI-AGENT<br><small>Collaboration</small></div>
+                    <div style="font-size: 10px; color: #7f8c8d;">OR</div>
+                    <div class="flow-node process-node">⚡ SINGLE AGENT<br><small>Processing</small></div>
+                </div>
+            </div>
+
+            <!-- Row 6: Output and Completion -->
+            <div class="horizontal-section">
+                <div class="flow-arrow vertical-arrow">↓</div>
+                <div class="flow-node output-node">📋 GENERATE DELIVERABLES<br><small>Plans • Templates • Recommendations</small></div>
+                <div class="flow-arrow">→</div>
+                <div class="flow-node decision-node">👤 USER SATISFIED?</div>
+                <div class="flow-arrow">→</div>
+                <div class="flow-node end-node">✅ COMPLETE</div>
+            </div>
+
+            <!-- Row 7: Feedback Loop -->
+            <div class="horizontal-section">
+                <div class="loop-indicator">
+                    🔄 REFINEMENT LOOP<br>
+                    <small>If not satisfied, continue with follow-up questions and adjustments</small>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
