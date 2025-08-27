@@ -309,6 +309,16 @@ Once you're comfortable with the basics:
 5. **Explore [IDE Integration Guide](ide-integration.md)** if you're a developer
 6. **Review [Customization Guide](customization.md)** to adapt the system
 
+### 🔧 **For Developers & Customizers**
+
+If you need to modify the framework or contribute to development:
+
+- **Framework Customization**: See the [User Guide - Development section](user-guide.md#-development-and-customization) for modifying agents and dependencies
+- **Build Process**: Use `python3 scripts/build-bundle.py` to regenerate `publicradio.txt` after making changes
+- **Technical Details**: Check [BUILD-BUNDLE-GUIDE.md](../BUILD-BUNDLE-GUIDE.md) for complete build system documentation
+
+**Note**: Most users only need the ready-to-use `publicradio.txt` file. The build script is only needed if you're customizing the framework itself.
+
 ## Getting Help
 
 - **Documentation**: Check the [docs](.) folder for comprehensive guides

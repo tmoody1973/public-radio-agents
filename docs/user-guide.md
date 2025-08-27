@@ -709,6 +709,85 @@ This guide explains how to connect your donor databases, campaign files, and oth
 
 ---
 
+## 🔧 **Development and Customization**
+
+### **Understanding the Framework Structure**
+
+The Public Radio Agents framework consists of:
+- **Source Files**: Individual agent configurations and dependencies in the `agents/` directory
+- **Bundle File**: The complete `publicradio.txt` file that LLMs actually use
+- **Build Scripts**: Tools to combine source files into the bundle
+
+### **When You Need the Build Script**
+
+**You DON'T need the build script if you're just:**
+- ✅ Using the existing `publicradio.txt` with ChatGPT, Claude, or other LLMs
+- ✅ Following the quick start guide and using the framework as-is
+- ✅ Using the SaaS frontend (it loads the bundle automatically)
+
+**You DO need the build script if you want to:**
+- 🔧 Modify agent configurations or add custom capabilities
+- 🔧 Update knowledge bases, templates, or checklists
+- 🔧 Add new dependencies or customize existing ones
+- 🔧 Create custom versions for different station types
+
+### **Using the Build Script**
+
+**Basic Usage** (from the project directory):
+```bash
+python3 scripts/build-bundle.py
+```
+
+**This creates/updates the `publicradio.txt` file with your changes.**
+
+**Development Workflow**:
+1. **Make changes** to files in `agents/` or `agents/dependencies/`
+2. **Build bundle** with `python3 scripts/build-bundle.py`
+3. **Validate** with `python3 scripts/validate-dependencies.py`
+4. **Test** the updated `publicradio.txt` with your LLM
+
+**Custom Output**:
+```bash
+# Build to specific location
+python3 scripts/build-bundle.py --output my-custom-bundle.txt
+```
+
+### **What the Build Script Does**
+
+The script combines:
+- 4 individual agent configuration files
+- 113+ dependency files (knowledge bases, templates, checklists, tasks)
+- 6 structured workflows
+- Shared utilities and resources
+
+**Into**: One complete `publicradio.txt` file ready for any LLM
+
+### **Advanced Customization**
+
+**Adding Custom Knowledge**:
+1. Create new `.md` files in `agents/dependencies/[agent]/data/`
+2. Reference them in the agent's configuration file
+3. Run the build script to include them in the bundle
+
+**Creating Custom Templates**:
+1. Add new `.yaml` files in `agents/dependencies/[agent]/templates/`
+2. Follow existing template patterns
+3. Build and validate the updated bundle
+
+**For detailed technical information**, see the `BUILD-BUNDLE-GUIDE.md` file in the project root.
+
+### **Quality Assurance**
+
+Always validate your changes:
+```bash
+# Check for errors and missing files
+python3 scripts/validate-dependencies.py
+```
+
+**Prerequisites**:
+- Python 3.6+ with `pyyaml` package: `pip install pyyaml`
+- Valid project directory structure
+
 ## 🤝 **Community and Support**
 
 ### **Getting Help**
