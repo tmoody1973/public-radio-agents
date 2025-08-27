@@ -4,13 +4,19 @@
 .env.development.local
 .env.test.local
 .env.production.local
-*.env
+
+# Allow .env.example files (templates)
+!.env.example
+!**/.env.example
 
 # SaaS Frontend - Node.js and Next.js
 saas-frontend/node_modules/
 saas-frontend/.next/
 saas-frontend/out/
-saas-frontend/.env*
+saas-frontend/.env.local
+saas-frontend/.env.development.local
+saas-frontend/.env.test.local
+saas-frontend/.env.production.local
 saas-frontend/npm-debug.log*
 saas-frontend/yarn-debug.log*
 saas-frontend/yarn-error.log*
