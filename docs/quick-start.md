@@ -132,6 +132,12 @@ Shows all available commands and agents.
 ```
 For open-ended consultation and exploration.
 
+#### 🎉 **Complex Multi-Department Challenges**: Use Party Mode
+```
+*party-mode
+```
+When your challenge spans multiple areas (fundraising + marketing + programming + partnerships), party mode brings all four agents together for collaborative problem-solving.
+
 ## Real-World Quick Start Examples
 
 ### 📊 **Example 1: "Our membership is declining"**
@@ -246,6 +252,43 @@ Now help me design the program scheduling module with FCC compliance logging.
 ```
 
 **Benefit**: Get specialized expertise without leaving your development environment.
+
+### 🎉 **Example 7: "Major strategic initiative requiring all departments"**
+
+**Your Situation**: Planning a capital campaign to fund new studios while maintaining programming and growing audience
+
+```
+*party-mode
+
+We're planning a $500K capital campaign for new studios and equipment. 
+This needs to happen while we launch two new shows, maintain our current 
+membership base, and potentially add corporate sponsors. How do we coordinate 
+all departments to ensure nothing falls through the cracks?
+```
+
+**AI Response**: All four agents collaborate to provide:
+
+**💝 Sarah (Development):**
+- Capital campaign timeline and phases
+- Major gift cultivation strategy  
+- Integration with membership renewal cycles
+
+**📢 Marcus (Marketing):**
+- Campaign brand and messaging strategy
+- Community awareness and excitement building
+- Audience retention during transition period
+
+**🤝 Diana (Underwriting):**  
+- Corporate partnership opportunities tied to campaign
+- Sponsor recognition tied to new facility
+- Business community engagement strategy
+
+**🎙️ Jordan (Programming):**
+- Production continuity during construction
+- New show launch timing coordination
+- Equipment selection for programming needs
+
+**Collaborative Output:** Integrated project plan with cross-departmental coordination, risk mitigation strategies, and success metrics that ensure all goals are achieved simultaneously.
 
 ## Platform-Specific Tips
 

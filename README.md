@@ -6,16 +6,43 @@
 
 > AI-powered management consultants for public radio stations
 
-A specialized adaptation of the [BMAd-Method™](https://github.com/bmad-code-org/BMAD-METHOD/tree/main) framework designed specifically for public radio station management. This system provides four expert AI agents that can assist with development, marketing, underwriting, and programming decisions.
+## The Origin Story
 
-## 🎯 What This System Does
+The Public Radio Agents system emerged from a simple question that led down a fascinating rabbit hole: *What if we could democratize access to expert-level strategic guidance for public radio?*
 
-Transform any Large Language Model (ChatGPT, Claude, Gemini, etc.) into a team of specialized public radio consultants:
+Public radio stations today face unprecedented challenges—managing complex fundraising campaigns, developing audiences in fragmented media landscapes, building corporate partnerships, and making programming decisions—all while operating with skeleton crews and shrinking budgets. Meanwhile, the AI revolution is creating opportunities to access sophisticated expertise that was previously available only to well-funded organizations.
 
-- **Development Director** 💝 - Fundraising strategy, donor relations, membership campaigns
-- **Marketing Director** 📢 - Audience development, brand management, digital marketing  
-- **Underwriting Director** 🤝 - Corporate partnerships, sponsorship sales, business development
-- **Program Director** 🎙️ - Programming strategy, content development, talent management
+The answer became something unexpected: a complete AI-powered management consulting system specifically designed for public radio stations.
+
+## Why This Matters Now
+
+The timing couldn't be more critical. With CPB funding uncertainty and many stations classified as "vulnerable," public radio needs every strategic advantage available. The stations that will survive and thrive are those that can operate more strategically, more efficiently, and with better coordination between departments.
+
+This system doesn't replace human expertise—it amplifies it. A development director can brainstorm campaign strategies, test messaging approaches, and develop donor stewardship plans. Marketing directors can optimize digital campaigns and build audience engagement. Station managers can coordinate complex initiatives across all departments.
+
+## The Open Source Advantage
+
+Here's where this gets revolutionary: **we're making the entire system open source and freely available to the public radio community.**
+
+This represents a new model for how public radio can leverage AI—not as a replacement for human judgment, but as a force multiplier that makes sophisticated strategic thinking accessible to every station, regardless of size or budget.
+
+A specialized adaptation of the [BMAd-Method™](https://github.com/bmad-code-org/BMAD-METHOD/tree/main) framework designed specifically for public radio station management.
+
+## 🎯 Meet Your AI Management Team
+
+Transform any Large Language Model (ChatGPT, Claude, Gemini, etc.) into four specialized public radio consultants, each with deep expertise in critical areas of station management:
+
+**💝 Sarah, the Development Director**  
+Specializes in fundraising strategy, donor relations, membership campaigns, and grant writing. She understands the psychology of public radio giving and develops sophisticated strategies that go far beyond traditional pledge drives.
+
+**📢 Marcus, the Marketing Director**  
+Focuses on audience development, brand management, digital marketing, and community engagement. He knows how to build sustainable audience growth in an increasingly fragmented media landscape.
+
+**🤝 Diana, the Underwriting Director**  
+Expert in corporate partnerships, sponsorship development, and business relationships. She helps stations diversify revenue streams and build meaningful partnerships with local businesses.
+
+**🎙️ Jordan, the Program Director**  
+Handles programming strategy, content development, talent management, and audience research. They understand how to create programming that builds community connection and drives listener loyalty.
 
 ## ⚡ Enhanced with MCP Integration
 
@@ -204,7 +231,34 @@ Goal: $95K with better digital integration and volunteer coordination.
 **💬 Exploration & Learning**
 - `*chat-mode` → Open discussion about challenges
 - `*kb-mode` → Access public radio knowledge base
+- `*party-mode` → All agents collaborate on complex challenges
 - `*help` → See all available options
+
+### 🎉 **Party Mode - Multi-Agent Collaboration**
+
+`*party-mode` brings together all four Public Radio Agents to tackle your most complex challenges:
+
+**Perfect for:**
+- **Strategic planning** that spans multiple departments
+- **Crisis management** requiring coordinated response
+- **Innovation projects** needing diverse expertise
+- **Complex fundraising** combining development, marketing, and underwriting
+- **Station-wide initiatives** affecting programming, audience, and revenue
+
+**How it works:**
+- 💝 **Sarah** (Development) provides fundraising perspective
+- 📢 **Marcus** (Marketing) contributes audience development insights  
+- 🤝 **Diana** (Underwriting) adds corporate partnership strategies
+- 🎙️ **Jordan** (Programming) ensures content quality and compliance
+
+**Example scenarios:**
+```
+*party-mode
+
+"Our station needs to launch a major capital campaign while 
+maintaining programming quality and growing our audience. 
+How do we coordinate all departments for maximum impact?"
+```
 
 ## 📖 Documentation
 
@@ -243,6 +297,14 @@ python3 scripts/build-bundle.py
 ```
 
 **💡 Most users don't need this!** The standard `publicradio.txt` file works perfectly for normal use with ChatGPT, Claude, and other AI services.
+
+## 🌟 The Bigger Picture
+
+This project represents something larger than just a useful tool for public radio stations. It's a proof of concept for how AI can democratize expertise in specialized domains.
+
+The same approach could be applied to other areas of public media: newsroom management, community engagement, digital transformation, or crisis communication. It could be adapted for other mission-driven organizations facing similar challenges.
+
+More fundamentally, it demonstrates how AI can be used not to replace human expertise, but to make that expertise more accessible and actionable for everyone. This is the future of AI in specialized domains—not replacing professionals, but empowering them with instant access to deep, contextual knowledge.
 
 ### Quality Assurance Tools
 ```bash
