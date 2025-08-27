@@ -807,3 +807,111 @@ python3 scripts/validate-dependencies.py
 
 The Public Radio Agents framework is designed to grow and improve with community input. Your feedback and contributions help make it better for all public radio stations.
 
+---
+
+## 🔧 **Understanding the Build Script (For Technical Users)**
+
+### **What is the build-bundle.py Script?**
+
+The `build-bundle.py` script is a tool that creates the complete `publicradio.txt` file from individual agent files and their resources. Think of it like assembling a complete manual from separate chapters.
+
+### **When Do You Need the Build Script?**
+
+**✅ You NEED to use the build script if you want to:**
+- Add new capabilities to existing agents (Development, Marketing, etc.)
+- Create custom templates specific to your station's needs
+- Add specialized knowledge bases for your market or region
+- Modify agent personalities or approaches
+- Create custom workflows for your station's unique processes
+
+**⛔ You DON'T need the build script if you're:**
+- Just using the framework as-is with ChatGPT, Claude, or other AI services
+- Following the quick start guide normally
+- Using the SaaS frontend (it uses the framework automatically)
+
+### **How to Use the Build Script**
+
+**Step 1: Make Sure You Have What You Need**
+- Python 3.6 or newer installed on your computer
+- The PyYAML package: `pip install pyyaml`
+
+**Step 2: Make Your Changes**
+- Edit files in the `agents/` folder to modify agent configurations
+- Add new files in `agents/dependencies/` folders for custom resources
+- Create new templates, checklists, or knowledge files as needed
+
+**Step 3: Run the Build Script**
+```bash
+# From the main project directory
+python3 scripts/build-bundle.py
+```
+
+**Step 4: Test Your Changes**
+- The script creates a new `publicradio.txt` file
+- Upload this file to your AI service (ChatGPT, Claude, etc.)
+- Test that your changes work as expected
+
+### **Real-World Examples**
+
+**Example 1: Adding Local Market Knowledge**
+*Scenario*: You want to add information about your local business community to help with underwriting.
+
+1. Create a new file: `agents/dependencies/underwriting-director/data/local-business-landscape.md`
+2. Add your market-specific information
+3. Update the underwriting agent configuration to reference this file
+4. Run `python3 scripts/build-bundle.py`
+5. Use the new `publicradio.txt` file
+
+**Example 2: Custom Membership Campaign Template**
+*Scenario*: Your station has a unique approach to membership campaigns that works well.
+
+1. Create: `agents/dependencies/development-director/templates/custom-membership-strategy.yaml`
+2. Add your proven template structure
+3. Reference it in the development director's configuration
+4. Run the build script
+5. Now the Development Director knows your specific approach
+
+**Example 3: Regional Compliance Requirements**
+*Scenario*: Your state has specific regulations that agents should know about.
+
+1. Create: `agents/dependencies/program-director/data/state-broadcasting-regulations.md`
+2. Add your state-specific requirements
+3. Update the program director configuration
+4. Build and test
+
+### **Troubleshooting Common Issues**
+
+**"Missing dependency file" errors:**
+- Make sure file paths in agent configurations match actual file names exactly
+- Check that file extensions are correct (.md for text, .yaml for templates)
+
+**"Permission denied" errors:**
+- Make sure you have write permissions in the project directory
+- Try running from the correct directory (the main project folder)
+
+**Build succeeds but changes don't appear:**
+- Verify you're using the newly created `publicradio.txt` file
+- Clear any cached versions in your AI service
+
+### **Quality Assurance**
+
+Always validate your changes:
+```bash
+python3 scripts/validate-dependencies.py
+```
+
+This checks for errors and helps ensure everything is properly connected.
+
+### **Advanced Usage**
+
+**Custom Output Location:**
+```bash
+python3 scripts/build-bundle.py --output my-custom-bundle.txt
+```
+
+**For Development Teams:**
+1. Make changes in a separate branch
+2. Build and test thoroughly
+3. Validate with the validation script
+4. Share with your team for review before merging
+

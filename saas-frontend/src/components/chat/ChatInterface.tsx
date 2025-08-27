@@ -332,3 +332,5 @@ function getAgentIcon(agentId: Agent['id']) {
   };
   return icons[agentId] || '🤖';
 }
+
+export { ChatInterface };

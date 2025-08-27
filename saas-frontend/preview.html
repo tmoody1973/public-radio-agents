@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Public Radio Agents - Preview</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    animation: {
+                        'fade-in': 'fadeIn 0.5s ease-in',
+                        'slide-up': 'slideUp 0.3s ease-out'
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        @keyframes slideUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .message {
+            animation: slideUp 0.3s ease-out;
+        }
+        .typing-indicator::after {
+            content: '';
+            animation: typing 1.4s infinite;
+        }
+        @keyframes typing {
+            0%, 60% { content: ''; }
+            25% { content: '.'; }
+            50% { content: '..'; }
+            75% { content: '...'; }
+        }
+    </style>
+</head>
+<body class="bg-gradient-to-br from-indigo-50 via-white to-blue-50 min-h-screen">
+    <!-- Header -->
+    <header class="bg-white/80 backdrop-blur-md border-b border-gray-200 sticky top-0 z-10">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center py-4">
+                <div class="flex items-center space-x-3">
+                    <div class="w-10 h-10 bg-gradient-to-r from-indigo-600 to-blue-600 rounded-lg flex items-center justify-center">
+                        <span class="text-white font-bold text-lg">📻</span>
+                    </div>
+                    <div>
+                        <h1 class="text-xl font-bold text-gray-900">Public Radio Agents</h1>
+                        <p class="text-sm text-gray-600">AI-Powered Station Management</p>
+                    </div>
+                </div>
+                <div class="text-sm text-gray-600">
+                    <span class="font-medium">Station:</span> Demo Public Radio
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <div class="grid grid-cols-1 lg:grid-cols-4 gap-8">
+            <!-- Agent Sidebar -->
+            <div class="lg:col-span-1">
+                <div class="bg-white rounded-xl shadow-sm border border-gray-200 p-6">
+                    <h2 class="text-lg font-semibold text-gray-900 mb-4">Management Team</h2>
+                    <div class="space-y-3" id="agents">
+                        <!-- Agents will be populated by JavaScript -->
+                    </div>
+                </div>
+
+                <!-- Quick Actions -->
+                <div class="bg-white rounded-xl shadow-sm border border-gray-200 p-6 mt-6">
+                    <h3 class="text-lg font-semibold text-gray-900 mb-4">Quick Actions</h3>
+                    <div class="space-y-2">
+                        <button onclick="sendCommand('*help')" 
+                                class="w-full text-left px-3 py-2 text-sm bg-indigo-50 hover:bg-indigo-100 text-indigo-700 rounded-lg transition-colors">
+                            Show Help
+                        </button>
+                        <button onclick="sendCommand('*status')" 
+                                class="w-full text-left px-3 py-2 text-sm bg-indigo-50 hover:bg-indigo-100 text-indigo-700 rounded-lg transition-colors">
+                            Check Status
+                        </button>
+                        <button onclick="sendCommand('*workflow')" 
+                                class="w-full text-left px-3 py-2 text-sm bg-indigo-50 hover:bg-indigo-100 text-indigo-700 rounded-lg transition-colors">
+                            Start Workflow
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Chat Interface -->
+            <div class="lg:col-span-3">
+                <div class="bg-white rounded-xl shadow-sm border border-gray-200 h-[calc(100vh-200px)] flex flex-col">
+                    <!-- Messages -->
+                    <div class="flex-1 overflow-y-auto p-6" id="messages">
+                        <!-- Initial welcome message -->
+                        <div class="message mb-6 flex items-start space-x-3">
+                            <div class="w-8 h-8 bg-gradient-to-r from-indigo-600 to-blue-600 rounded-full flex items-center justify-center flex-shrink-0">
+                                <span class="text-white text-sm">🎭</span>
+                            </div>
+                            <div class="flex-1 bg-gray-50 rounded-lg p-4">
+                                <div class="prose prose-sm max-w-none">
+                                    <h3>🎭 Welcome to Public Radio Agents!</h3>
+                                    <p>I'm your Public Radio Orchestrator, ready to help with your station management needs.</p>
+                                    
+                                    <p><strong>Available Commands:</strong></p>
+                                    <ul>
+                                        <li><code>*help</code> - See all available commands and agents</li>
+                                        <li><code>*agent [name]</code> - Switch to a specialist agent</li>
+                                        <li><code>*workflow [name]</code> - Start a structured workflow</li>
+                                    </ul>
+                                    
+                                    <p><strong>Quick Start:</strong></p>
+                                    <ul>
+                                        <li>Type <code>*help</code> to explore all capabilities</li>
+                                        <li>Ask general questions about public radio management</li>
+                                        <li>Use commands (starting with *) for specialized assistance</li>
+                                    </ul>
+                                    
+                                    <p>How can I help your station today? 🎵</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Input -->
+                    <div class="border-t border-gray-200 p-4">
+                        <div class="flex space-x-4">
+                            <input type="text" 
+                                   id="messageInput"
+                                   placeholder="Type a message or command (*help, *agent, *workflow)..."
+                                   class="flex-1 px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent"
+                                   onkeypress="handleKeyPress(event)">
+                            <button onclick="sendMessage()" 
+                                    class="px-6 py-2 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition-colors">
+                                Send
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        // Mock agents data
+        const agents = [
+            {
+                id: 'development-director',
+                name: 'Sarah Chen',
+                title: 'Development Director',
+                icon: '💝',
+                description: 'Fundraising, membership campaigns, major gifts, and donor stewardship'
+            },
+            {
+                id: 'marketing-director', 
+                name: 'Marcus Rodriguez',
+                title: 'Marketing Director',
+                icon: '📢',
+                description: 'Marketing strategy, community engagement, and brand development'
+            },
+            {
+                id: 'underwriting-director',
+                name: 'Diana Kim',
+                title: 'Underwriting Director', 
+                icon: '🤝',
+                description: 'Corporate partnerships, sponsorships, and business development'
+            },
+            {
+                id: 'program-director',
+                name: 'Jordan Taylor',
+                title: 'Program Director',
+                icon: '🎙️', 
+                description: 'Programming strategy, content development, and broadcast operations'
+            }
+        ];
+
+        // Mock responses for demo
+        const mockResponses = {
+            '*help': {
+                content: `🎭 **Public Radio Orchestrator** - Available Commands:
+
+**👥 Agent Commands**
+• \`*agent development-director\` - Fundraising expert (Sarah)
+• \`*agent marketing-director\` - Marketing expert (Marcus)  
+• \`*agent underwriting-director\` - Corporate partnerships (Diana)
+• \`*agent program-director\` - Programming expert (Jordan)
+
+**🔄 Workflow Commands**
+• \`*workflow annual-planning\` - Comprehensive planning
+• \`*workflow membership-campaign\` - Membership drives
+• \`*workflow program-launch\` - New programming
+
+**💬 Utility Commands**
+• \`*chat-mode\` - General consultation
+• \`*status\` - Check current progress
+• \`*exit\` - Return to orchestrator
+
+Type a command (starting with *) to get started!`,
+                agentId: 'orchestrator'
+            },
+            '*status': {
+                content: `**📊 Current Status:**
+• **Active Agent**: Public Radio Orchestrator 🎭
+• **Mode**: Command interface
+• **Available**: 4 specialist agents, 6 workflows
+
+Use \`*help\` to see all available commands.`,
+                agentId: 'orchestrator'
+            },
+            '*workflow': {
+                content: `**🔄 Available Workflows:**
+
+1. **annual-planning** - Comprehensive strategic planning
+2. **membership-campaign** - Plan membership drives  
+3. **underwriting-campaign** - Corporate partnership campaigns
+4. **program-launch** - New program development
+5. **special-event** - Special event planning
+6. **crisis-response** - Crisis management planning
+
+Use: \`*workflow [name]\` to start a workflow.`,
+                agentId: 'orchestrator'
+            },
+            '*agent development-director': {
+                content: `🎭 **Transforming to Development Director...**
+
+💝 **Sarah Chen - Development Director**
+
+Hello! I'm Sarah, your Development Director. I specialize in:
+
+• **Individual Giving Programs** - Building sustainable donor relationships
+• **Major Gifts Strategy** - Securing transformational donations  
+• **Membership Campaigns** - Growing your listener support base
+• **Grant Writing** - Securing foundation and government funding
+• **Special Events** - Creating engaging fundraising experiences
+
+**Current Focus Areas:**
+- Donor retention and stewardship
+- Digital fundraising integration
+- Community partnership development
+- Planned giving programs
+
+What development challenge can I help you tackle today?`,
+                agentId: 'development-director'
+            }
+        };
+
+        // Initialize agents in sidebar
+        function initializeAgents() {
+            const agentsContainer = document.getElementById('agents');
+            agents.forEach(agent => {
+                const agentDiv = document.createElement('div');
+                agentDiv.className = 'p-3 rounded-lg bg-gray-50 hover:bg-gray-100 transition-colors cursor-pointer';
+                agentDiv.onclick = () => sendCommand(`*agent ${agent.id}`);
+                agentDiv.innerHTML = `
+                    <div class="flex items-center space-x-3">
+                        <span class="text-2xl">${agent.icon}</span>
+                        <div class="flex-1 min-w-0">
+                            <p class="font-medium text-gray-900 truncate">${agent.name}</p>
+                            <p class="text-sm text-gray-600 truncate">${agent.title}</p>
+                        </div>
+                    </div>
+                `;
+                agentsContainer.appendChild(agentDiv);
+            });
+        }
+
+        // Send command
+        function sendCommand(command) {
+            document.getElementById('messageInput').value = command;
+            sendMessage();
+        }
+
+        // Handle key press
+        function handleKeyPress(event) {
+            if (event.key === 'Enter') {
+                sendMessage();
+            }
+        }
+
+        // Send message
+        function sendMessage() {
+            const input = document.getElementById('messageInput');
+            const message = input.value.trim();
+            if (!message) return;
+
+            // Add user message
+            addMessage(message, 'user');
+            input.value = '';
+
+            // Show typing indicator
+            showTypingIndicator();
+
+            // Simulate response delay
+            setTimeout(() => {
+                hideTypingIndicator();
+                handleResponse(message);
+            }, 1000 + Math.random() * 1000);
+        }
+
+        // Add message to chat
+        function addMessage(content, role, agentId = 'orchestrator') {
+            const messagesContainer = document.getElementById('messages');
+            const messageDiv = document.createElement('div');
+            messageDiv.className = 'message mb-6 flex items-start space-x-3';
+
+            const isUser = role === 'user';
+            const agentInfo = agents.find(a => a.id === agentId);
+            const agentIcon = agentInfo ? agentInfo.icon : (isUser ? '👤' : '🎭');
+            const agentColor = isUser ? 'bg-indigo-600' : 'bg-gradient-to-r from-indigo-600 to-blue-600';
+
+            messageDiv.innerHTML = `
+                <div class="w-8 h-8 ${agentColor} rounded-full flex items-center justify-center flex-shrink-0">
+                    <span class="text-white text-sm">${agentIcon}</span>
+                </div>
+                <div class="flex-1 ${isUser ? 'bg-indigo-50' : 'bg-gray-50'} rounded-lg p-4">
+                    ${isUser ? `<p class="text-gray-900">${content}</p>` : `<div class="prose prose-sm max-w-none">${formatResponse(content)}</div>`}
+                </div>
+            `;
+
+            messagesContainer.appendChild(messageDiv);
+            messagesContainer.scrollTop = messagesContainer.scrollHeight;
+        }
+
+        // Format response with markdown-like styling
+        function formatResponse(content) {
+            return content
+                .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+                .replace(/`(.*?)`/g, '<code class="bg-gray-200 px-1 rounded">$1</code>')
+                .replace(/• /g, '<li>')
+                .replace(/\n/g, '<br>')
+                .replace(/<li>/g, '</p><li>')
+                .replace(/^/, '<p>')
+                .replace(/$/, '</p>')
+                .replace(/<p><\/p>/g, '');
+        }
+
+        // Show typing indicator
+        function showTypingIndicator() {
+            const messagesContainer = document.getElementById('messages');
+            const typingDiv = document.createElement('div');
+            typingDiv.id = 'typing-indicator';
+            typingDiv.className = 'mb-6 flex items-start space-x-3';
+            typingDiv.innerHTML = `
+                <div class="w-8 h-8 bg-gradient-to-r from-indigo-600 to-blue-600 rounded-full flex items-center justify-center flex-shrink-0">
+                    <span class="text-white text-sm">🎭</span>
+                </div>
+                <div class="flex-1 bg-gray-50 rounded-lg p-4">
+                    <span class="text-gray-500 typing-indicator">Thinking</span>
+                </div>
+            `;
+            messagesContainer.appendChild(typingDiv);
+            messagesContainer.scrollTop = messagesContainer.scrollHeight;
+        }
+
+        // Hide typing indicator
+        function hideTypingIndicator() {
+            const typingIndicator = document.getElementById('typing-indicator');
+            if (typingIndicator) {
+                typingIndicator.remove();
+            }
+        }
+
+        // Handle response
+        function handleResponse(message) {
+            let response = mockResponses[message];
+            
+            if (!response) {
+                // Check for agent commands
+                const agentMatch = message.match(/\*agent\s+(.+)/);
+                if (agentMatch) {
+                    const agentKey = `*agent ${agentMatch[1]}`;
+                    response = mockResponses[agentKey];
+                }
+                
+                if (!response) {
+                    // Default response for non-command messages
+                    response = {
+                        content: `Thank you for your message: "${message}"
+
+I'm currently running in **demo mode** without API connectivity. In the full version, I would:
+
+• Process your request using the Public Radio framework
+• Provide detailed guidance based on your station's needs
+• Access specialized knowledge bases and templates
+• Coordinate with appropriate specialist agents
+
+**To see my capabilities, try these commands:**
+• \`*help\` - View all available commands
+• \`*agent development-director\` - Switch to fundraising expert
+• \`*workflow membership-campaign\` - Start a membership drive workflow
+
+This demo shows the interface and command structure. The full system integrates with ChatGPT, Claude, or other LLMs for complete functionality.`,
+                        agentId: 'orchestrator'
+                    };
+                }
+            }
+
+            addMessage(response.content, 'assistant', response.agentId);
+        }
+
+        // Initialize the app
+        document.addEventListener('DOMContentLoaded', () => {
+            initializeAgents();
+            document.getElementById('messageInput').focus();
+        });
+    </script>
+</body>
+</html>

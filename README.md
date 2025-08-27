@@ -224,7 +224,25 @@ Goal: $95K with better digital integration and volunteer coordination.
 - [Customization Guide](docs/customization.md) - Adapt the system to your needs
 - [MCP Integration Guide](docs/mcp-integration.md) - Connect your station's data for enhanced insights
 
-## 🔧 Development and Validation
+## 🔧 Development and Customization
+
+### Build Script for Custom Modifications
+
+The `build-bundle.py` script is for public radio professionals who want to customize the framework for their specific station needs.
+
+**When you might use this:**
+- Adding local market information (business landscape, community partnerships)
+- Creating custom templates that match your station's processes  
+- Modifying agent personalities to reflect your station's culture
+- Adding specialized knowledge for your region or format
+
+**Basic usage:**
+```bash
+# After making changes to agent files, rebuild the framework
+python3 scripts/build-bundle.py
+```
+
+**💡 Most users don't need this!** The standard `publicradio.txt` file works perfectly for normal use with ChatGPT, Claude, and other AI services.
 
 ### Quality Assurance Tools
 ```bash
