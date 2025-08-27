@@ -1,6 +1,11 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![GitHub stars](https://img.shields.io/github/stars/tmoody1973/public-radio-agents)
 ![GitHub forks](https://img.shields.io/github/forks/tmoody1973/public-radio-agents)
+![GitHub issues](https://img.shields.io/github/issues/tmoody1973/public-radio-agents)
+![GitHub last commit](https://img.shields.io/github/last-commit/tmoody1973/public-radio-agents)
+![GitHub repo size](https://img.shields.io/github/repo-size/tmoody1973/public-radio-agents)
+![GitHub language count](https://img.shields.io/github/languages/count/tmoody1973/public-radio-agents)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tmoody1973.public-radio-agents)
 
 # Public Radio Agents 📻
 

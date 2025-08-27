@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this framework in your research or station operations, please cite it as below."
+type: software
+title: "Public Radio Agents: AI-Powered Management Team for Public Radio Stations"
+version: 2.0.0
+date-released: 2024-08-27
+url: "https://github.com/tmoody1973/public-radio-agents"
+repository-code: "https://github.com/tmoody1973/public-radio-agents"
+abstract: "A specialized AI framework providing four expert management consultants (Development, Marketing, Underwriting, and Programming) designed specifically for public radio station operations. Built on the BMAd-Method framework to democratize access to strategic expertise for stations of all sizes."
+keywords:
+  - "public radio"
+  - "artificial intelligence"
+  - "management consulting"
+  - "fundraising"
+  - "nonprofit management"
+  - "AI agents"
+  - "broadcast management"
+authors:
+  - family-names: "Moody"
+    given-names: "Tarik"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+license: MIT
